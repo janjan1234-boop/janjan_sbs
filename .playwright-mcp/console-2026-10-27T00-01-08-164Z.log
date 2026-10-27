@@ -1,0 +1,2 @@
+[    1725ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://www.monami.co.kr/familyShop/images/close.png:0
+[  458459ms] [LOG] %cWebsocket close was unclean: 1006 color: #E8910C @ https://script.hotjar.com/modules.fe0d6537f87c9cb831d4.js:1
