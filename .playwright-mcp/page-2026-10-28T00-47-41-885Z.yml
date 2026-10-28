@@ -1,0 +1,41 @@
+- generic [active] [ref=f7e1]:
+  - banner [ref=f7e3]:
+    - generic [ref=f7e4]:
+      - generic [ref=f7e5]:
+        - button "KOR arrow_drop_down" [ref=f7e7]:
+          - generic [ref=f7e8]: KOR
+          - generic [ref=f7e9]: arrow_drop_down
+        - list [ref=f7e11]:
+          - listitem [ref=f7e12]:
+            - link [ref=f7e13] [cursor=pointer]:
+              - /url: https://www.facebook.com/monami1960
+              - img "페이스북" [ref=f7e14]
+          - listitem [ref=f7e15]:
+            - link [ref=f7e16] [cursor=pointer]:
+              - /url: https://www.instagram.com/monami_official/
+              - img "인스타그램" [ref=f7e17]
+          - listitem [ref=f7e18]:
+            - link [ref=f7e19] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UC7lJDw-5bYXnAGNHh1uUG3A
+              - img "유튜브" [ref=f7e20]
+      - list [ref=f7e23]:
+        - listitem [ref=f7e24]:
+          - link "#":
+            - /url: "#"
+          - text: HOME
+        - listitem [ref=f7e25]:
+          - link "#":
+            - /url: "#"
+          - text: SITE MAP
+        - listitem [ref=f7e26]:
+          - link "#":
+            - /url: "#"
+          - text: CONTACT US
+    - generic [ref=f7e28]:
+      - heading "로고박스" [level=1] [ref=f7e29]
+      - navigation [ref=f7e30]:
+        - list [ref=f7e31]: 유틸메뉴
+  - main [ref=f7e32]:
+    - generic [ref=f7e33]: 콘텐츠
+  - contentinfo [ref=f7e34]:
+    - generic [ref=f7e35]: 하단
