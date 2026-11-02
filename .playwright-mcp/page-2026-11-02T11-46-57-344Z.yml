@@ -1,0 +1,558 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr
+          - img "29CM" [ref=e7]
+        - navigation [ref=e9]:
+          - list [ref=e10]:
+            - listitem [ref=e11]:
+              - link [ref=e12] [cursor=pointer]:
+                - /url: https://www.29cm.co.kr/my-page
+            - listitem [ref=e17]:
+              - link [ref=e18] [cursor=pointer]:
+                - /url: https://www.29cm.co.kr/my-page/heart/product
+            - listitem [ref=e22]:
+              - link [ref=e23] [cursor=pointer]:
+                - /url: https://www.29cm.co.kr/order/cart
+            - listitem [ref=e27]:
+              - link [ref=e28] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e32]:
+              - button "로그인/회원가입" [ref=e33] [cursor=pointer]
+    - navigation [ref=e35]:
+      - list [ref=e37]:
+        - listitem [ref=e38]:
+          - link "Special-Order" [ref=e39] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/store/special-order
+        - listitem [ref=e40]:
+          - link "Showcase" [ref=e41] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/store/showcase
+        - listitem [ref=e42]:
+          - link "PT" [ref=e43] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/store/pt?Z25i
+        - listitem [ref=e44]:
+          - link "29Magazine" [ref=e45] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/content/29magazine
+      - list [ref=e47]:
+        - listitem [ref=e48]:
+          - link "BEST" [ref=e49] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/best-products
+        - listitem [ref=e52]:
+          - generic [ref=e53]: WOMEN
+        - listitem [ref=e55]:
+          - generic [ref=e56]: MEN
+        - listitem [ref=e58]:
+          - generic [ref=e59]: INTERIOR
+        - listitem [ref=e61]:
+          - generic [ref=e62]: KITCHEN
+        - listitem [ref=e64]:
+          - generic [ref=e65]: ELECTRONICS
+        - listitem [ref=e67]:
+          - generic [ref=e68]: DIGITAL
+        - listitem [ref=e70]:
+          - generic [ref=e71]: BEAUTY
+        - listitem [ref=e73]:
+          - generic [ref=e74]: FOOD
+        - listitem [ref=e76]:
+          - generic [ref=e77]: LEISURE
+        - listitem [ref=e79]:
+          - generic [ref=e80]: KIDS
+        - listitem [ref=e82]:
+          - generic [ref=e83]: TICKET
+        - listitem [ref=e85]:
+          - generic [ref=e86]: CULTURE
+        - listitem [ref=e88]:
+          - generic [ref=e89]: EARTH
+        - listitem [ref=e92]:
+          - link "Event" [ref=e93] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/store/event
+        - listitem [ref=e94]:
+          - link "Lookbook" [ref=e95] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/store/lookbook
+  - main [ref=e96]:
+    - generic [ref=e98]:
+      - separator [ref=e99]
+      - separator [ref=e100]
+      - list [ref=e102]:
+        - link [ref=e103] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/category-collection/2026/10/winter-warming-up
+          - img "얼리윈터(잡화/헤비아우터메인)" [ref=e107]
+        - link [ref=e108] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7251
+          - img "FOETO" [ref=e112]
+        - link [ref=e113] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/category-collection/2026/11/monthly-kids
+          - img "키즈취향" [ref=e117]
+        - link [ref=e118] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/category-collection/2026/10/winter-29-noop-house
+          - img "29 눕하우스" [ref=e122]
+        - link [ref=e123] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/29-showcaseplus/2026/11/poloralphlauren
+          - img "POLO RALPH LAUREN" [ref=e127]
+        - link [ref=e128] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/brand-news/77561
+          - img "kittybunnypony" [ref=e132]
+        - link [ref=e133] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/29-limited-order/2026/11/subu-silicagel
+          - img "SUBU" [ref=e137]
+        - link [ref=e138] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7266
+          - img "RAWUMBER" [ref=e142]
+        - link [ref=e143] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7268
+          - img "AUBOUR" [ref=e147]
+        - link [ref=e148] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/special/2026/10/wkndrs3
+          - img "WKNDRS" [ref=e152]
+        - link [ref=e153] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/products/4318723
+          - img "FINCA" [ref=e157]
+        - link [ref=e158] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7221
+          - img "HUEMI" [ref=e162]
+        - link [ref=e163] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7031
+          - img "PoeteSeoul" [ref=e167]
+        - link [ref=e168] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7207
+          - img "LOW CLASSIC" [ref=e172]
+        - link [ref=e173] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/products/4321043
+          - img "EASTLOGUE PERMANENT" [ref=e177]
+        - link [ref=e178] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/focus/2026/10/27/oggitt
+          - img "OGGITT" [ref=e182]
+        - link [ref=e183] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/29-showcaseplus/2026/10/nilbyp
+          - img "NILBY P" [ref=e187]
+        - link [ref=e188] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/29-limited-order/2026/10/maxim
+          - img "MAXIM" [ref=e192]
+        - link [ref=e193] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/brand-event/2026/10/26/newbalance
+          - img "NEW BALANCE" [ref=e197]
+        - link [ref=e198] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7156
+          - img "NOMELET" [ref=e202]
+        - link [ref=e203] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/29edition/2026/10/matinkim
+          - img "MATIN KIM" [ref=e207]
+      - generic [ref=e209]:
+        - grid [ref=e210]:
+          - gridcell [ref=e211]:
+            - generic [ref=e213]:
+              - link [ref=e215] [cursor=pointer]:
+                - /url: https://www.29cm.co.kr/content/collection/29356?product_sort=best
+                - generic [ref=e216]:
+                  - img "겨울에 앞서" [ref=e218]
+                  - generic [ref=e219]:
+                    - paragraph [ref=e220]: 겨울에 앞서
+                    - paragraph [ref=e221]: 던스트, 노운베러, 르의 컬렉션을 단독으로 먼저 만나보세요.
+              - list [ref=e222]:
+                - listitem [ref=e223]:
+                  - link [ref=e225] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/2960683
+                    - button "vintage fur half coat (beige) 겨울준비 르 vintage fur half coat (beige) 64% 143,280 3,200 쿠폰 2.4만" [ref=e226]:
+                      - generic [ref=e227]:
+                        - img "vintage fur half coat (beige)" [ref=e229]
+                        - generic [ref=e230]: 겨울준비
+                      - generic [ref=e231]:
+                        - generic [ref=e232]:
+                          - paragraph [ref=e233]: 르
+                          - paragraph [ref=e234]: vintage fur half coat (beige)
+                          - generic [ref=e235]:
+                            - generic [ref=e236]:
+                              - paragraph [ref=e237]: 64%
+                              - paragraph [ref=e238]: 143,280
+                            - generic "3,200" [ref=e239]
+                        - generic [ref=e246]: 쿠폰
+                      - button [ref=e248]:
+                        - paragraph [ref=e252]: 2.4만
+                - listitem [ref=e253]:
+                  - link [ref=e255] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/3599047
+                    - button "[29CM 단독] wool double-breasted coat (melange gray) 겨울준비 르 [29CM 단독] wool double-breasted coat (melange gray) 65% 171,470 3,200 쿠폰 단독 1.7만" [ref=e256]:
+                      - generic [ref=e257]:
+                        - img "[29CM 단독] wool double-breasted coat (melange gray)" [ref=e259]
+                        - generic [ref=e260]: 겨울준비
+                      - generic [ref=e261]:
+                        - generic [ref=e262]:
+                          - paragraph [ref=e263]: 르
+                          - paragraph [ref=e264]: "[29CM 단독] wool double-breasted coat (melange gray)"
+                          - generic [ref=e265]:
+                            - generic [ref=e266]:
+                              - paragraph [ref=e267]: 65%
+                              - paragraph [ref=e268]: 171,470
+                            - generic "3,200" [ref=e269]
+                        - generic [ref=e276]:
+                          - generic [ref=e277]: 쿠폰
+                          - generic [ref=e278]: 단독
+                      - button [ref=e279]:
+                        - paragraph [ref=e283]: 1.7만
+                - listitem [ref=e284]:
+                  - link [ref=e286] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/4137222
+                    - button "Loose fit merino wool knit [KNFW06KN03]_Light gray 겨울준비 노운베러 Loose fit merino wool knit [KNFW06KN03]_Light gray 32% 66,550 쿠폰 조건부 무료배송 1.2만" [ref=e287]:
+                      - generic [ref=e288]:
+                        - img "Loose fit merino wool knit [KNFW06KN03]_Light gray" [ref=e290]
+                        - generic [ref=e291]: 겨울준비
+                      - generic [ref=e292]:
+                        - generic [ref=e293]:
+                          - paragraph [ref=e294]: 노운베러
+                          - paragraph [ref=e295]: Loose fit merino wool knit [KNFW06KN03]_Light gray
+                          - generic [ref=e297]:
+                            - paragraph [ref=e298]: 32%
+                            - paragraph [ref=e299]: 66,550
+                        - generic [ref=e300]:
+                          - generic [ref=e301]: 쿠폰
+                          - generic [ref=e302]: 조건부 무료배송
+                      - button [ref=e303]:
+                        - paragraph [ref=e307]: 1.2만
+          - gridcell [ref=e308]:
+            - generic [ref=e310]:
+              - link [ref=e312] [cursor=pointer]:
+                - /url: https://www.29cm.co.kr/content/29-showcaseplus/2026/10/nilbyp?cache=true
+                - generic [ref=e313]:
+                  - img "같은 하루 다른 빛" [ref=e315]
+                  - generic [ref=e316]:
+                    - paragraph [ref=e317]: 같은 하루 다른 빛
+                    - paragraph [ref=e318]: 익숙한 풍경 위로 매 순간 새롭게 스며드는 닐바이피를 같이 구경해요.
+              - list [ref=e319]:
+                - listitem [ref=e320]:
+                  - link [ref=e322] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/4324895
+                    - button "Hooded shearling suede mustang Brown [N6WLJK03] 닐바이피 Hooded shearling suede mustang Brown [N6WLJK03] 20% 319,100 쿠폰 조건부 무료배송 신상품 184" [ref=e323]:
+                      - img "Hooded shearling suede mustang Brown [N6WLJK03]" [ref=e326]
+                      - generic [ref=e327]:
+                        - generic [ref=e328]:
+                          - paragraph [ref=e329]: 닐바이피
+                          - paragraph [ref=e330]: Hooded shearling suede mustang Brown [N6WLJK03]
+                          - generic [ref=e332]:
+                            - paragraph [ref=e333]: 20%
+                            - paragraph [ref=e334]: 319,100
+                        - generic [ref=e335]:
+                          - generic [ref=e336]: 쿠폰
+                          - generic [ref=e337]: 조건부 무료배송
+                          - generic [ref=e338]: 신상품
+                      - button [ref=e339]:
+                        - paragraph [ref=e343]: "184"
+                - listitem [ref=e344]:
+                  - link [ref=e346] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/4327604
+                    - button "Natural roll-neck wool pullover Charcoal [N6WKT01] 닐바이피 Natural roll-neck wool pullover Charcoal [N6WKT01] 23% 121,640 쿠폰 조건부 무료배송 신상품 40" [ref=e347]:
+                      - img "Natural roll-neck wool pullover Charcoal [N6WKT01]" [ref=e350]
+                      - generic [ref=e351]:
+                        - generic [ref=e352]:
+                          - paragraph [ref=e353]: 닐바이피
+                          - paragraph [ref=e354]: Natural roll-neck wool pullover Charcoal [N6WKT01]
+                          - generic [ref=e356]:
+                            - paragraph [ref=e357]: 23%
+                            - paragraph [ref=e358]: 121,640
+                        - generic [ref=e359]:
+                          - generic [ref=e360]: 쿠폰
+                          - generic [ref=e361]: 조건부 무료배송
+                          - generic [ref=e362]: 신상품
+                      - button [ref=e363]:
+                        - paragraph [ref=e367]: "40"
+                - listitem [ref=e368]:
+                  - link [ref=e370] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/4327760
+                    - button "Cashmere high-neck belted handmade coat Charcoal [N6AHCT02] 닐바이피 Cashmere high-neck belted handmade coat Charcoal [N6AHCT02] 23% 247,100 쿠폰 조건부 무료배송 신상품 396" [ref=e371]:
+                      - img "Cashmere high-neck belted handmade coat Charcoal [N6AHCT02]" [ref=e374]
+                      - generic [ref=e375]:
+                        - generic [ref=e376]:
+                          - paragraph [ref=e377]: 닐바이피
+                          - paragraph [ref=e378]: Cashmere high-neck belted handmade coat Charcoal [N6AHCT02]
+                          - generic [ref=e380]:
+                            - paragraph [ref=e381]: 23%
+                            - paragraph [ref=e382]: 247,100
+                        - generic [ref=e383]:
+                          - generic [ref=e384]: 쿠폰
+                          - generic [ref=e385]: 조건부 무료배송
+                          - generic [ref=e386]: 신상품
+                      - button [ref=e387]:
+                        - paragraph [ref=e391]: "396"
+          - gridcell [ref=e392]:
+            - generic [ref=e394]:
+              - link [ref=e396] [cursor=pointer]:
+                - /url: https://www.29cm.co.kr/content/showcase/7187
+                - generic [ref=e397]:
+                  - img "낯선 방 속 소녀의 상상" [ref=e399]
+                  - generic [ref=e400]:
+                    - paragraph [ref=e401]: 낯선 방 속 소녀의 상상
+                    - paragraph [ref=e402]: 순수함과 대담함 사이를 오가는 던스트의 이야기를 같이 구경해요.
+              - list [ref=e403]:
+                - listitem [ref=e404]:
+                  - link [ref=e406] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/3529813
+                    - button "UNISEX ZIP-UP FLEECE SWEATSHIRT CHARCOAL GREY_UDJU6D135CG 겨울준비 던스트 UNISEX ZIP-UP FLEECE SWEATSHIRT CHARCOAL GREY_UDJU6D135CG 19% 104,170 쿠폰 조건부 무료배송 7.4천" [ref=e407]:
+                      - generic [ref=e408]:
+                        - img "UNISEX ZIP-UP FLEECE SWEATSHIRT CHARCOAL GREY_UDJU6D135CG" [ref=e410]
+                        - generic [ref=e411]: 겨울준비
+                      - generic [ref=e412]:
+                        - generic [ref=e413]:
+                          - paragraph [ref=e414]: 던스트
+                          - paragraph [ref=e415]: UNISEX ZIP-UP FLEECE SWEATSHIRT CHARCOAL GREY_UDJU6D135CG
+                          - generic [ref=e417]:
+                            - paragraph [ref=e418]: 19%
+                            - paragraph [ref=e419]: 104,170
+                        - generic [ref=e420]:
+                          - generic [ref=e421]: 쿠폰
+                          - generic [ref=e422]: 조건부 무료배송
+                      - button [ref=e423]:
+                        - paragraph [ref=e427]: 7.4천
+                - listitem [ref=e428]:
+                  - link [ref=e430] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/4269321
+                    - button "UNISEX HALF ZIP-UP FLEECE SWEATSHIRT CANDY PINK_UDJU6D136P1 겨울준비 던스트 UNISEX HALF ZIP-UP FLEECE SWEATSHIRT CANDY PINK_UDJU6D136P1 15% 109,650 쿠폰 조건부 무료배송 신상품 1.5천" [ref=e431]:
+                      - generic [ref=e432]:
+                        - img "UNISEX HALF ZIP-UP FLEECE SWEATSHIRT CANDY PINK_UDJU6D136P1" [ref=e434]
+                        - generic [ref=e435]: 겨울준비
+                      - generic [ref=e436]:
+                        - generic [ref=e437]:
+                          - paragraph [ref=e438]: 던스트
+                          - paragraph [ref=e439]: UNISEX HALF ZIP-UP FLEECE SWEATSHIRT CANDY PINK_UDJU6D136P1
+                          - generic [ref=e441]:
+                            - paragraph [ref=e442]: 15%
+                            - paragraph [ref=e443]: 109,650
+                        - generic [ref=e444]:
+                          - generic [ref=e445]: 쿠폰
+                          - generic [ref=e446]: 조건부 무료배송
+                          - generic [ref=e447]: 신상품
+                      - button [ref=e448]:
+                        - paragraph [ref=e452]: 1.5천
+                - listitem [ref=e453]:
+                  - link [ref=e455] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/4284622
+                    - button "FLUFFY FUR JACKET CAMEL_UDJU6D223CM 겨울준비 던스트 FLUFFY FUR JACKET CAMEL_UDJU6D223CM 16% 310,550 쿠폰 조건부 무료배송 신상품 646" [ref=e456]:
+                      - generic [ref=e457]:
+                        - img "FLUFFY FUR JACKET CAMEL_UDJU6D223CM" [ref=e459]
+                        - generic [ref=e460]: 겨울준비
+                      - generic [ref=e461]:
+                        - generic [ref=e462]:
+                          - paragraph [ref=e463]: 던스트
+                          - paragraph [ref=e464]: FLUFFY FUR JACKET CAMEL_UDJU6D223CM
+                          - generic [ref=e466]:
+                            - paragraph [ref=e467]: 16%
+                            - paragraph [ref=e468]: 310,550
+                        - generic [ref=e469]:
+                          - generic [ref=e470]: 쿠폰
+                          - generic [ref=e471]: 조건부 무료배송
+                          - generic [ref=e472]: 신상품
+                      - button [ref=e473]:
+                        - paragraph [ref=e477]: "646"
+          - gridcell [ref=e478]:
+            - generic [ref=e480]:
+              - link [ref=e482] [cursor=pointer]:
+                - /url: https://www.29cm.co.kr/content/29-showcaseplus/2026/11/poloralphlauren?cache=true
+                - generic [ref=e483]:
+                  - img "계절의 결을 따라" [ref=e485]
+                  - generic [ref=e486]:
+                    - paragraph [ref=e487]: 계절의 결을 따라
+                    - paragraph [ref=e488]: 폴로 랄프 로렌이 변함없는 우아함을 전해요.
+              - list [ref=e489]:
+                - listitem [ref=e490]:
+                  - link [ref=e492] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/4339972
+                    - button "여성 케이블 울 캐시미어 퍼퍼 재킷(WMPOOTWN2820456200) 폴로 랄프 로렌 여성 케이블 울 캐시미어 퍼퍼 재킷(WMPOOTWN2820456200) 1,050,000 조건부 무료배송 신상품 단독 100" [ref=e493]:
+                      - img "여성 케이블 울 캐시미어 퍼퍼 재킷(WMPOOTWN2820456200)" [ref=e496]
+                      - generic [ref=e497]:
+                        - generic [ref=e498]:
+                          - paragraph [ref=e499]: 폴로 랄프 로렌
+                          - paragraph [ref=e500]: 여성 케이블 울 캐시미어 퍼퍼 재킷(WMPOOTWN2820456200)
+                          - paragraph [ref=e503]: 1,050,000
+                        - generic [ref=e504]:
+                          - generic [ref=e505]: 조건부 무료배송
+                          - generic [ref=e506]: 신상품
+                          - generic [ref=e507]: 단독
+                      - button [ref=e508]:
+                        - paragraph [ref=e512]: "100"
+                - listitem [ref=e513]:
+                  - link [ref=e515] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/4344843
+                    - button "여성 케이블 울 캐시미어 퍼퍼 재킷(WMPOOTWN2820455410) 폴로 랄프 로렌 여성 케이블 울 캐시미어 퍼퍼 재킷(WMPOOTWN2820455410) 1,050,000 조건부 무료배송 신상품 단독 71" [ref=e516]:
+                      - img "여성 케이블 울 캐시미어 퍼퍼 재킷(WMPOOTWN2820455410)" [ref=e519]
+                      - generic [ref=e520]:
+                        - generic [ref=e521]:
+                          - paragraph [ref=e522]: 폴로 랄프 로렌
+                          - paragraph [ref=e523]: 여성 케이블 울 캐시미어 퍼퍼 재킷(WMPOOTWN2820455410)
+                          - paragraph [ref=e526]: 1,050,000
+                        - generic [ref=e527]:
+                          - generic [ref=e528]: 조건부 무료배송
+                          - generic [ref=e529]: 신상품
+                          - generic [ref=e530]: 단독
+                      - button [ref=e531]:
+                        - paragraph [ref=e535]: "71"
+                - listitem [ref=e536]:
+                  - link [ref=e538] [cursor=pointer]:
+                    - /url: https://www.29cm.co.kr/product/catalog/4344844
+                    - button "여성 미드 웨이트 다운 퍼퍼 재킷(WMPOOTWN2820433201) 폴로 랄프 로렌 여성 미드 웨이트 다운 퍼퍼 재킷(WMPOOTWN2820433201) 739,000 조건부 무료배송 신상품 단독 69" [ref=e539]:
+                      - img "여성 미드 웨이트 다운 퍼퍼 재킷(WMPOOTWN2820433201)" [ref=e542]
+                      - generic [ref=e543]:
+                        - generic [ref=e544]:
+                          - paragraph [ref=e545]: 폴로 랄프 로렌
+                          - paragraph [ref=e546]: 여성 미드 웨이트 다운 퍼퍼 재킷(WMPOOTWN2820433201)
+                          - paragraph [ref=e549]: 739,000
+                        - generic [ref=e550]:
+                          - generic [ref=e551]: 조건부 무료배송
+                          - generic [ref=e552]: 신상품
+                          - generic [ref=e553]: 단독
+                      - button [ref=e554]:
+                        - paragraph [ref=e558]: "69"
+          - gridcell [ref=e559]:
+            - link [ref=e560] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/content/category-collection/2026/10/movensweat-2nd?cache=true
+          - gridcell [ref=e563]:
+            - link [ref=e564] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/content/category-collection/2026/10/beauty?cache=true
+        - generic:
+          - status
+      - generic [ref=e568]:
+        - separator [ref=e570]
+        - separator [ref=e571]
+        - generic [ref=e572]:
+          - separator [ref=e574]
+          - button "더보기" [ref=e575] [cursor=pointer]
+  - contentinfo [ref=e582]:
+    - generic [ref=e583]:
+      - generic [ref=e584]:
+        - generic [ref=e585]:
+          - generic [ref=e586]: 고객센터 1660-2929
+          - generic [ref=e587]: "운영시간 : 평일 09:00 ~ 18:00 (점심시간 12:00 ~ 13:00 제외)"
+        - generic [ref=e588]:
+          - link "instagram" [ref=e589] [cursor=pointer]:
+            - /url: https://instagram.com/29cm.official
+          - link "youtube" [ref=e594] [cursor=pointer]:
+            - /url: https://www.youtube.com/@29CM
+          - link "apple" [ref=e597] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/29cm/id789634744
+          - link "google playstore" [ref=e600] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.the29cm.app29cm
+      - separator [ref=e604]
+      - list [ref=e606]:
+        - listitem [ref=e607]:
+          - generic [ref=e608]:
+            - heading "NOTICE" [level=2] [ref=e609]
+            - list [ref=e610]:
+              - listitem [ref=e611]:
+                - link "[공지] 현대카드 M포인트 사용 서비스 종료 안내" [ref=e612] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/cscenter/notice/notice-list?notice_no=123415&notice_type=official
+              - listitem [ref=e614]:
+                - link "[무신사스토어/29CM/솔드아웃] 무신사 통합 서비스 이용약관 개정 안내(10/28 시행)" [ref=e615] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/cscenter/notice/notice-list?notice_no=123339&notice_type=official
+              - listitem [ref=e617]:
+                - link "[공지] 현대카드 PIN번호 결제 서비스 종료 안내" [ref=e618] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/cscenter/notice/notice-list?notice_no=122357&notice_type=official
+              - listitem [ref=e620]:
+                - link "[공지] 10월 공휴일 배송지연 안내" [ref=e621] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/cscenter/notice/notice-list?notice_no=122063&notice_type=official
+              - listitem [ref=e623]:
+                - link "[무신사스토어/29CM/솔드아웃] 무신사 통합 서비스 이용약관 개정 안내(11/1 시행)" [ref=e624] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/cscenter/notice/notice-list?notice_no=121975&notice_type=official
+        - listitem [ref=e626]:
+          - generic [ref=e627]:
+            - heading "ABOUT US" [level=2] [ref=e628]
+            - list [ref=e629]:
+              - listitem [ref=e630]:
+                - link "회사 소개" [ref=e631] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/content/about/2026
+              - listitem [ref=e633]:
+                - link "인재채용" [ref=e634] [cursor=pointer]:
+                  - /url: https://corp.musinsa.com/ko/career/
+              - listitem [ref=e636]:
+                - link "상시 할인 혜택" [ref=e637] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/content/promotion/benefit-guide
+        - listitem [ref=e639]:
+          - generic [ref=e640]:
+            - heading "MY ORDER" [level=2] [ref=e641]
+            - list [ref=e642]:
+              - listitem [ref=e643]:
+                - link "주문배송" [ref=e644] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/list
+              - listitem [ref=e646]:
+                - link "취소/교환/반품 내역" [ref=e647] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/cs-history
+              - listitem [ref=e649]:
+                - link "상품리뷰 내역" [ref=e650] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/review
+              - listitem [ref=e652]:
+                - link "증빙서류발급" [ref=e653] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/receipt
+        - listitem [ref=e655]:
+          - generic [ref=e656]:
+            - heading "MY ACCOUNT" [level=2] [ref=e657]
+            - list [ref=e658]:
+              - listitem [ref=e659]:
+                - link "회원정보수정" [ref=e660] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/my-page/account/edit
+              - listitem [ref=e662]:
+                - link "나의 멤버십 등급" [ref=e663] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/grade
+              - listitem [ref=e665]:
+                - link "적립금 현황" [ref=e666] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/mileage
+              - listitem [ref=e668]:
+                - link "쿠폰" [ref=e669] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/coupon
+        - listitem [ref=e671]:
+          - generic [ref=e672]:
+            - heading "HELP" [level=2] [ref=e673]
+            - list [ref=e674]:
+              - listitem [ref=e675]:
+                - link "입점 및 제휴 문의" [ref=e676] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/customer/contact-us
+              - listitem [ref=e678]:
+                - link "상품 Q&A내역" [ref=e679] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/cscenter/qna/qna-product-list
+              - listitem [ref=e681]:
+                - link "공지사항" [ref=e682] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/cscenter/notice/notice-list
+              - listitem [ref=e684]:
+                - link "고객의 소리" [ref=e685] [cursor=pointer]:
+                  - /url: https://www.29cm.co.kr/order/my-order/cscenter/voc
+      - separator [ref=e687]
+    - generic [ref=e689]:
+      - generic [ref=e690]:
+        - link "개인정보 처리방침" [ref=e691] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/terms/one-member/privacy-policy
+        - generic [ref=e692]: "|"
+        - link "이용약관" [ref=e693] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/terms/agreement
+        - generic [ref=e694]: "|"
+        - link "분쟁해결기준" [ref=e695] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/terms/dispute-resolution-standard
+        - generic [ref=e696]: "|"
+        - link "안전거래센터" [ref=e697] [cursor=pointer]:
+          - /url: https://trust.musinsa.com
+        - generic [ref=e698]: "|"
+        - link "결제대행 위탁사" [ref=e699] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/terms/payment-agency
+      - generic [ref=e700]:
+        - generic [ref=e701]:
+          - generic [ref=e702]: "상호명: (주)무신사"
+          - generic [ref=e703]: "사업장소재지: 서울특별시 성동구 아차산로 13길 11, 1층 (성수동2가, 무신사캠퍼스 N1)"
+          - generic [ref=e704]: "팩스: 070-8622-7737"
+          - generic [ref=e705]: "사업자등록번호: 211-88-79575"
+          - generic [ref=e706]:
+            - text: "통신판매업신고: 2022-서울성동-01952"
+            - link "사업자정보확인" [ref=e707] [cursor=pointer]:
+              - /url: https://www.ftc.go.kr/bizCommPop.do?wrkr_no=2118879575&apv_perm_no=
+          - generic [ref=e708]:
+            - text: "전화번호:"
+            - link "1660-2929" [ref=e709] [cursor=pointer]:
+              - /url: tel:1660-2929
+          - generic [ref=e710]:
+            - text: "이메일:"
+            - link "customer@29cm.co.kr" [ref=e711] [cursor=pointer]:
+              - /url: mailto:customer@29cm.co.kr
+          - generic [ref=e712]: "대표: 조만호, 조남성"
+          - generic [ref=e713]: "호스팅서비스: (주)무신사"
+        - generic [ref=e714]: 일부 상품의 경우 29CM는 통신판매의 당사자가 아닌 통신판매중개자로서 상품, 상품정보, 거래에 대한 책임이 제한될 수 있으므로, 각 상품 페이지에서 구체적인 내용을 확인하시기 바랍니다.
+        - generic [ref=e715]:
+          - text: 당사는 고객님이 현금 결제한 금액에 대해 우리은행과 채무지급보증 계약을 체결하여 안전거래를 보장하고 있습니다.
+          - link "서비스 가입 사실 확인" [ref=e716] [cursor=pointer]:
+            - /url: https://image.msscdn.net/static/common/payment_guarantee.html
+  - alert [ref=e717]
+  - iframe

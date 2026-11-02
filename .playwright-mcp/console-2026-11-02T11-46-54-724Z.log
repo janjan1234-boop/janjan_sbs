@@ -1,0 +1,19 @@
+[     639ms] [LOG] %cstart%c 
+    ,▄▄,       ,▄▄▄_        _,▄▄▄,_  ,,_          ,,
+  ██▀▀▀▀██   ▄██▀▀▀██▌   ,▓██▀▀▀▀▀██▌███▌       ╓███M
+ ╝█Ñ    ▐██ ╫█▌     ╟█▌ ▄██"         ██▀██▄    ▓████M
+       ,██▀ ╙██     ▓█▌▐██           ██⌐ ▀██ ▄██Γ ██M
+     ╓██▀    ╙███████▀ ▐█▌           ██⌐  ╙███▀   ██M
+   ▄██▀          ███    ██▄          ██⌐    ▀"    ██M
+ ▄███▄,,,,,    ╓██"      ▀██▄,___,▄█▌██⌐          ██M
+ ▀▀▀▀▀▀▀▀▀▀   ª▀▀          ╙▀▀███▀▀" ▀▀           ▀▀─
+ 
+👋 We Are Hiring! [ https://www.29cmcareers.co.kr ] 👋
+📝 29CM Tech      [    https://medium.com/29cm    ] 📝 
+      background: #00BCD4;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      @ https://cdn-resource-microservice.29cm.co.kr/home/v1/_next/static/chunks/5538-30cb8004fff18f38.js:14
+[    1512ms] [WARNING] [Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications. @ https://cdn-resource-microservice.29cm.co.kr/home/v1/_next/static/chunks/5538-30cb8004fff18f38.js:14

@@ -1,0 +1,266 @@
+*{
+    /* 기본 여백 초기화 */
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-ExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-display: swap;
+}
+/* 기본 설정 초기화 */
+font{
+    font-family: 'Pretendard', sans-serif;
+    font-size: 16px;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+ ul, li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+button{
+    border: none;
+    background-color: transparent;
+}
+
+/* 상단 설정 */
+.topbar{
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 100%;
+    min-width: 1350px;
+    height: auto;
+    background-color: #fff;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 48px;
+    padding-right: 48px;
+    border-bottom: 1px solid #ddd;
+}
+/* 상단 첫번째 */
+.tophead{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logobox{
+    height: 28px;
+    display: flex;
+    align-items: center;
+    background-color: #fff
+}
+.logobox > a{
+    display:flex;
+    align-items: center;}
+
+.tophead-right{
+    gap: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tophead-right > ul {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.tophead-right > ul > li {
+  height: auto;
+}
+
+.tophead-right > ul > li > a {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 10px;
+  line-height: 12px;
+  font-weight: 600;
+}
+
+.tophead-right > ul > li > a > img {
+  display: block;
+  width: 18px;
+  height: 18px;
+}
+
+.login-btn{
+   font-size: 11px; 
+   font-weight: 600;
+   /* width는 약 94px이나 마진에 맞추는게 더 자연스러운 거 같아 설정함.*/
+   /* padding을 일일이 적기엔 너무 길어서 줄임으로 사용 */
+   padding: 6px 10px;
+   height: 28px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #1f1f1f;
+   /* 버튼 스타일 */
+   background-color: #fff;
+   border-radius: 4px;
+   border: 1px solid #ddd;
+   cursor: pointer;
+   box-sizing: border-box;
+}
+/* 상단 두번째 */
+.topgnb{
+    height: 48px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+}
+.topgnb > ul{
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    font-size: 40px;
+    color: #1f1f1f;
+    font-weight: 600;
+}
+.topgnb > ul > li{
+    height: 100%;
+}
+
+.topgnb > ul > li > a::after{
+    content: "";
+    display: block;
+    width: 100%;
+    height: 6px;
+    background-color: #1f1f1f;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
+
+.topgnb > ul > li > a:hover::after{
+    opacity: 1;
+}
+
+.search{
+    width: 44px;
+    height: 44px;
+    cursor: pointer;
+}
+.search > a img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+/* 상단 3번째 */
+.topnav{
+    height: 28px;
+    display: flex;
+    justify-content: left;
+    margin-top:26px;
+}
+.topnav > ul{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 20px;
+    font-weight: 600;
+}
+
+.topnav-left > li > a::after{
+    content: "";
+    display: block;
+    width: 100%;
+    height: 4px;
+    background-color: #1f1f1f;
+    transition: 0.1s ease-in-out;
+    opacity: 0;
+}
+
+.topnav-left > li > a:hover::after{
+    opacity: 1;
+}
+
+.topnav-right{
+    margin-left: 20px;
+}
+
+.topnav-right::before{
+    content: "";
+    display: inline-block;
+    width: 2px;
+    height: 18px;
+    background-color: #ddd;
+    margin-right: 4px;
+}
+.topnav-right > li > a{
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    color:rgb(31 31 31)
+}
