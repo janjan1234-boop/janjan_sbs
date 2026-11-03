@@ -3,13 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./image/29cm-favicon.ico">
+    <!-- 파비콘 넣는 방법을 찾아서 기쁘다. 20261103 -->
     <link rel="stylesheet" href="./style.css">
     <title>모든 취향 곁에, 29CM</title>
 </head>
 <body>
     <header>
         <div class="topbar">
-           <div class="tophead">
+           <div class="con tophead">
                 <h1 class="logobox">
                     <a href="https://www.29cm.co.kr/">
                         <img src="./image/logo-29cm.svg" alt="29CM 로고이미지">
@@ -24,7 +26,7 @@
                     </ul>
                 </div>
             </div>
-           <div class="topgnb">
+           <div class="con topgnb">
             <ul>
                 <li><a href="https://www.29cm.co.kr/store/special-order">
                     Special-Order</a></li>
@@ -40,7 +42,8 @@
                 </a>
                 </div>
            </div>
-           <div class="topnav">
+           <!-- div를 웹접근성을 위해 nav로 변경 20261103 -->
+           <nav class="con topnav">
             <ul class="topnav-left">
                 <li><a href="#">BEST</a></li>
                 <li><a href="#">WOMEN</a></li>
@@ -61,12 +64,15 @@
                 <li><a href="#">Event</a></li>
                 <li><a href="#">Lookbook</a></li>
             </ul>
-           </div>
+        </nav>
         </div>
     </header>
-    <main>
-        <!-- <div class="leftcon">text</div>
-        <div class="rightcon">text</div> -->
+    <main class="con main">
+       <aside class="main_left_con">test</aside>
+       <section class="main_right_con">
+            <div class="main_right_con1">test</div>
+            <div class="main_right_con2">test</div>
+        </section>
     </main>
     <footer>
 
