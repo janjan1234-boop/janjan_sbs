@@ -71,7 +71,7 @@
 body{
     color: #000;
     font-size: 16px;
-    background-color: gray;
+    background-color: #fff;
     margin: 0; padding: 0;
 }
 
@@ -93,12 +93,19 @@ ul > li{
     list-style: none;
 }
 
+button{
+    margin: 0;
+    padding: 0;
+    border: none; 
+    background-color: transparent;
+    cursor: pointer;
+}
+
 /* 공통요소 */
 .con{
     margin: 0 auto;
     width: 1400px;
     min-width: 1400px;
-    background-color: gray;
 }
 
 .headbar{
@@ -107,6 +114,11 @@ ul > li{
     align-items: center;
     height: 70px;
     background-color: rgba(255, 255, 255, 0.5);
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
 }
 
 .headbar-left{
@@ -123,6 +135,7 @@ ul > li{
 .logobox > a > img{
     width: 155px;
     height: 100%;
+    overflow: hidden;
 }
 
 .gnb > ul{
@@ -136,4 +149,114 @@ ul > li{
 
 .gnb > ul > li > a:hover{
     color: rgba(0,0,0,0.6);
-} 
+}
+
+.headbar-right > ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headbar-right > ul > li{
+    padding: 0 14px;
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+    height: 478px;
+    background-image:url(./image/banner-01-desktop.webp);
+    background-size: cover;
+    position: relative;
+}
+
+#leftbtn{
+    color: rgba(0,0,0,0.2);
+    position: absolute;
+    left: 30px;
+    
+}
+.banner-text{
+    padding-left: 140px;
+}
+.banner-text_date{
+    color: rgba(0,0,0,0.5);
+    font-size: 14px;
+}
+.banner-text_title{
+    color: rgb(0,0,0);
+    font-size: 26px;
+    font-weight: 500;
+}
+.banner-text_sub{
+    color: rgb(0,0,0);
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.banner-text > span{
+    text-decoration: underline;
+    color: rgba(0,0,0,0.5);
+    font-size: 12px;
+    cursor: pointer;
+
+}
+#rightbtn{
+    color: rgba(0,0,0,0.2);
+    position: absolute;
+    right: 30px;
+}
+
+.titlebar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0;
+    margin-top: 20px;
+}
+
+.titlebar p{
+    font-size: 25px;
+    font-weight: 600;
+}
+.titlebar a{
+    text-decoration: underline;
+    color: rgba(0,0,0,0.6);
+    font-size: 14px;
+
+}
+.thumlist{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+.thum img{
+    width: 340px;
+    height: 340px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.thum-title{
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10 0;
+}
+.thum-cost_original{
+    text-decoration: line-through;
+    font-size: 13px;
+    color: rgba(0,0,0,0.6);
+    margin: 0;
+    padding: 6px 0;
+}
+.thum-sale{
+    color: #ff5a5f;
+    font-weight: 700;
+}
+.thum-cost{
+    color: #2d2d2d;
+    font-weight: 700;
+    padding-bottom: 12px;
+}
+
