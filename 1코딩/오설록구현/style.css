@@ -127,4 +127,13 @@ ul > li{
 
 .gnb > ul{
     display: flex;
+    padding: 15px 0;
 }
+
+.gnb > ul >li{
+    margin: 0 30px;
+} 
+
+.gnb > ul > li > a:hover{
+    color: rgba(0,0,0,0.6);
+} 

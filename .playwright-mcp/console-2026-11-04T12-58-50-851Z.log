@@ -1,0 +1,6 @@
+[     351ms] [LOG] IMQAMpmAgent javascript init @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[     351ms] [LOG] [IMQA Bridge] cannot connect @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[    1255ms] [ERROR] Framing 'https://t1.kakaocdn.net/' violates the following Content Security Policy directive: "frame-src 'self' https://postcode.map.kakao.com https://www.facebook.com *.iamport.kr *.osulloc.com https://kn.acrosspf.com https://kn.acrosspf.com *.doubleclick.net *.criteo.com https://t1.daumcdn.net https://www.googletagmanager.com player.vimeo.com". The request has been blocked.
+ @ https://t1.daumcdn.net/:0
+[    8677ms] ReferenceError: ga is not defined
+    at window.onload (https://www.osulloc.com/:1657:14)
