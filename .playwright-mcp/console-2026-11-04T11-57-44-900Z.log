@@ -8,3 +8,37 @@
  @ https://cdn.megadata.co.kr/:0
 [    3572ms] ReferenceError: ga is not defined
     at window.onload (https://www.osulloc.com/:1657:14)
+[ 1847704ms] [LOG] IMQAMpmAgent javascript init @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[ 1847704ms] [LOG] [IMQA Bridge] cannot connect @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[ 1848375ms] [ERROR] Framing 'https://t1.kakaocdn.net/' violates the following Content Security Policy directive: "frame-src 'self' https://postcode.map.kakao.com https://www.facebook.com *.iamport.kr *.osulloc.com https://kn.acrosspf.com https://kn.acrosspf.com *.doubleclick.net *.criteo.com https://t1.daumcdn.net https://www.googletagmanager.com player.vimeo.com". The request has been blocked.
+ @ https://t1.daumcdn.net/:0
+[ 1848929ms] [WARNING] [Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications. @ https://www.datadoghq-browser-agent.com/us1/v7/datadog-rum.js:0
+[ 1849564ms] ReferenceError: ga is not defined
+    at window.onload (https://www.osulloc.com/kr/ko/shop/item/list:1668:14)
+[ 1853909ms] [LOG] IMQAMpmAgent javascript init @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[ 1853909ms] [LOG] [IMQA Bridge] cannot connect @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[ 1854507ms] [ERROR] Framing 'https://t1.kakaocdn.net/' violates the following Content Security Policy directive: "frame-src 'self' https://postcode.map.kakao.com https://www.facebook.com *.iamport.kr *.osulloc.com https://kn.acrosspf.com https://kn.acrosspf.com *.doubleclick.net *.criteo.com https://t1.daumcdn.net https://www.googletagmanager.com player.vimeo.com". The request has been blocked.
+ @ https://t1.daumcdn.net/:0
+[ 1855101ms] [WARNING] [Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications. @ https://www.datadoghq-browser-agent.com/us1/v7/datadog-rum.js:0
+[ 1855459ms] ReferenceError: ga is not defined
+    at window.onload (https://www.osulloc.com/kr/ko/life/event/view/12413:1646:14)
+[ 1865084ms] [LOG] IMQAMpmAgent javascript init @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[ 1865085ms] [LOG] [IMQA Bridge] cannot connect @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[ 1865563ms] [ERROR] Framing 'https://t1.kakaocdn.net/' violates the following Content Security Policy directive: "frame-src 'self' https://postcode.map.kakao.com https://www.facebook.com *.iamport.kr *.osulloc.com https://kn.acrosspf.com https://kn.acrosspf.com *.doubleclick.net *.criteo.com https://t1.daumcdn.net https://www.googletagmanager.com player.vimeo.com". The request has been blocked.
+ @ https://t1.daumcdn.net/:0
+[ 1866045ms] [WARNING] [Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications. @ https://www.datadoghq-browser-agent.com/us1/v7/datadog-rum.js:0
+[ 1869945ms] ReferenceError: ga is not defined
+    at window.onload (https://www.osulloc.com/kr/ko/shop/item/gift_new:1623:14)
+[ 1875417ms] [LOG] IMQAMpmAgent javascript init @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[ 1875417ms] [LOG] [IMQA Bridge] cannot connect @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[ 1875853ms] [ERROR] Framing 'https://t1.kakaocdn.net/' violates the following Content Security Policy directive: "frame-src 'self' https://postcode.map.kakao.com https://www.facebook.com *.iamport.kr *.osulloc.com https://kn.acrosspf.com https://kn.acrosspf.com *.doubleclick.net *.criteo.com https://t1.daumcdn.net https://www.googletagmanager.com player.vimeo.com". The request has been blocked.
+ @ https://t1.daumcdn.net/:0
+[ 1876303ms] [WARNING] [Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications. @ https://www.datadoghq-browser-agent.com/us1/v7/datadog-rum.js:0
+[ 1876684ms] ReferenceError: ga is not defined
+    at window.onload (https://www.osulloc.com/kr/ko/magazine:1607:14)
+[ 2124853ms] [LOG] IMQAMpmAgent javascript init @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[ 2124853ms] [LOG] [IMQA Bridge] cannot connect @ https://image.osulloc.com/kr/ko/static_renew/js/webview-agent.js:0
+[ 2125231ms] [ERROR] Framing 'https://t1.kakaocdn.net/' violates the following Content Security Policy directive: "frame-src 'self' https://postcode.map.kakao.com https://www.facebook.com *.iamport.kr *.osulloc.com https://kn.acrosspf.com https://kn.acrosspf.com *.doubleclick.net *.criteo.com https://t1.daumcdn.net https://www.googletagmanager.com player.vimeo.com". The request has been blocked.
+ @ https://t1.daumcdn.net/:0
+[ 2126027ms] ReferenceError: ga is not defined
+    at window.onload (https://www.osulloc.com/kr/ko:1657:14)
