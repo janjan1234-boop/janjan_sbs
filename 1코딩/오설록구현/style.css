@@ -69,6 +69,8 @@
     font-display: swap;
 }
 body{
+    font-family: 'PretendardVariable', sans-serif;
+    /* 폰트 패밀리 추가 20261105 */
     color: #000;
     font-size: 16px;
     background-color: #fff;
@@ -87,9 +89,14 @@ a{
 
 img{
     display: block;
+    background-color: transparent;
+    /* 이미지 배경색 기본 투명 설정 추가 20261105 */
 }
 
-ul > li{
+ul, li{
+    margin: 0;
+    padding: 0;
+    /* m0, p0 초기 설정 추가 20261105 */
     list-style: none;
 }
 
@@ -99,17 +106,23 @@ button{
     border: none; 
     background-color: transparent;
     cursor: pointer;
+    font-family: 'PretendardVariable', sans-serif;
+    /* 버튼 초기화에 폰트패밀리 추가 20261105 */
 }
 
 /* 공통요소 */
 .con{
     margin: 0 auto;
+    /* w1400을 전체화면으로 바꿈 20261105 */
     width: 1400px;
     min-width: 1400px;
+    box-sizing: border-box;
+    display: flex;
+    /* display: flex; 추가 20261105 */
 }
 
-.headbar{
-    display: flex;
+/* .headbar{
+    /* display: flex;
     justify-content: space-between;
     align-items: center;
     height: 70px;
@@ -118,7 +131,23 @@ button{
     top: 0;
     left: 50%;
     transform: translateX(-50%);
+    z-index: 1000;} */
+
+.headbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    background-color: rgba(255, 255, 255, 0.5);
     z-index: 1000;
+}
+/* beadbar에 con class 제거 후 하위에 con header-inner을
+만들어 글자 레이아웃은 유지하되 뒷 배경은 전체배경이 되도록 수정 20261105*/
+.header-inner {
+    height: 100%;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .headbar-left{
@@ -130,6 +159,8 @@ button{
     width: 166px;
     height: 100%;
     box-sizing: content-box;
+    margin-right: 50px;
+    /* 로고와 nav가 붙어있는 느낌이 있어서 우측 마진 추가 20261105 */
 }
 
 .logobox > a > img{
@@ -144,7 +175,8 @@ button{
 }
 
 .gnb > ul >li{
-    margin: 0 30px;
+    margin: 0 37px;
+    /* 정답에는 gap:34px;을 줬지만 나는 padding을 사용한 걸 발견, 수치만 변경해보았다. 20261105 */
 } 
 
 .gnb > ul > li > a:hover{
@@ -163,52 +195,68 @@ button{
 
 .banner{
     display: flex;
-    align-items: center;
-    height: 478px;
+    height: 622px;
     background-image:url(./image/banner-01-desktop.webp);
     background-size: cover;
     position: relative;
 }
 
-#leftbtn{
-    color: rgba(0,0,0,0.2);
-    position: absolute;
-    left: 30px;
+.bannerin{
+    align-items: center;
+    justify-content: space-between;
     
 }
+#leftbtn{
+    color: rgba(0,0,0,0.2);
+    /* left를 con padding에 맞추기 위해 수정 */   
+}
+
+#rightbtn{
+    color: rgba(0,0,0,0.2);
+
+    /* right를 con padding에 맞추기 위해 수정 */
+}
+
 .banner-text{
-    padding-left: 140px;
+    /* padding-left: 150px; 20261105제거 대신 w80%로 수정*/
+    width: 80%;
 }
 .banner-text_date{
     color: rgba(0,0,0,0.5);
-    font-size: 14px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    /* 폰트사이즈, 웨이트 수정 20261105 */
 }
 .banner-text_title{
     color: rgb(0,0,0);
-    font-size: 26px;
+    font-size: 30px;
+    margin-bottom: 30px;
+    /* 폰트사이즈 수정 20261105 */
     font-weight: 500;
 }
 .banner-text_sub{
     color: rgb(0,0,0);
     font-size: 14px;
     margin-top: 10px;
-    margin-bottom: 30px;
+    font-weight: 400;
+    margin-bottom: 60px;
 }
 .banner-text > span{
     text-decoration: underline;
     color: rgba(0,0,0,0.5);
-    font-size: 12px;
+    font-size: 14px;
+    /* 글자가 너무 작아서 수정 20261105 */
     cursor: pointer;
 
 }
-#rightbtn{
-    color: rgba(0,0,0,0.2);
-    position: absolute;
-    right: 30px;
+.BEST_NEW {
+    flex-direction: column;
 }
-
+/* con으로 인한 flex(가로정렬)을  .BEST_NEW {
+    flex-direction: column;로 세로 정렬로 변경20261105*/
 .titlebar{
-    display: flex;
+    display: inline-flex;
     justify-content: space-between;
     align-items: center;
     padding: 30px 0;
@@ -236,6 +284,8 @@ button{
     height: 340px;
     object-fit: cover;
     overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.03);
+    /* thum 이미지 배경색 추가 20261105*/
 }
 
 .thum-title{
