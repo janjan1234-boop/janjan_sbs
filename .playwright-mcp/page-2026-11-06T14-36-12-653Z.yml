@@ -1,0 +1,694 @@
+- generic [active] [ref=f69e1]:
+  - generic:
+    - link:
+      - /url: https://brand.naver.com/osulloc
+    - link:
+      - /url: https://www.instagram.com/osulloc_official/
+    - link:
+      - /url: https://www.youtube.com/channel/UC27q_WWuOkdyNIr7M_6trvA
+  - generic [ref=f69e2]:
+    - link "본문 바로가기" [ref=f69e3] [cursor=pointer]:
+      - /url: "#container"
+    - link "주메뉴 바로가기" [ref=f69e4] [cursor=pointer]:
+      - /url: "#gnb"
+  - banner [ref=f69e5]:
+    - generic [ref=f69e6]:
+      - heading [level=1] [ref=f69e7]:
+        - link [ref=f69e8] [cursor=pointer]:
+          - /url: /kr/ko
+          - img "오설록" [ref=f69e9]
+      - navigation [ref=f69e10]:
+        - list [ref=f69e11]:
+          - listitem [ref=f69e12]:
+            - paragraph [ref=f69e13]:
+              - link "제품" [ref=f69e14] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/shop/item/list
+            - list [ref=f69e15]:
+              - listitem [ref=f69e16]:
+                - link "티 제품" [ref=f69e17] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=teashop
+                - list [ref=f69e18]:
+                  - listitem [ref=f69e19]:
+                    - link "베스트" [ref=f69e20] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list/best/sale
+                  - listitem [ref=f69e21]:
+                    - link "티 세트" [ref=f69e22] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=teashop&line=198
+                  - listitem [ref=f69e23]:
+                    - link "녹차" [ref=f69e24] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=teashop&line=197
+                  - listitem [ref=f69e25]:
+                    - link "발효차/홍차" [ref=f69e26] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=teashop&line=249
+                  - listitem [ref=f69e27]:
+                    - link "블렌디드티" [ref=f69e28] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=teashop&line=196
+                  - listitem [ref=f69e29]:
+                    - link "허브티" [ref=f69e30] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=teashop&line=195
+                  - listitem [ref=f69e31]:
+                    - link "말차/밀크티" [ref=f69e32] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=teashop&cate=matcha_milk
+                  - listitem [ref=f69e33]:
+                    - link "콤부차/콜드브루 티" [ref=f69e34] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=teashop&cate=kom_coldbrew
+              - listitem [ref=f69e35]:
+                - link "티푸드" [ref=f69e36] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=bakery
+                - list [ref=f69e37]:
+                  - listitem [ref=f69e38]:
+                    - link "과자/초콜릿" [ref=f69e39] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=bakery&line=174
+                  - listitem [ref=f69e40]:
+                    - link "베이커리" [ref=f69e41] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=bakery&line=178
+              - listitem [ref=f69e42]:
+                - link "라이프스타일" [ref=f69e43] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=themashop
+                - list [ref=f69e44]:
+                  - listitem [ref=f69e45]:
+                    - link "티웨어" [ref=f69e46] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/teawareshop
+                  - listitem [ref=f69e47]:
+                    - link "스킨케어" [ref=f69e48] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=themashop&line=202
+                  - listitem [ref=f69e49]:
+                    - link "정기배송" [ref=f69e50] [cursor=pointer]:
+                      - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=teashop&line=228
+          - listitem [ref=f69e51]:
+            - paragraph [ref=f69e52]:
+              - link [ref=f69e53] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/life/event/view/12413
+                - strong [ref=f69e54]: 블랙프라이데이
+          - listitem [ref=f69e55]:
+            - paragraph [ref=f69e56]:
+              - link "기프트" [ref=f69e57] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/shop/item/gift_new
+          - listitem [ref=f69e58]:
+            - paragraph [ref=f69e59]:
+              - link [ref=f69e60] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/magazine
+                - strong [ref=f69e61]: 티 라이프
+            - list [ref=f69e62]:
+              - listitem [ref=f69e63]:
+                - link [ref=f69e64] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/ko/magazine
+                  - strong [ref=f69e65]: 오설록 매거진
+              - listitem [ref=f69e66]:
+                - link "오설록 헤리티지" [ref=f69e67] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/ko/brandstory
+              - listitem [ref=f69e68]:
+                - link "제주 티뮤지엄" [ref=f69e69] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/ko/store-introduction/2
+              - listitem [ref=f69e70]:
+                - link "티샵과 티하우스" [ref=f69e71] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/ko/store-introduction
+          - listitem [ref=f69e72]:
+            - paragraph [ref=f69e73]:
+              - link "단체 및 기업 구매" [ref=f69e74] [cursor=pointer]:
+                - /url: https://osulloc.biz/
+      - generic [ref=f69e75]:
+        - button "검색 열기" [ref=f69e77] [cursor=pointer]
+        - link [ref=f69e80] [cursor=pointer]:
+          - /url: https://www.osulloc.com/kr/ko/shop/cart
+        - link "이벤트" [ref=f69e81] [cursor=pointer]:
+          - /url: /kr/ko/life/event/list/ing
+        - link "로그인" [ref=f69e82] [cursor=pointer]:
+          - /url: https://www.osulloc.com/kr/ko/login?r=https://www.osulloc.com/
+  - generic [ref=f69e83]:
+    - generic [ref=f69e84]:
+      - button "검색영역 닫기" [ref=f69e85] [cursor=pointer]
+      - generic [ref=f69e87]:
+        - textbox "1년 만에 돌아온 블랙프라이데이! 매일 하루특가 45%" [ref=f69e88]
+        - button "검색하기" [ref=f69e89] [cursor=pointer]
+    - generic [ref=f69e91]:
+      - generic [ref=f69e92]:
+        - heading "인기 검색어" [level=3] [ref=f69e94]
+        - list [ref=f69e95]:
+          - listitem [ref=f69e96]:
+            - generic [ref=f69e97]: "1"
+            - emphasis [ref=f69e98] [cursor=pointer]: 무화과 쇼콜라
+          - listitem [ref=f69e100]:
+            - generic [ref=f69e101]: "2"
+            - emphasis [ref=f69e102] [cursor=pointer]: 무카페인
+          - listitem [ref=f69e104]:
+            - generic [ref=f69e105]: "3"
+            - emphasis [ref=f69e106] [cursor=pointer]: 말차
+          - listitem [ref=f69e108]:
+            - generic [ref=f69e109]: "4"
+            - emphasis [ref=f69e110] [cursor=pointer]: 호지차
+          - listitem [ref=f69e112]:
+            - generic [ref=f69e113]: "5"
+            - emphasis [ref=f69e114] [cursor=pointer]: 세작
+          - listitem [ref=f69e116]:
+            - generic [ref=f69e117]: "6"
+            - emphasis [ref=f69e118] [cursor=pointer]: 마롱
+          - listitem [ref=f69e120]:
+            - generic [ref=f69e121]: "7"
+            - emphasis [ref=f69e122] [cursor=pointer]: 쉐이커
+            - generic [ref=f69e123]: NEW
+          - listitem [ref=f69e124]:
+            - generic [ref=f69e125]: "8"
+            - emphasis [ref=f69e126] [cursor=pointer]: 꿀배
+            - generic [ref=f69e127]: NEW
+          - listitem [ref=f69e128]:
+            - generic [ref=f69e129]: "9"
+            - emphasis [ref=f69e130] [cursor=pointer]: 쇼콜라
+            - generic [ref=f69e131]: NEW
+          - listitem [ref=f69e132]:
+            - generic [ref=f69e133]: "10"
+            - emphasis [ref=f69e134] [cursor=pointer]: 텀블러
+      - generic [ref=f69e136]:
+        - generic [ref=f69e137]:
+          - heading "최근 검색어" [level=3] [ref=f69e138]
+          - button "전체삭제" [ref=f69e139] [cursor=pointer]
+        - list [ref=f69e140]:
+          - listitem [ref=f69e141]: 최근 검색어가 없습니다.
+      - generic [ref=f69e142]:
+        - list
+  - complementary [ref=f69e143]:
+    - button "메뉴 닫기" [ref=f69e144] [cursor=pointer]
+    - link "로그인" [ref=f69e148] [cursor=pointer]:
+      - /url: https://www.osulloc.com/kr/ko/login?r=https://www.osulloc.com/
+    - list [ref=f69e150]:
+      - listitem [ref=f69e151]:
+        - link "제품" [ref=f69e152] [cursor=pointer]:
+          - /url: https://www.osulloc.com/kr/ko/shop/item/list
+      - listitem [ref=f69e153]:
+        - link [ref=f69e154] [cursor=pointer]:
+          - /url: https://www.osulloc.com/kr/ko/life/event/view/12413
+          - strong [ref=f69e155]: 블랙프라이데이
+      - listitem [ref=f69e156]:
+        - link "기프트" [ref=f69e157] [cursor=pointer]:
+          - /url: https://www.osulloc.com/kr/ko/shop/item/gift_new
+      - listitem [ref=f69e158]:
+        - link [ref=f69e159] [cursor=pointer]:
+          - /url: https://www.osulloc.com/kr/ko/magazine
+          - strong [ref=f69e160]: 티 라이프
+      - listitem [ref=f69e161]:
+        - link "단체 및 기업 구매" [ref=f69e162] [cursor=pointer]:
+          - /url: https://osulloc.biz/
+    - generic [ref=f69e164]:
+      - link "매장찾기" [ref=f69e166] [cursor=pointer]:
+        - /url: https://www.osulloc.com/kr/ko/store-introduction
+      - link "공지사항" [ref=f69e168] [cursor=pointer]:
+        - /url: https://www.osulloc.com/kr/ko/cs/notice
+      - link "고객센터" [ref=f69e170] [cursor=pointer]:
+        - /url: https://www.osulloc.com/kr/ko/cs
+      - link "뷰티포인트 추후 적립" [ref=f69e172] [cursor=pointer]:
+        - /url: https://www.osulloc.com/kr/ko/login?r=https://www.osulloc.com/kr/ko/beautypoint/credit
+  - main [ref=f69e173]:
+    - generic [ref=f69e175]:
+      - generic:
+        - button "Previous slide" [ref=f69e176] [cursor=pointer]:
+          - generic [ref=f69e177]: 이전 배너 보기
+        - button "Next slide" [ref=f69e178] [cursor=pointer]:
+          - generic [ref=f69e179]: 다음 배너 보기
+      - generic [ref=f69e180]:
+        - group "1 / 3" [ref=f69e181]:
+          - link "일 년만에 돌아온, <br>오설록 블랙 프라이데이 11.02 - 11.16 일 년만에 돌아온, 오설록 블랙 프라이데이 매일 10시, 20시 선착순 50% 쿠폰에 도전하세요 자세히 보기" [ref=f69e182] [cursor=pointer]:
+            - /url: /kr/ko/life/event/view/12413
+            - generic [ref=f69e184]:
+              - img "일 년만에 돌아온, <br>오설록 블랙 프라이데이"
+            - generic:
+              - generic:
+                - paragraph:
+                  - generic:
+                    - emphasis: 11.02 - 11.16
+                - paragraph:
+                  - generic:
+                    - emphasis: 일 년만에 돌아온,
+                  - generic:
+                    - emphasis: 오설록 블랙 프라이데이
+                - paragraph:
+                  - generic:
+                    - emphasis: 매일 10시, 20시 선착순 50% 쿠폰에 도전하세요
+            - paragraph [ref=f69e185]:
+              - generic [ref=f69e186]: 자세히 보기
+        - group "2 / 3" [ref=f69e187]:
+          - link "손종원 셰프와 함께한 <br>블렌디드 티 ~33% 10.15 - 11.15 손종원 셰프와 함께한 블렌디드 티 ~33% 사은품 + 쿠폰 + 뷰티포인트 + 미식 체험권까지! 자세히 보기" [ref=f69e188] [cursor=pointer]:
+            - /url: /kr/ko/life/event/view/12412
+            - generic [ref=f69e190]:
+              - img "손종원 셰프와 함께한 <br>블렌디드 티 ~33%"
+            - generic:
+              - generic:
+                - paragraph:
+                  - generic:
+                    - emphasis: 10.15 - 11.15
+                - paragraph:
+                  - generic:
+                    - emphasis: 손종원 셰프와 함께한
+                  - generic:
+                    - emphasis: 블렌디드 티 ~33%
+                - paragraph:
+                  - generic:
+                    - emphasis: 사은품 + 쿠폰 + 뷰티포인트 + 미식 체험권까지!
+            - paragraph [ref=f69e191]:
+              - generic [ref=f69e192]: 자세히 보기
+        - group "3 / 3" [ref=f69e193]:
+          - link "11월 출석체크 11.01 - 11.30 11월 출석체크 출첵만으로 얻을 수 있는 혜택! 자세히 보기" [ref=f69e194] [cursor=pointer]:
+            - /url: /kr/ko/life/event/view/12426
+            - generic [ref=f69e196]:
+              - img "11월 출석체크"
+            - generic:
+              - generic:
+                - paragraph:
+                  - generic:
+                    - emphasis: 11.01 - 11.30
+                - paragraph:
+                  - generic:
+                    - emphasis: 11월 출석체크
+                - paragraph:
+                  - generic:
+                    - emphasis: 출첵만으로 얻을 수 있는 혜택!
+            - paragraph [ref=f69e197]:
+              - generic [ref=f69e198]: 자세히 보기
+    - generic [ref=f69e199]:
+      - generic [ref=f69e200]:
+        - paragraph [ref=f69e201]: BEST & NEW
+        - link "BEST 상품 목록으로 이동 전체 보기" [ref=f69e202] [cursor=pointer]:
+          - /url: /kr/ko/shop/item/list/best/sale
+          - generic [ref=f69e203]: BEST 상품 목록으로 이동
+          - text: 전체 보기
+      - generic [ref=f69e205]:
+        - group "1 / 12" [ref=f69e206]:
+          - generic [ref=f69e207]:
+            - link [ref=f69e208] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/bakery/22253
+              - img "말차 소금빵 칩" [ref=f69e209]
+            - generic [ref=f69e210]: NEW
+          - link "말차 소금빵 칩 7,500원" [ref=f69e213] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/bakery/22253
+            - paragraph [ref=f69e214]: 말차 소금빵 칩
+            - generic [ref=f69e215]: 7,500원
+        - group "2 / 12" [ref=f69e217]:
+          - link [ref=f69e219] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/22238
+            - img "삼다 꿀배 + 동백꽃 티 + 영귤 티" [ref=f69e220]
+          - link "삼다 꿀배 + 동백꽃 티 + 영귤 티 33,000원 -11,000원 22,000원" [ref=f69e222] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/22238
+            - paragraph [ref=f69e223]: 삼다 꿀배 + 동백꽃 티 + 영귤 티
+            - generic [ref=f69e224]:
+              - deletion [ref=f69e225]: 33,000원
+              - generic [ref=f69e226]: "-11,000원"
+              - generic [ref=f69e227]: 22,000원
+        - group "3 / 12" [ref=f69e228]:
+          - link [ref=f69e230] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/22237
+            - img "삼다 꿀배 + 동백꽃 티 + 피치 티" [ref=f69e231]
+          - link "삼다 꿀배 + 동백꽃 티 + 피치 티 33,000원 -11,000원 22,000원" [ref=f69e233] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/22237
+            - paragraph [ref=f69e234]: 삼다 꿀배 + 동백꽃 티 + 피치 티
+            - generic [ref=f69e235]:
+              - deletion [ref=f69e236]: 33,000원
+              - generic [ref=f69e237]: "-11,000원"
+              - generic [ref=f69e238]: 22,000원
+        - group "4 / 12" [ref=f69e239]:
+          - link [ref=f69e241] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/21748
+            - img "랑드샤 베스트 티 4종 세트" [ref=f69e242]
+          - link "랑드샤 베스트 티 4종 세트 39,500원 20% 31,600원" [ref=f69e244] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/21748
+            - paragraph [ref=f69e245]: 랑드샤 베스트 티 4종 세트
+            - generic [ref=f69e246]:
+              - deletion [ref=f69e247]: 39,500원
+              - generic [ref=f69e248]: 20%
+              - generic [ref=f69e249]: 31,600원
+        - group "5 / 12" [ref=f69e250]:
+          - link [ref=f69e252] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/22058
+            - img "[무카페인] 티 에디션 허브 가든 6종 24입" [ref=f69e253]
+          - link "[무카페인] 티 에디션 허브 가든 6종 24입 48,000원 20% 38,400원" [ref=f69e255] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/22058
+            - paragraph [ref=f69e256]: "[무카페인] 티 에디션 허브 가든 6종 24입"
+            - generic [ref=f69e257]:
+              - deletion [ref=f69e258]: 48,000원
+              - generic [ref=f69e259]: 20%
+              - generic [ref=f69e260]: 38,400원
+        - group "6 / 12" [ref=f69e261]:
+          - generic [ref=f69e262]:
+            - link [ref=f69e263] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21781
+              - img "[화이트 보자기] 프리미엄 티 컬렉션 10종 40입" [ref=f69e264]
+            - generic [ref=f69e265]: 일시 품절
+          - link "[화이트 보자기] 프리미엄 티 컬렉션 10종 40입 42,000원 22% 32,760원" [ref=f69e268] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/21781
+            - paragraph [ref=f69e269]: "[화이트 보자기] 프리미엄 티 컬렉션 10종 40입"
+            - generic [ref=f69e270]:
+              - deletion [ref=f69e271]: 42,000원
+              - generic [ref=f69e272]: 22%
+              - generic [ref=f69e273]: 32,760원
+        - group "7 / 12" [ref=f69e274]:
+          - generic [ref=f69e275]:
+            - link [ref=f69e276] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/22222
+              - img "호지 & 말차샷 블렌드" [ref=f69e277]
+            - generic [ref=f69e278]: NEW
+          - link "호지 & 말차샷 블렌드 20,000원 23% 15,400원" [ref=f69e281] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/22222
+            - paragraph [ref=f69e282]: 호지 & 말차샷 블렌드
+            - generic [ref=f69e283]:
+              - deletion [ref=f69e284]: 20,000원
+              - generic [ref=f69e285]: 23%
+              - generic [ref=f69e286]: 15,400원
+        - group "8 / 12" [ref=f69e287]:
+          - link [ref=f69e289] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/21740
+            - img "제주 말차 밀크티" [ref=f69e290]
+          - link "제주 말차 밀크티 13,000원 -3,100원 9,900원" [ref=f69e292] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/21740
+            - paragraph [ref=f69e293]: 제주 말차 밀크티
+            - generic [ref=f69e294]:
+              - deletion [ref=f69e295]: 13,000원
+              - generic [ref=f69e296]: "-3,100원"
+              - generic [ref=f69e297]: 9,900원
+        - group "9 / 12" [ref=f69e298]:
+          - link [ref=f69e300] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/21864
+            - img "[무카페인] 피치 캐모마일" [ref=f69e301]
+          - link "[무카페인] 피치 캐모마일 11,000원 -2,200원 8,800원" [ref=f69e303] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/21864
+            - paragraph [ref=f69e304]: "[무카페인] 피치 캐모마일"
+            - generic [ref=f69e305]:
+              - deletion [ref=f69e306]: 11,000원
+              - generic [ref=f69e307]: "-2,200원"
+              - generic [ref=f69e308]: 8,800원
+        - group "10 / 12" [ref=f69e309]:
+          - link [ref=f69e311] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/bakery/22154
+            - img "[미피] 스윗 티 밀크 스프레드 세트" [ref=f69e312]
+          - link "[미피] 스윗 티 밀크 스프레드 세트 29,000원 32% 19,720원" [ref=f69e314] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/bakery/22154
+            - paragraph [ref=f69e315]: "[미피] 스윗 티 밀크 스프레드 세트"
+            - generic [ref=f69e316]:
+              - deletion [ref=f69e317]: 29,000원
+              - generic [ref=f69e318]: 32%
+              - generic [ref=f69e319]: 19,720원
+        - group "11 / 12" [ref=f69e320]:
+          - link [ref=f69e322] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/22175
+            - img "[미피] 랑드샤 티타임 세트" [ref=f69e323]
+          - link "[미피] 랑드샤 티타임 세트 114,000원 30% 79,800원" [ref=f69e325] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/22175
+            - paragraph [ref=f69e326]: "[미피] 랑드샤 티타임 세트"
+            - generic [ref=f69e327]:
+              - deletion [ref=f69e328]: 114,000원
+              - generic [ref=f69e329]: 30%
+              - generic [ref=f69e330]: 79,800원
+        - group "12 / 12" [ref=f69e331]:
+          - link [ref=f69e333] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/22239
+            - img "찬물 3종 + 보틀 기획 세트" [ref=f69e334]
+          - link "찬물 3종 + 보틀 기획 세트 28,500원 31% 19,665원" [ref=f69e336] [cursor=pointer]:
+            - /url: /kr/ko/shop/item/teashop/22239
+            - paragraph [ref=f69e337]: 찬물 3종 + 보틀 기획 세트
+            - generic [ref=f69e338]:
+              - deletion [ref=f69e339]: 28,500원
+              - generic [ref=f69e340]: 31%
+              - generic [ref=f69e341]: 19,665원
+    - generic [ref=f69e342]:
+      - paragraph [ref=f69e344]: 화제의 SNS 냉침 밀크티🥛🍫무화과 쇼콜라 블랙티 한정 수량 재입고!
+      - generic [ref=f69e345]:
+        - link [ref=f69e346] [cursor=pointer]:
+          - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=teashop&line=249
+          - img "화제의 SNS 냉침 밀크티🥛🍫<br>무화과 쇼콜라 블랙티 한정 수량 재입고!" [ref=f69e348]
+        - list [ref=f69e350]:
+          - group "1 / 8" [ref=f69e351]:
+            - link [ref=f69e354] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21730
+              - img "[재입고] 무화과 쇼콜라 블랙티" [ref=f69e355]
+            - link "[재입고] 무화과 쇼콜라 블랙티 11,000원" [ref=f69e358] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21730
+              - paragraph [ref=f69e359]: "[재입고] 무화과 쇼콜라 블랙티"
+              - generic [ref=f69e360]: 11,000원
+          - group "2 / 8" [ref=f69e362]:
+            - link [ref=f69e365] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21906
+              - img "[재입고] 블랙티 티백 세트 3종 60입" [ref=f69e366]
+            - link "[재입고] 블랙티 티백 세트 3종 60입 34,000원 20% 27,200원" [ref=f69e369] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21906
+              - paragraph [ref=f69e370]: "[재입고] 블랙티 티백 세트 3종 60입"
+              - generic [ref=f69e371]:
+                - deletion [ref=f69e372]: 34,000원
+                - generic [ref=f69e373]: 20%
+                - generic [ref=f69e374]: 27,200원
+          - group "3 / 8" [ref=f69e375]:
+            - link [ref=f69e378] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21665
+              - img "티 베리에이션 오 6종 36입" [ref=f69e379]
+            - link "티 베리에이션 오 6종 36입 30,000원 15% 25,500원" [ref=f69e382] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21665
+              - paragraph [ref=f69e383]: 티 베리에이션 오 6종 36입
+              - generic [ref=f69e384]:
+                - deletion [ref=f69e385]: 30,000원
+                - generic [ref=f69e386]: 15%
+                - generic [ref=f69e387]: 25,500원
+          - group "4 / 8" [ref=f69e388]:
+            - link [ref=f69e391] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/22206
+              - img "딜라이트 컬렉션 오" [ref=f69e392]
+            - link "딜라이트 컬렉션 오 38,000원 20% 30,400원" [ref=f69e395] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/22206
+              - paragraph [ref=f69e396]: 딜라이트 컬렉션 오
+              - generic [ref=f69e397]:
+                - deletion [ref=f69e398]: 38,000원
+                - generic [ref=f69e399]: 20%
+                - generic [ref=f69e400]: 30,400원
+          - group "5 / 8" [ref=f69e401]:
+            - link [ref=f69e404] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/15244
+              - img "피치 블랙티" [ref=f69e405]
+            - link "피치 블랙티 11,000원 20% 8,800원" [ref=f69e408] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/15244
+              - paragraph [ref=f69e409]: 피치 블랙티
+              - generic [ref=f69e410]:
+                - deletion [ref=f69e411]: 11,000원
+                - generic [ref=f69e412]: 20%
+                - generic [ref=f69e413]: 8,800원
+          - group "6 / 8" [ref=f69e414]:
+            - link [ref=f69e417] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21729
+              - img "마롱 글라세 블랙티" [ref=f69e418]
+            - link "마롱 글라세 블랙티 11,000원 20% 8,800원" [ref=f69e421] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21729
+              - paragraph [ref=f69e422]: 마롱 글라세 블랙티
+              - generic [ref=f69e423]:
+                - deletion [ref=f69e424]: 11,000원
+                - generic [ref=f69e425]: 20%
+                - generic [ref=f69e426]: 8,800원
+          - group "7 / 8" [ref=f69e427]:
+            - link [ref=f69e430] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21884
+              - img "베리 바닐라 그린티" [ref=f69e431]
+            - link "베리 바닐라 그린티 11,000원 20% 8,800원" [ref=f69e434] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21884
+              - paragraph [ref=f69e435]: 베리 바닐라 그린티
+              - generic [ref=f69e436]:
+                - deletion [ref=f69e437]: 11,000원
+                - generic [ref=f69e438]: 20%
+                - generic [ref=f69e439]: 8,800원
+          - group "8 / 8" [ref=f69e440]:
+            - link [ref=f69e443] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21931
+              - img "마롱 크림 블랙티 20입" [ref=f69e444]
+            - link "마롱 크림 블랙티 20입 27,000원 40% 16,200원" [ref=f69e447] [cursor=pointer]:
+              - /url: /kr/ko/shop/item/teashop/21931
+              - paragraph [ref=f69e448]: 마롱 크림 블랙티 20입
+              - generic [ref=f69e449]:
+                - deletion [ref=f69e450]: 27,000원
+                - generic [ref=f69e451]: 40%
+                - generic [ref=f69e452]: 16,200원
+    - generic [ref=f69e456]:
+      - generic [ref=f69e457]:
+        - heading "WEEKLY ISSUE PICK" [level=3] [ref=f69e459]
+        - link "오늘만 이 가격 귀여움에 달콤함을 더할 시간 미피와 함께하는 기분 좋은 하루 [미피] 스윗 티 밀크 스프레드 세트 29,000원 32% 19,720원" [ref=f69e460] [cursor=pointer]:
+          - /url: /kr/ko/shop/item/bakery/22154
+          - img "오늘만 이 가격" [ref=f69e463]
+          - generic [ref=f69e465]:
+            - heading "귀여움에 달콤함을 더할 시간 미피와 함께하는 기분 좋은 하루" [level=3] [ref=f69e467]
+            - generic [ref=f69e468]:
+              - paragraph [ref=f69e469]: "[미피] 스윗 티 밀크 스프레드 세트"
+              - generic [ref=f69e470]:
+                - deletion [ref=f69e471]: 29,000원
+                - generic [ref=f69e472]: 32%
+                - generic [ref=f69e473]: 19,720원
+      - generic [ref=f69e474]:
+        - heading "OSULLOC NOW" [level=3] [ref=f69e476]
+        - link [ref=f69e477] [cursor=pointer]:
+          - /url: https://www.osulloc.com/kr/ko/shop/item/bakery/17804
+          - img "OSULLOC NOW" [ref=f69e480]
+          - generic [ref=f69e482]:
+            - heading "이달의 베스트 리뷰" [level=3] [ref=f69e484]
+            - paragraph [ref=f69e486]: 시그니처 비스킷
+    - generic [ref=f69e487]:
+      - generic [ref=f69e488]:
+        - paragraph [ref=f69e489]: EXPLORE OUR STORES
+        - link "오설록 매장 소개 목록 페이지로 이동 전체 보기" [ref=f69e490] [cursor=pointer]:
+          - /url: /kr/ko/store-introduction
+          - generic [ref=f69e491]: 오설록 매장 소개 목록 페이지로 이동
+          - text: 전체 보기
+      - generic [ref=f69e493]:
+        - group "1 / 8" [ref=f69e494] [cursor=pointer]:
+          - generic:
+            - generic:
+              - img "오설록 1979"
+          - paragraph [ref=f69e495]: 오설록 1979
+        - group "2 / 8" [ref=f69e496] [cursor=pointer]:
+          - generic:
+            - generic:
+              - img "제주 오설록 티뮤지엄"
+          - paragraph [ref=f69e497]: 제주 오설록 티뮤지엄
+        - group "3 / 8" [ref=f69e498] [cursor=pointer]:
+          - generic:
+            - generic:
+              - img "티하우스 북촌점"
+          - paragraph [ref=f69e499]: 티하우스 북촌점
+        - group "4 / 8" [ref=f69e500] [cursor=pointer]:
+          - generic:
+            - generic:
+              - img "티하우스 용산파크점"
+          - paragraph [ref=f69e501]: 티하우스 용산파크점
+        - group "5 / 8" [ref=f69e502] [cursor=pointer]:
+          - generic:
+            - generic:
+              - img "티하우스 MMCA"
+          - paragraph [ref=f69e503]: 티하우스 MMCA
+        - group "6 / 8" [ref=f69e504] [cursor=pointer]:
+          - generic:
+            - generic:
+              - img "티하우스 해운대점"
+          - paragraph [ref=f69e505]: 티하우스 해운대점
+        - group "7 / 8" [ref=f69e506] [cursor=pointer]:
+          - generic:
+            - generic:
+              - img "티하우스 김포공항점"
+          - paragraph [ref=f69e507]: 티하우스 김포공항점
+        - group "8 / 8" [ref=f69e508] [cursor=pointer]:
+          - generic:
+            - generic:
+              - img "티하우스 인천공항점 (신세계면세점)"
+          - paragraph [ref=f69e509]: 티하우스 인천공항점 (신세계면세점)
+    - generic [ref=f69e512]:
+      - paragraph [ref=f69e514]: BRAND STORY
+      - link "TEA FROM JEJU ISLAND TEA FROM JEJU ISLAND":
+        - /url: /kr/ko/brandstory
+        - generic:
+          - img "TEA FROM JEJU ISLAND"
+        - paragraph: TEA FROM JEJU ISLAND
+  - button "페이지 위로 가기" [ref=f69e515] [cursor=pointer]
+  - contentinfo [ref=f69e517]:
+    - generic [ref=f69e518]:
+      - generic [ref=f69e519]:
+        - img "오설록" [ref=f69e521]
+        - navigation [ref=f69e522]:
+          - generic [ref=f69e523]:
+            - heading "고객 상담 센터/주문배송 문의" [level=2] [ref=f69e524]
+            - list [ref=f69e525]:
+              - listitem [ref=f69e526]: 080-805-5555
+              - listitem [ref=f69e527]:
+                - link "help@osulloc.com" [ref=f69e528] [cursor=pointer]:
+                  - /url: mailto:help@osulloc.com
+              - listitem [ref=f69e529]: 평일 09:00 - 18:00
+              - listitem [ref=f69e530]: 점심 (12:00 - 13:00)
+          - generic [ref=f69e531]:
+            - heading "특판 및 대량구매" [level=2] [ref=f69e532]
+            - list [ref=f69e533]:
+              - listitem [ref=f69e534]:
+                - link "mall@osulloc.com" [ref=f69e535] [cursor=pointer]:
+                  - /url: mailto:mall@osulloc.com
+              - listitem [ref=f69e536]: "카카오톡 ID : osullocmall"
+              - listitem [ref=f69e537]: 평일 09:30 - 17:00
+              - listitem [ref=f69e538]: 점심 (11:30 - 13:00)
+          - generic [ref=f69e539]:
+            - heading "회원 혜택" [level=2] [ref=f69e540]
+            - list [ref=f69e541]:
+              - listitem [ref=f69e542]:
+                - link "1:1 문의" [ref=f69e543] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/ko/mypage/qna
+              - listitem [ref=f69e544]:
+                - link "오설록 멤버십 혜택" [ref=f69e545] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/ko/cs/member/benefit
+              - listitem [ref=f69e546]:
+                - link "뷰티포인트 추후적립" [ref=f69e547] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/ko/beautypoint/credit
+          - generic [ref=f69e548]:
+            - heading "소셜미디어" [level=2] [ref=f69e549]
+            - list [ref=f69e550]:
+              - listitem [ref=f69e551]:
+                - link "카카오톡 플러스친구" [ref=f69e552] [cursor=pointer]:
+                  - /url: https://pf.kakao.com/_iAIau
+              - listitem [ref=f69e553]:
+                - link "인스타그램" [ref=f69e554] [cursor=pointer]:
+                  - /url: https://www.instagram.com/osulloc_official/
+              - listitem [ref=f69e555]:
+                - link "유튜브" [ref=f69e556] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UC27q_WWuOkdyNIr7M_6trvA
+              - listitem [ref=f69e557]:
+                - link "틱톡" [ref=f69e558] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@osulloc_official
+              - listitem [ref=f69e559]:
+                - link "X(구 트위터)" [ref=f69e560] [cursor=pointer]:
+                  - /url: https://twitter.com/osullocofficial
+          - generic [ref=f69e561]:
+            - heading "LANGUAGE" [level=2] [ref=f69e562]
+            - list [ref=f69e563]:
+              - listitem [ref=f69e564]:
+                - link "KOREAN" [ref=f69e565] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/ko
+              - listitem [ref=f69e566]:
+                - link "ENGLISH" [ref=f69e567] [cursor=pointer]:
+                  - /url: https://us.osulloc.com
+              - listitem [ref=f69e568]:
+                - link "CHINESE(中文)" [ref=f69e569] [cursor=pointer]:
+                  - /url: https://www.osulloc.com/kr/zh
+        - generic [ref=f69e570]:
+          - heading "공지사항" [level=2] [ref=f69e571]
+          - list [ref=f69e572]:
+            - listitem [ref=f69e573]:
+              - link "[공지] 반품 배송비 정책 변경 안내" [ref=f69e574] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/cs/notice/news/6375
+            - listitem [ref=f69e575]:
+              - link "오설록 일부 케이크 소비자가 조정 안내" [ref=f69e576] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/cs/notice/news/6374
+            - listitem [ref=f69e577]:
+              - link "오설록 개인정보처리방침 변경 안내(26.09.04)" [ref=f69e578] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/cs/notice/news/6373
+          - link "더 보기" [ref=f69e579] [cursor=pointer]:
+            - /url: https://www.osulloc.com/kr/ko/cs/notice
+      - generic [ref=f69e580]:
+        - navigation [ref=f69e581]:
+          - list [ref=f69e582]:
+            - listitem [ref=f69e583]:
+              - link "회사소개" [ref=f69e584] [cursor=pointer]:
+                - /url: https://www.apgroup.com/int/ko
+            - listitem [ref=f69e585]:
+              - link "서비스 이용약관" [ref=f69e586] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/misc/terms
+            - listitem [ref=f69e587]:
+              - link "개인정보 처리방침" [ref=f69e588] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/misc/statement
+            - listitem [ref=f69e589]:
+              - link "영상정보 처리방침" [ref=f69e590] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/misc/procedures
+            - listitem [ref=f69e591]:
+              - link "전자공고" [ref=f69e592] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/cs/notice/announce
+            - listitem [ref=f69e593]:
+              - link "AP & 제휴사 임직원 인증" [ref=f69e594] [cursor=pointer]:
+                - /url: javascript:void(0);
+          - generic [ref=f69e595]:
+            - paragraph [ref=f69e596]: (주)오설록
+            - paragraph [ref=f69e597]: "대표이사: 서혁제"
+            - paragraph [ref=f69e598]: "주소: 제주특별자치도 서귀포시 안덕면 신화역사로 15 (오설록 티뮤지엄)"
+            - paragraph [ref=f69e599]: "사업자등록번호: 390-87-01499"
+            - paragraph [ref=f69e600]: "통신판매업신고번호: 2024-제주안덕-0075"
+            - paragraph [ref=f69e601]: "호스팅제공자: (주)오설록"
+            - paragraph [ref=f69e602]:
+              - link "사업자 정보 확인 >" [ref=f69e603] [cursor=pointer]:
+                - /url: https://www.ftc.go.kr/info/bizinfo/communicationViewPopup.jsp?wrkr_no=3908701499
+          - paragraph [ref=f69e604]: (주)오설록은 오설록 브랜드를 제외한 입점 브랜드에 대해서는 통신판매중개자이며 통신판매의 당사자가 아닙니다. 따라서 입점판매자가 등록한 상품정보 및 거래에 대해서는 책임을 지지 않습니다.
+        - generic [ref=f69e605]:
+          - heading "NHN KCP 구매안전(에스크로)서비스" [level=3] [ref=f69e606]
+          - generic [ref=f69e607] [cursor=pointer]:
+            - img "에스크로 가입사실 확인" [ref=f69e608]
+            - paragraph [ref=f69e609]: 고객님의 안전거래를 위해 현금 등으로 결제 시 저희 쇼핑몰에 가입한 NHN KCP의 구매안전서비스를 이용하실 수 있습니다.

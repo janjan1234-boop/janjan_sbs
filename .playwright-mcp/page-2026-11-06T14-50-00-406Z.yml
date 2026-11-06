@@ -1,0 +1,92 @@
+- generic [active] [ref=f80e1]:
+  - banner [ref=f80e2]:
+    - generic [ref=f80e3]:
+      - generic [ref=f80e4]:
+        - heading [level=1] [ref=f80e5]:
+          - link [ref=f80e6] [cursor=pointer]:
+            - /url: https://www.osulloc.com/
+            - img "로고이미지" [ref=f80e7]
+        - navigation [ref=f80e8]:
+          - list [ref=f80e9]:
+            - listitem [ref=f80e10]:
+              - link "제품" [ref=f80e11] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/shop/item/list
+            - listitem [ref=f80e12]:
+              - link "블랙프라이데이" [ref=f80e13] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/life/event/view/12413
+            - listitem [ref=f80e14]:
+              - link "기프트" [ref=f80e15] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/shop/item/gift_new
+            - listitem [ref=f80e16]:
+              - link "티 라이프" [ref=f80e17] [cursor=pointer]:
+                - /url: https://www.osulloc.com/kr/ko/magazine
+            - listitem [ref=f80e18]:
+              - link "단체 및 기업 구매" [ref=f80e19] [cursor=pointer]:
+                - /url: https://osulloc.biz/
+      - list [ref=f80e21]:
+        - listitem [ref=f80e22]:
+          - link "search" [ref=f80e23] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=f80e25]:
+          - link "shopping_cart" [ref=f80e26] [cursor=pointer]:
+            - /url: https://www.osulloc.com/kr/ko/shop/cart
+        - listitem [ref=f80e28]:
+          - link "이벤트" [ref=f80e29] [cursor=pointer]:
+            - /url: https://www.osulloc.com/kr/ko/life/event/list/ing
+        - listitem [ref=f80e30]:
+          - link "로그인" [ref=f80e31] [cursor=pointer]:
+            - /url: https://one-ap.amorepacific.com/auth/login?channelCd=039&client_id=NZ3a1tqnjTpjsuotMf62PVJhqOwa&commonAuthCallerPath=%2Foauth2%2Fauthorize&forceAuth=false&passiveAuth=false&redirect_uri=https%3A%2F%2Fwww.osulloc.com%2Foauth2client&response_type=code&scope=openid&state=%7BredirectUri%3Dhttps%3A%2F%2Fwww.osulloc.com%2Fkr%2Fko%2Flogin%3Fr%3Dhttps%3A%2F%2Fwww.osulloc.com%2Fkr%2Fko%2Flife%2Fevent%2Flist%2Fing%26cid%3D%26gid%3D%26sid%3D%2C+gid%3D%2C+channelCd%3D039%2C+ot%3Dnull%2C+sid%3D%2C+dt%3Dnull%2C+popup%3Dnull%2C+cancelUri%3D%2C+kakaoEmbedded%3Dnull%2C+join%3Dnull%2C+prompt%3Dnull%2C+vt%3Dnull%2C+cid%3D%7D&sessionDataKey=570340b9-cab6-44fb-b06b-dc22ad0fc117&relyingParty=NZ3a1tqnjTpjsuotMf62PVJhqOwa&type=oidc&sp=039&spId=01dd0aec-cd92-4805-b3d2-f8125329b259&isSaaSApp=false&authenticators=NAVER%3ANA%3BKAKAO%3AKA%3BAppleID%3AAP%3BMobileVerifier%3ALOCAL%3BBasicAuthenticator%3ALOCAL%3BKakaoVerifier%3ALOCAL
+  - main [ref=f80e32]:
+    - generic [ref=f80e34]:
+      - button "arrow_back_ios" [ref=f80e35] [cursor=pointer]
+      - generic [ref=f80e37]:
+        - paragraph [ref=f80e38]: 11.01 - 11.30
+        - paragraph [ref=f80e39]: 11월 출석체크
+        - paragraph [ref=f80e40]: 출첵만으로 얻을 수 있는 혜택
+        - text: 자세히보기
+      - button "arrow_forward_ios" [ref=f80e41] [cursor=pointer]
+    - generic [ref=f80e43]:
+      - generic [ref=f80e44]:
+        - paragraph [ref=f80e45]: BEST & NEW
+        - link "전체보기" [ref=f80e46] [cursor=pointer]:
+          - /url: https://www.osulloc.com/kr/ko/shop/item/list/best/sale
+      - list [ref=f80e47]:
+        - listitem [ref=f80e48]:
+          - img "삼다 꿀배 + 동백꽃 티 + 영귤 티 제품이미지" [ref=f80e50]
+          - paragraph [ref=f80e51]: 삼다 꿀배 + 동백꽃 티 + 영귤 티
+          - paragraph [ref=f80e52]: 33,000원
+          - generic [ref=f80e53]: "-11,000원 22,000원"
+        - listitem [ref=f80e54]:
+          - img "[미피] 스윗 티 밀크 스프레드 세트]제품이미지" [ref=f80e56]
+          - paragraph [ref=f80e57]: "[미피] 스윗 티 밀크 스프레드 세트]"
+          - paragraph [ref=f80e58]: 29,000원
+          - generic [ref=f80e59]: 32% 19,720원
+        - listitem [ref=f80e60]:
+          - img "[미피] 랑드샤 티타임 세트제품이미지" [ref=f80e62]
+          - paragraph [ref=f80e63]: "[미피] 랑드샤 티타임 세트"
+          - paragraph [ref=f80e64]: 114,000원
+          - generic [ref=f80e65]: 30% 79,800원
+        - listitem [ref=f80e66]:
+          - img "찬물 3종 + 보틀 기획 세트 제품이미지" [ref=f80e68]
+          - paragraph [ref=f80e69]: 찬물 3종 + 보틀 기획 세트
+          - paragraph [ref=f80e70]: 28,500원
+          - generic [ref=f80e71]: 31% 19,665원
+    - generic [ref=f80e72]:
+      - paragraph [ref=f80e74]: 화제의 SNS 냉침 밀크티🥛🍫무화과 쇼콜라 블랙티 한정 수량 재입고!
+      - generic [ref=f80e75]:
+        - link [ref=f80e76] [cursor=pointer]:
+          - /url: https://www.osulloc.com/kr/ko/shop/item/list?category=teashop&line=249
+          - img "무화과 쇼콜라 블랙 밀크티 이미지" [ref=f80e77]
+        - list [ref=f80e79]:
+          - listitem [ref=f80e80]:
+            - link [ref=f80e81] [cursor=pointer]:
+              - /url: https://www.osulloc.com/kr/ko/shop/item/teashop/21730
+              - generic [ref=f80e82]:
+                - img "[재입고] 무화과 쇼콜라 블랙티" [ref=f80e83]
+                - generic [ref=f80e84]:
+                  - paragraph [ref=f80e85]: "[재입고] 무화과 쇼콜라 블랙티"
+                  - paragraph [ref=f80e86]: 11,000원
+        - link [ref=f80e87] [cursor=pointer]:
+          - /url: https://www.osulloc.com/kr/ko/shop/item/teashop/21730
+        - list
+  - contentinfo

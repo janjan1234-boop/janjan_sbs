@@ -309,4 +309,66 @@ button{
     font-weight: 700;
     padding-bottom: 12px;
 }
+.SNS_hot{
+    display: block;
+    margin: 80px auto 60px;
+}
+.SNS_hot-con{
+    display: flex;
+}
+.SNS_hot-con > a,
+.SNS_hotlist {
+    margin-right: 10px;
+    flex: 0 0 calc(50% - 10px);
+    min-width: 0;
+}
 
+.SNS_hot-con > a > img{
+    display: block;
+    width: 100%;
+}
+
+.SNS_hotlist{
+    margin-left: 10px;
+    width: 690px;
+    background-color: gray;
+}
+
+.thumlist1{
+    display: flex;
+    width: 50%;
+    background-color: #fff;
+}
+
+.thumlist1
+
+.thumlist2{
+    display: flex;
+}
+.minithum{
+    display: flex;
+}
+
+.minithum > img {
+    display: block;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(0,0,0,0.03);
+}
+
+.list-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 12px;
+}
+
+.mini-title{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.mini-cost{
+    font-size: 17px;
+    font-weight: 700;
+}
