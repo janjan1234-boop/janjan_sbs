@@ -68,6 +68,7 @@
     font-weight: 45 930;
     font-display: swap;
 }
+/* 초기설정 */
 body{
     font-family: 'PretendardVariable', sans-serif;
     /* 폰트 패밀리 추가 20261105 */
@@ -115,7 +116,7 @@ button{
     margin: 0 auto;
     /* w1400을 전체화면으로 바꿈 20261105 */
     width: 1400px;
-    min-width: 1400px;
+    /* min-width: 1400px; */
     box-sizing: border-box;
     display: flex;
     /* display: flex; 추가 20261105 */
@@ -131,8 +132,9 @@ button{
     top: 0;
     left: 50%;
     transform: translateX(-50%);
-    z-index: 1000;} */
-
+    z-index: 1000;} *
+    /
+/* header */
 .headbar {
     position: fixed;
     top: 0;
@@ -192,7 +194,7 @@ button{
 .headbar-right > ul > li{
     padding: 0 14px;
 }
-
+/* banner section */
 .banner{
     display: flex;
     height: 622px;
@@ -242,14 +244,15 @@ button{
     font-weight: 400;
     margin-bottom: 60px;
 }
-.banner-text > span{
+.banner-text > a > span{
     text-decoration: underline;
     color: rgba(0,0,0,0.5);
     font-size: 14px;
     /* 글자가 너무 작아서 수정 20261105 */
     cursor: pointer;
-
 }
+
+/* BEST_NEW section */
 .BEST_NEW {
     flex-direction: column;
 }
@@ -288,6 +291,7 @@ button{
     /* thum 이미지 배경색 추가 20261105*/
 }
 
+/* 해당 스타일을 하단 SNS_hot selection에서 재활용 20261107 */
 .thum-title{
     font-size: 16px;
     font-weight: 500;
@@ -309,6 +313,7 @@ button{
     font-weight: 700;
     padding-bottom: 12px;
 }
+/*SNS_hot selection  */
 .SNS_hot{
     display: block;
     margin: 80px auto 60px;
@@ -316,59 +321,109 @@ button{
 .SNS_hot-con{
     display: flex;
 }
-.SNS_hot-con > a,
-.SNS_hotlist {
-    margin-right: 10px;
-    flex: 0 0 calc(50% - 10px);
-    min-width: 0;
-}
 
 .SNS_hot-con > a > img{
+    width:700px;
+    height: 390px;
+    margin-right: 16px;
+}
+.SNS_hotlist{
+    width: 660px;;
+}
+.tea-row {
+    display:flex;
+    margin:0 0 30px;
+    gap: 20px;
+}
+.tea-card {
+    display: flex;
+    width: 330px;
+    cursor: pointer;
+}
+.tea-card > img {
     display: block;
-    width: 100%;
+    width:180px;
+    height: 180px;
+    background-color:#f6f6f6;
+}
+/* 글자 우측정렬을 위해 div로 한번 더 감쌈 20261107 */
+.tea-card-text{
+    padding-top: 10px;
+    margin-left: 20px;
+    width: 200px;
+}
+.tea-card h3 {
+    font-size:18px;
+    margin:14px 0 10px;
+    font-weight: 400;
+}
+.sale-cost{
+    margin-left: 5px;
+    font-weight: 700;
+    color: #000;
 }
 
-.SNS_hotlist{
-    margin-left: 10px;
+.OUR-STORES{
+     width: 1400px;
+}
+
+/* BRAND-STORY */
+.brandbanner{
+    width: 1400px;
+    height: 526px;
+    background-image: url(./image/main_brand.webp);
+}
+
+.brandbanner > a{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: #fff;
+}
+
+.EXPLORE-OUR-STORES{
+    flex-direction: column;
+    /* 자식요소 세로정렬 20261107 */
+}
+.EXPLORE-OUR-STORES > .titlebar{
+    display: flex;
+    width: 100%;
+    justify-content: space-between
+}
+.OUR-STORES{
+    display: flex;
     width: 690px;
+    gap: 20px;
+}
+.storycard > a {
+    margin: 0 auto;
+}
+.storycard > a > p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 16px 0;
+}
+
+.storycard > a > img{
+    width: 690px;
+}
+
+.footer{
+    flex-direction: column;
+    align-items: center;
+    /* background-color: #f6f6f6; */
     background-color: gray;
 }
-
-.thumlist1{
-    display: flex;
-    width: 50%;
+.footer-top{
+    height: 454px;
+    background-color: #f6f6f6;
+}
+.footer-bottom{
+    width: 100%;
+    height: 226px;
     background-color: #fff;
-}
-
-.thumlist1
-
-.thumlist2{
-    display: flex;
-}
-.minithum{
-    display: flex;
-}
-
-.minithum > img {
-    display: block;
-    width: 150px;
-    height: 150px;
-    background-color: rgba(0,0,0,0.03);
-}
-
-.list-text{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding-left: 12px;
-}
-
-.mini-title{
-    font-size: 17px;
-    font-weight: 500;
-}
-
-.mini-cost{
-    font-size: 17px;
-    font-weight: 700;
 }
