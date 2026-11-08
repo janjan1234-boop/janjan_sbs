@@ -119,6 +119,7 @@ button{
     /* min-width: 1400px; */
     box-sizing: border-box;
     display: flex;
+    /* border: 1px solid red; */
     /* display: flex; 추가 20261105 */
 }
 
@@ -417,13 +418,136 @@ button{
     align-items: center;
     /* background-color: #f6f6f6; */
     background-color: gray;
+    margin-top: 60px;
 }
 .footer-top{
-    height: 454px;
+    /* height: 454px; */
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #f6f6f6;
 }
+
+
+.footer-top-text{
+    justify-content: space-between;
+}
+.footer-top-text > img{
+    width: 223px;
+    height: auto;
+    object-fit: contain;
+}
+
+
+.ft{
+    height: 197px;
+    font-size: 12px;
+}
+.ft > p{
+    font-weight: 600;
+    margin: 26px 0;
+    line-height: 16px;
+}
+
+.ft > ul > li{
+    margin-bottom: 6px;
+    line-height: 20px;
+}
+.footer-notice{
+    background-color: #fff;
+    font-size: 12px;
+    color: #000;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;    
+}
+.footerinfo1 > ul > li:nth-child(1){
+    font-size: 18px;
+    font-weight: 700;
+}
+.footerinfo4 > ul > li > a {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.footerinfo4 > ul > li > a > img{
+    justify-content: center;
+    align-items: center;
+    height: 15px;
+    width: 15px;
+    object-fit: contain;
+    padding-right: 10px;
+}
+
+.footer-notice > p{
+    height: 20px;
+    padding-top: 2px;
+    padding-bottom: 12px;
+    line-height: 12px;
+    border-bottom: 1px solid #000;
+}
+.footer-notice > ul{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer-notice > ul > li{
+    width: 260px;
+    height: 20px;
+    padding-top: 3px;
+    line-height: 18px;;
+
+}
+.footer-notice > a{
+    color: #8d8d8d;
+    height: 14px;
+}
+
 .footer-bottom{
     width: 100%;
     height: 226px;
     background-color: #fff;
 }
+.footer-bottom-text > ul{
+    margin-top: 30px;
+    display: flex;
+    line-height: 18px;
+    font-size: 12px;
+
+}
+.footer-bottom-text > ul > li{
+    position: relative;
+    padding: 0 12px 0 11px;
+    line-height: 18px;
+}
+.footer-bottom-text > ul > li:after{
+    position: absolute;
+    top: 6px;
+    right: 0;
+    content: "";
+    display: block;
+    width: 1px;
+    height: 8px;
+    background: #000;
+}
+
+.footer-bottom-text > ul > li:nth-child(6):after{
+    position: absolute;
+    top: 6px;
+    right: 0;
+    content: "";
+    display: none;
+    width: 1px;
+    height: 8px;
+    background: #000;
+}
+
+.footer-bottom-text > ul > li:nth-child(3){
+    font-weight: 700;
+}
+
+.footer-bottom-text > ul > li:nth-child(6){
+    font-weight: 700;
+}
+
