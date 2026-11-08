@@ -1,0 +1,38 @@
+[    3303ms] [ERROR] Executing inline event handler violates the following Content Security Policy directive 'script-src 'nonce-VU_rVHkNeHGCIIhced7xjw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:'. Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list. The action has been blocked. @ https://www.google.com/search?q=%EB%85%B8%EC%85%98&oq=%EB%85%B8%EC%85%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIwMzNqMGo3qAIFsAIB&sourceid=chrome&source=chrome.ob&ie=UTF-8:0
+[    5611ms] [WARNING] Amplitude Logger [Warn]: Event not tracked, no destination plugins on the instance @ https://www.notion.com/_next/static/chunks/0ww763hg49nwx.js:5
+[    5613ms] [INFO] 2026-11-08T15:03:00.563Z [error] eventTrailApiHelpers: trackFailure {error: Object, data: Object} @ https://www.notion.com/_next/static/chunks/0ww763hg49nwx.js:5
+[    6285ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://www.notion.com/_next/static/chunks/0ww763hg49nwx.js:5
+[    6406ms] [ERROR] Not signed in with the identity provider. @ https://www.notion.com/ko:0
+[    6616ms] [INFO] Resource Sentinel initialized... @ https://app.notion.com/login?from=marketing&pathname=%2Fko&tid=1831cd2f83b44f04bc193cfadf9d648b:38
+[    7157ms] [INFO] 2026-11-08T15:03:02.107Z [info] FeatureFlagTransactionQueue: preferIndexedDB {team: no-team-specified} @ https://app.notion.com/_assets/app-5ae7eeac73b619b5.js:6
+[    7341ms] [LOG] %c
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnn                         nnnn
+	nnnnnnn                          nnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnn                           nnn
+	nnnnnnnn    nnnnnnnn     nnnnnnn   nnn
+	nnnnnnnn      nnnnnnn      nnn     nnn
+	nnnnnnnn      nnnnnnnn     nnn     nnn
+	nnnnnnnn      nnnnnnnnnn   nnn     nnn
+	nnnnnnnn      nnn nnnnnnn  nnn     nnn
+	nnnnnnnn      nnn  nnnnnnnnnnn     nnn
+	nnnnnnnn      nnn   nnnnnnnnnn     nnn
+	nnnnnnnn      nnn     nnnnnnnn     nnn
+	nnnnnnnn      nnn      nnnnnnn     nnn
+	nnnnnnnn    nnnnnnnn    nnnnnn     nnn
+	  nnnnnn                           nnn
+		nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		We're hiring!
+		  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		notion.com/careers
+
+	“yeah, I would probably eat a lemon for one hundred dollars” -- Ivan Zhao (2023-07-14)
+				  font-family: monospace @ https://app.notion.com/_assets/mainApp-30e96ad6fe6270fe.js:37
+[    7659ms] [WARNING] Ignoring inability to install OPFS sqlite3_vfs: Cannot install OPFS: Missing SharedArrayBuffer and/or Atomics. The server must emit the COOP/COEP response headers to enable those. See https://sqlite.org/wasm/doc/trunk/persistence.md#coop-coep @ https://app.notion.com/_assets/wasm-sqlite-worker-22937f320c7ce94c.js:0
+[    8214ms] [INFO] 2026-11-08T15:03:03.164Z [info] sqliteSchemaHelpers: attemptFastForwardMigration {data: Object} @ https://app.notion.com/_assets/app-5ae7eeac73b619b5.js:6
+[    8287ms] [INFO] 2026-11-08T15:03:03.237Z [info] sqliteSchemaHelpers: successfulFastForwardMigration {data: Object} @ https://app.notion.com/_assets/app-5ae7eeac73b619b5.js:6
+[    8376ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://accounts.google.com/gsi/client:88
+[    8490ms] [ERROR] Not signed in with the identity provider. @ https://app.notion.com/login?from=marketing&pathname=%2Fko:0
+[    9443ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://cdn.metadata.io/pixel/config/1127.json:0
+[   10384ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://app.notion.com/_assets/UISpacePermissionGroupToken-7d48d1eb0a2e71d7.js:37
+[   10384ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://app.notion.com/_assets/UISpacePermissionGroupToken-7d48d1eb0a2e71d7.js:37

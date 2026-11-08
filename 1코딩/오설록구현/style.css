@@ -363,9 +363,103 @@ button{
     font-weight: 700;
     color: #000;
 }
+/*  */
+.week-now{
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+.eventbanner-1{
+    width: 690px;
+    position: relative;
+}
+.eventbanner-1 > img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
 
+.eventbanner-2{
+    width: 690px;
+    position: relative;
+}
+.eventbanner-2 > img{
+    display: block;
+    width: 100%;
+    height: auto;
+    
+}
+.eventbanner-wrap{
+    position: absolute;
+    top: 20px;
+    bottom: 20px;
+    left: 40px;
+}
+.minititle{
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 500;
+}
+.minisub-title{
+    font-size: 14px;
+}
+.miniinfo{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.miniori-cost{
+    font-size: 14px;
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.6);
+}
+.minisale{
+    font-size: 24px;
+    color: #ff5a5f;
+    font-weight: 700;
+}
+.minisale-cost{
+    color: #000;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.eventbanner-2{
+    width: 690px;
+}
+.eventbanner-2 > img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+/* EXPLORE OUR STORES */
+.EXPLORE-OUR-STORES{
+    flex-direction: column;
+    /* 자식요소 세로정렬 20261107 */
+    margin-bottom: 60px;
+}
+.EXPLORE-OUR-STORES > .titlebar{
+    display: flex;
+    width: 100%;
+    justify-content: space-between
+}
 .OUR-STORES{
-     width: 1400px;
+    display: flex;
+    width: 1400px;
+    gap: 20px;
+}
+.storycard > a {
+    margin: 0 auto;
+}
+.storycard > a > p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 16px 0;
+}
+
+.storycard > a > img{
+    width: 690px;
 }
 
 /* BRAND-STORY */
@@ -385,39 +479,10 @@ button{
     color: #fff;
 }
 
-.EXPLORE-OUR-STORES{
-    flex-direction: column;
-    /* 자식요소 세로정렬 20261107 */
-}
-.EXPLORE-OUR-STORES > .titlebar{
-    display: flex;
-    width: 100%;
-    justify-content: space-between
-}
-.OUR-STORES{
-    display: flex;
-    width: 690px;
-    gap: 20px;
-}
-.storycard > a {
-    margin: 0 auto;
-}
-.storycard > a > p{
-    text-align: center;
-    font-size: 18px;
-    font-weight: 500;
-    padding: 16px 0;
-}
-
-.storycard > a > img{
-    width: 690px;
-}
-
+/* footer */
 .footer{
     flex-direction: column;
     align-items: center;
-    /* background-color: #f6f6f6; */
-    background-color: gray;
     margin-top: 60px;
 }
 .footer-top{
@@ -505,12 +570,25 @@ button{
 }
 
 .footer-bottom{
-    width: 100%;
     height: 226px;
     background-color: #fff;
+    display: flex;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between
 }
+.footer-bottom-inner{
+    justify-content: space-between;
+
+}
+.footer-bottom-leftwrap{
+    display: flex;
+    flex-direction: column;
+}
+
 .footer-bottom-text > ul{
     margin-top: 30px;
+    margin-bottom: 30px;
     display: flex;
     line-height: 18px;
     font-size: 12px;
@@ -550,4 +628,59 @@ button{
 .footer-bottom-text > ul > li:nth-child(6){
     font-weight: 700;
 }
+.footer-bottom-text > ul > li:nth-child(1){
+    padding-left: 0;
+}
+.footer-bottom-text-info{
+    display: flex;
+    align-items: center;
+    font-size: 11px;
+    padding-right: 10px;
+}
+.footer-bottom-text-info > a{
+    text-decoration: underline;
+}
+.footer-bottom-text-info > p{
+    font-size: 11px;
+    padding-right: 10px;
+}
+.footer-bottom-text-wrap{
+    flex-direction: column;
+}
+.footer-bottom-text-wrap > p{
+    font-size: 11px;
+}
 
+.footer-bottom-rightwrap{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 320px;
+    height: 120px;
+    padding: 20px 16px;
+    border: 1px solid #ddd;
+    margin-top: 30px;
+    }
+.footer-bottom-rightwrap > a{
+    margin: 0 auto;
+}
+.footer-bottom-rightwrap > a > p{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.kcptext{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.kcptext > img{
+    width: 43px;
+    height: 43px;
+    object-fit: contain;
+    margin-right: 10px;
+}
+.kcptext > p{
+    font-size: 11px;
+    color: rgba(0, 0, 0, 0.6);
+}
