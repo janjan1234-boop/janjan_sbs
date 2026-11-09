@@ -1,0 +1,162 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr
+          - img "29CM" [ref=e7]
+        - navigation [ref=e9]:
+          - list [ref=e10]:
+            - listitem [ref=e11]:
+              - link "마이페이지" [ref=e12] [cursor=pointer]:
+                - /url: https://www.29cm.co.kr/my-page
+            - listitem [ref=e18]:
+              - link "좋아요" [ref=e19] [cursor=pointer]:
+                - /url: https://www.29cm.co.kr/my-page/heart/product
+            - listitem [ref=e24]:
+              - link "장바구니" [ref=e25] [cursor=pointer]:
+                - /url: https://www.29cm.co.kr/order/cart
+            - listitem [ref=e30]:
+              - button "로그인/회원가입" [ref=e31] [cursor=pointer]
+    - navigation [ref=e33]:
+      - generic [ref=e34]:
+        - list [ref=e35]:
+          - listitem [ref=e36]:
+            - link "Special-Order" [ref=e37] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/store/special-order
+          - listitem [ref=e38]:
+            - link "Showcase" [ref=e39] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/store/showcase
+          - listitem [ref=e40]:
+            - link "PT" [ref=e41] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/store/pt?Z25i
+          - listitem [ref=e42]:
+            - link "29Magazine" [ref=e43] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/content/29magazine
+        - button [ref=e44] [cursor=pointer]
+      - list [ref=e48]:
+        - listitem [ref=e49]:
+          - link "BEST" [ref=e50] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/store/best-items
+        - listitem [ref=e53]:
+          - generic [ref=e54]: WOMEN
+        - listitem [ref=e56]:
+          - generic [ref=e57]: MEN
+        - listitem [ref=e59]:
+          - generic [ref=e60]: INTERIOR
+        - listitem [ref=e62]:
+          - generic [ref=e63]: KITCHEN
+        - listitem [ref=e65]:
+          - generic [ref=e66]: ELECTRONICS
+        - listitem [ref=e68]:
+          - generic [ref=e69]: DIGITAL
+        - listitem [ref=e71]:
+          - generic [ref=e72]: BEAUTY
+        - listitem [ref=e74]:
+          - generic [ref=e75]: FOOD
+        - listitem [ref=e77]:
+          - generic [ref=e78]: LEISURE
+        - listitem [ref=e80]:
+          - generic [ref=e81]: KIDS
+        - listitem [ref=e83]:
+          - generic [ref=e84]: TICKET
+        - listitem [ref=e86]:
+          - generic [ref=e87]: CULTURE
+        - listitem [ref=e89]:
+          - generic [ref=e90]: EARTH
+        - listitem [ref=e93]:
+          - link "Event" [ref=e94] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/store/event
+        - listitem [ref=e95]:
+          - link "Lookbook" [ref=e96] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/store/lookbook
+  - main [ref=e97]:
+    - generic [ref=e99]:
+      - separator [ref=e100]
+      - separator [ref=e101]
+      - list [ref=e103]:
+        - link [ref=e104] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/campaign/2026/11/29-week
+          - img "이구위크_메인 페이지" [ref=e108]
+        - link [ref=e109] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/campaign/2026/11/29-week/first-benefit
+          - img "이구위크_첫구매 페이지" [ref=e113]
+        - link [ref=e114] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/showcaseplus/2026/11/108pound
+          - img "108POUND" [ref=e118]
+        - link [ref=e119] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7328
+          - img "ELLOGE" [ref=e123]
+        - link [ref=e124] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/brand-news/77539
+          - img "AAKAM" [ref=e128]
+        - link [ref=e129] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/29-limited-order/2026/11/kentroyal-hellokitty
+          - img "KENTROYAL" [ref=e133]
+        - link [ref=e134] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7338
+          - img "SULWHASOO" [ref=e138]
+        - link [ref=e139] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/29-showcaseplus/2026/11/always-in-season
+          - img "NIKE" [ref=e143]
+        - link [ref=e144] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/special/2026/11/gelatopique
+          - img "GELATO PIQUE" [ref=e148]
+        - link [ref=e149] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/brand-event/2026/11/06/hacer
+          - img "HACER" [ref=e153]
+        - link [ref=e154] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/29-showcaseplus/2026/11/poloralphlauren
+          - img "POLO RALPH LAUREN" [ref=e158]
+        - link [ref=e159] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/showcase/7299
+          - img "FIRENZE.A" [ref=e163]
+        - link [ref=e164] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7266
+          - img "RAWUMBER" [ref=e168]
+        - link [ref=e169] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/products/4267200
+          - img "beheavyer" [ref=e173]
+        - link [ref=e174] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7298
+          - img "UNAFFECTED" [ref=e178]
+        - link [ref=e179] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/29-limited-order/2026/11/subu-silicagel
+          - img "SUBU" [ref=e183]
+        - link [ref=e184] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7304
+          - img "RRACE" [ref=e188]
+        - link [ref=e189] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/showcase/7203
+          - img "SIERRA DESIGNS" [ref=e193]
+        - link [ref=e194] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7251
+          - img "FOETO" [ref=e198]
+        - link [ref=e199] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7268
+          - img "AUBOUR" [ref=e203]
+        - link [ref=e204] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/special/2026/10/wkndrs3
+          - img "WKNDRS" [ref=e208]
+        - link [ref=e209] [cursor=pointer]:
+          - /url: https://content.29cm.co.kr/showcase/7207
+          - img "LOW CLASSIC" [ref=e213]
+        - link [ref=e214] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/products/4321043
+          - img "EASTLOGUE PERMANENT" [ref=e218]
+        - link [ref=e219] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/focus/2026/10/27/oggitt
+          - img "OGGITT" [ref=e223]
+        - link [ref=e224] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/29-showcaseplus/2026/10/nilbyp
+          - img "NILBY P" [ref=e228]
+      - generic [ref=e229]:
+        - generic:
+          - generic:
+            - status
+      - generic [ref=e231]:
+        - separator [ref=e233]
+        - separator [ref=e234]
+        - generic [ref=e235]:
+          - separator [ref=e237]
+          - button "더보기" [ref=e238] [cursor=pointer]

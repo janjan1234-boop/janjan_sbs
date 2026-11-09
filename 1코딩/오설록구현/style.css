@@ -503,7 +503,7 @@ button{
     height: auto;
     object-fit: contain;
 }
-
+/* footer에도 공통 클래스 만들어둠. */
 
 .ft{
     height: 197px;

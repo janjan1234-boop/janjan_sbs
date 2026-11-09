@@ -313,23 +313,59 @@ display외 다른 요소도 중복되어 제거20261103*/
     justify-content: space-between;
 }
 .main_left_con{
-    width: 50%;
-    background-color: #222;
+    width: 75%;
 }
 
 .main_right_con{
     width: 100%;
+    
+}
+.main_right_first{
     display: flex;
+    display: flex;
+    align-items: flex-start;
     justify-content: space-between;
 }
 .main_right_con1{
     width: 100%;
-    background-color: #444;
+}
+.main_right_con1 > a > img{
+    display: block;
+    width: 100%;
 }
 
 .main_right_con2{
-    margin: 0;
     width: 100%;
-    background-color: #888;
+}
 
+.main_right_con2 > a > img{
+    display: block;
+    width: 100%;}
+
+.main_left_con > a > img{
+    display: block;
+    width: 100%;
+}
+.con-list{
+    box-sizing: border-box;
+    width: 50%;
+    height: 746px;
+    padding: 32px 24px 32px 24px;
+    border: 1px solid #ddd;
+}
+.con-list > a > img{
+    display: block;
+    width: 100%;
+}
+.cardtitle{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.cardsub{
+    font-size: 15px;
+    font-weight: 700;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
 }
