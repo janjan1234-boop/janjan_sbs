@@ -1,0 +1,313 @@
+- generic [ref=e9]:
+  - generic [ref=e10]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - heading "FACADE PATTERN" [level=1] [ref=e21]
+        - heading "파사드패턴" [level=1] [ref=e24]
+        - heading "26. 11. 9. - 11. 19." [level=1] [ref=e27]
+      - img [ref=e29]:
+        - paragraph [ref=e31]: ~5+15%
+    - generic [ref=e36]:
+      - link "소개" [ref=e37] [cursor=pointer]:
+        - /url: "#brand"
+      - link "에디토리얼" [ref=e40] [cursor=pointer]:
+        - /url: "#editorial"
+    - generic [ref=e45]:
+      - generic [ref=e49]:
+        - paragraph [ref=e51]:
+          - strong [ref=e52]: 지금을 가장 아름답게 즐기는 방법, 파사드패턴
+        - paragraph [ref=e54]: 가을과 겨울에 더욱 매력적인 파사드패턴의 FW 베스트와 단독 신상을 이구위크의 단독 혜택으로 만나보세요.
+      - link "브랜드 홈 바로가기" [ref=e56] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/store/brand/3501
+  - generic [ref=e77]:
+    - button "추천" [pressed] [ref=e89] [cursor=pointer]
+    - generic [ref=e95]:
+      - button [ref=e100] [cursor=pointer]:
+        - link [ref=e101]:
+          - /url: https://product.29cm.co.kr/catalog/2796269
+          - button [ref=e105]
+        - generic [ref=e110]:
+          - generic [ref=e111]:
+            - button "파사드패턴" [ref=e112]
+            - link "오버핏 캐시미어 하프 코트_black" [ref=e114]:
+              - /url: https://product.29cm.co.kr/catalog/2796269
+          - link [ref=e115]:
+            - /url: https://product.29cm.co.kr/catalog/2796269
+            - generic [ref=e116]:
+              - paragraph [ref=e117]: 5%
+              - paragraph [ref=e118]: 435,100
+          - link [ref=e119]:
+            - /url: https://product.29cm.co.kr/catalog/2796269
+      - button [ref=e124] [cursor=pointer]:
+        - link [ref=e125]:
+          - /url: https://product.29cm.co.kr/catalog/2796275
+          - button [ref=e129]
+        - generic [ref=e134]:
+          - generic [ref=e135]:
+            - button "파사드패턴" [ref=e136]
+            - link "오버핏 캐시미어 하프 코트_charcoal" [ref=e138]:
+              - /url: https://product.29cm.co.kr/catalog/2796275
+          - link [ref=e139]:
+            - /url: https://product.29cm.co.kr/catalog/2796275
+            - generic [ref=e140]:
+              - paragraph [ref=e141]: 5%
+              - paragraph [ref=e142]: 435,100
+          - link [ref=e143]:
+            - /url: https://product.29cm.co.kr/catalog/2796275
+      - button [ref=e148] [cursor=pointer]:
+        - link [ref=e149]:
+          - /url: https://product.29cm.co.kr/catalog/2796277
+          - button [ref=e153]
+        - generic [ref=e158]:
+          - generic [ref=e159]:
+            - button "파사드패턴" [ref=e160]
+            - link "오버핏 캐시미어 하프 코트_melange brown" [ref=e162]:
+              - /url: https://product.29cm.co.kr/catalog/2796277
+          - link [ref=e163]:
+            - /url: https://product.29cm.co.kr/catalog/2796277
+            - generic [ref=e164]:
+              - paragraph [ref=e165]: 5%
+              - paragraph [ref=e166]: 435,100
+          - link [ref=e167]:
+            - /url: https://product.29cm.co.kr/catalog/2796277
+      - button [ref=e172] [cursor=pointer]:
+        - link [ref=e173]:
+          - /url: https://product.29cm.co.kr/catalog/2923189
+          - button [ref=e177]
+        - generic [ref=e182]:
+          - generic [ref=e183]:
+            - button "파사드패턴" [ref=e184]
+            - link "램스울 퍼 하프 코트_brown" [ref=e186]:
+              - /url: https://product.29cm.co.kr/catalog/2923189
+          - link [ref=e187]:
+            - /url: https://product.29cm.co.kr/catalog/2923189
+            - generic [ref=e188]:
+              - paragraph [ref=e189]: 5%
+              - paragraph [ref=e190]: 378,100
+          - link [ref=e191]:
+            - /url: https://product.29cm.co.kr/catalog/2923189
+      - button [ref=e196] [cursor=pointer]:
+        - link [ref=e197]:
+          - /url: https://product.29cm.co.kr/catalog/3633166
+          - button [ref=e201]
+        - generic [ref=e206]:
+          - generic [ref=e207]:
+            - button "파사드패턴" [ref=e208]
+            - link "램스울 퍼 하프 코트_camel" [ref=e210]:
+              - /url: https://product.29cm.co.kr/catalog/3633166
+          - link [ref=e211]:
+            - /url: https://product.29cm.co.kr/catalog/3633166
+            - generic [ref=e212]:
+              - paragraph [ref=e213]: 5%
+              - paragraph [ref=e214]: 378,100
+          - link [ref=e215]:
+            - /url: https://product.29cm.co.kr/catalog/3633166
+      - button [ref=e220] [cursor=pointer]:
+        - link [ref=e221]:
+          - /url: https://product.29cm.co.kr/catalog/2923188
+          - button [ref=e225]
+        - generic [ref=e230]:
+          - generic [ref=e231]:
+            - button "파사드패턴" [ref=e232]
+            - link "램스울 퍼 하프 코트_cream" [ref=e234]:
+              - /url: https://product.29cm.co.kr/catalog/2923188
+          - link [ref=e235]:
+            - /url: https://product.29cm.co.kr/catalog/2923188
+            - generic [ref=e236]:
+              - paragraph [ref=e237]: 5%
+              - paragraph [ref=e238]: 378,100
+          - link [ref=e239]:
+            - /url: https://product.29cm.co.kr/catalog/2923188
+      - button [ref=e244] [cursor=pointer]:
+        - link [ref=e245]:
+          - /url: https://product.29cm.co.kr/catalog/4196712
+          - button [ref=e249]
+        - generic [ref=e254]:
+          - generic [ref=e255]:
+            - button "파사드패턴" [ref=e256]
+            - link "오버핏 캐시미어 카 코트_black" [ref=e258]:
+              - /url: https://product.29cm.co.kr/catalog/4196712
+          - link [ref=e259]:
+            - /url: https://product.29cm.co.kr/catalog/4196712
+            - generic [ref=e260]:
+              - paragraph [ref=e261]: 5%
+              - paragraph [ref=e262]: 511,100
+          - link [ref=e263]:
+            - /url: https://product.29cm.co.kr/catalog/4196712
+      - button [ref=e268] [cursor=pointer]:
+        - link [ref=e269]:
+          - /url: https://product.29cm.co.kr/catalog/3553088
+          - button [ref=e273]
+        - generic [ref=e278]:
+          - generic [ref=e279]:
+            - button "파사드패턴" [ref=e280]
+            - link "패디드 하프 코트_black" [ref=e282]:
+              - /url: https://product.29cm.co.kr/catalog/3553088
+          - link [ref=e283]:
+            - /url: https://product.29cm.co.kr/catalog/3553088
+            - generic [ref=e284]:
+              - paragraph [ref=e285]: 5%
+              - paragraph [ref=e286]: 330,600
+          - link [ref=e287]:
+            - /url: https://product.29cm.co.kr/catalog/3553088
+      - button [ref=e292] [cursor=pointer]:
+        - link [ref=e293]:
+          - /url: https://product.29cm.co.kr/catalog/3451326
+          - button [ref=e297]
+        - generic [ref=e302]:
+          - generic [ref=e303]:
+            - button "파사드패턴" [ref=e304]
+            - link "캐시미어 벨티드 하프 코트_black" [ref=e306]:
+              - /url: https://product.29cm.co.kr/catalog/3451326
+          - link [ref=e307]:
+            - /url: https://product.29cm.co.kr/catalog/3451326
+            - generic [ref=e308]:
+              - paragraph [ref=e309]: 5%
+              - paragraph [ref=e310]: 473,100
+          - link [ref=e311]:
+            - /url: https://product.29cm.co.kr/catalog/3451326
+      - button [ref=e316] [cursor=pointer]:
+        - link [ref=e317]:
+          - /url: https://product.29cm.co.kr/catalog/3451318
+          - button [ref=e321]
+        - generic [ref=e326]:
+          - generic [ref=e327]:
+            - button "파사드패턴" [ref=e328]
+            - link "캐시미어 벨티드 하프 코트_charcoal" [ref=e330]:
+              - /url: https://product.29cm.co.kr/catalog/3451318
+          - link [ref=e331]:
+            - /url: https://product.29cm.co.kr/catalog/3451318
+            - generic [ref=e332]:
+              - paragraph [ref=e333]: 5%
+              - paragraph [ref=e334]: 473,100
+          - link [ref=e335]:
+            - /url: https://product.29cm.co.kr/catalog/3451318
+      - button [ref=e340] [cursor=pointer]:
+        - link [ref=e341]:
+          - /url: https://product.29cm.co.kr/catalog/1224495
+          - button [ref=e345]
+        - generic [ref=e350]:
+          - generic [ref=e351]:
+            - button "파사드패턴" [ref=e352]
+            - link "캐시미어 발마칸 코트_black" [ref=e354]:
+              - /url: https://product.29cm.co.kr/catalog/1224495
+          - link [ref=e355]:
+            - /url: https://product.29cm.co.kr/catalog/1224495
+            - generic [ref=e356]:
+              - paragraph [ref=e357]: 5%
+              - paragraph [ref=e358]: 520,600
+          - link [ref=e359]:
+            - /url: https://product.29cm.co.kr/catalog/1224495
+      - button [ref=e364] [cursor=pointer]:
+        - link [ref=e365]:
+          - /url: https://product.29cm.co.kr/catalog/2198876
+          - button [ref=e369]
+        - generic [ref=e374]:
+          - generic [ref=e375]:
+            - button "파사드패턴" [ref=e376]
+            - link "캐시미어 더블 코트_charcoal" [ref=e378]:
+              - /url: https://product.29cm.co.kr/catalog/2198876
+          - link [ref=e379]:
+            - /url: https://product.29cm.co.kr/catalog/2198876
+            - generic [ref=e380]:
+              - paragraph [ref=e381]: 5%
+              - paragraph [ref=e382]: 539,600
+          - link [ref=e383]:
+            - /url: https://product.29cm.co.kr/catalog/2198876
+      - button [ref=e388] [cursor=pointer]:
+        - link [ref=e389]:
+          - /url: https://product.29cm.co.kr/catalog/2198985
+          - button [ref=e393]
+        - generic [ref=e398]:
+          - generic [ref=e399]:
+            - button "파사드패턴" [ref=e400]
+            - link "캐시미어 블레이저 코트_black" [ref=e402]:
+              - /url: https://product.29cm.co.kr/catalog/2198985
+          - link [ref=e403]:
+            - /url: https://product.29cm.co.kr/catalog/2198985
+            - generic [ref=e404]:
+              - paragraph [ref=e405]: 5%
+              - paragraph [ref=e406]: 406,600
+          - link [ref=e407]:
+            - /url: https://product.29cm.co.kr/catalog/2198985
+      - button [ref=e412] [cursor=pointer]:
+        - link [ref=e413]:
+          - /url: https://product.29cm.co.kr/catalog/2796232
+          - button [ref=e417]
+        - generic [ref=e422]:
+          - generic [ref=e423]:
+            - button "파사드패턴" [ref=e424]
+            - link "캐시미어 싱글 코트_black" [ref=e426]:
+              - /url: https://product.29cm.co.kr/catalog/2796232
+          - link [ref=e427]:
+            - /url: https://product.29cm.co.kr/catalog/2796232
+            - generic [ref=e428]:
+              - paragraph [ref=e429]: 5%
+              - paragraph [ref=e430]: 520,600
+          - link [ref=e431]:
+            - /url: https://product.29cm.co.kr/catalog/2796232
+      - button [ref=e436] [cursor=pointer]:
+        - link [ref=e437]:
+          - /url: https://product.29cm.co.kr/catalog/2198998
+          - button [ref=e441]
+        - generic [ref=e446]:
+          - generic [ref=e447]:
+            - button "파사드패턴" [ref=e448]
+            - link "캐시미어 블레이저 코트_charcoal" [ref=e450]:
+              - /url: https://product.29cm.co.kr/catalog/2198998
+          - link [ref=e451]:
+            - /url: https://product.29cm.co.kr/catalog/2198998
+            - generic [ref=e452]:
+              - paragraph [ref=e453]: 5%
+              - paragraph [ref=e454]: 406,600
+          - link [ref=e455]:
+            - /url: https://product.29cm.co.kr/catalog/2198998
+      - button [ref=e460] [cursor=pointer]:
+        - link [ref=e461]:
+          - /url: https://product.29cm.co.kr/catalog/1224496
+          - button [ref=e465]
+        - generic [ref=e470]:
+          - generic [ref=e471]:
+            - button "파사드패턴" [ref=e472]
+            - link "캐시미어 발마칸 코트_charcoal" [ref=e474]:
+              - /url: https://product.29cm.co.kr/catalog/1224496
+          - link [ref=e475]:
+            - /url: https://product.29cm.co.kr/catalog/1224496
+            - generic [ref=e476]:
+              - paragraph [ref=e477]: 5%
+              - paragraph [ref=e478]: 520,600
+          - link [ref=e479]:
+            - /url: https://product.29cm.co.kr/catalog/1224496
+      - button [ref=e484] [cursor=pointer]:
+        - link [ref=e485]:
+          - /url: https://product.29cm.co.kr/catalog/2198850
+          - button [ref=e489]
+        - generic [ref=e494]:
+          - generic [ref=e495]:
+            - button "파사드패턴" [ref=e496]
+            - link "캐시미어 더블 코트_black" [ref=e498]:
+              - /url: https://product.29cm.co.kr/catalog/2198850
+          - link [ref=e499]:
+            - /url: https://product.29cm.co.kr/catalog/2198850
+            - generic [ref=e500]:
+              - paragraph [ref=e501]: 5%
+              - paragraph [ref=e502]: 539,600
+          - link [ref=e503]:
+            - /url: https://product.29cm.co.kr/catalog/2198850
+      - button [ref=e508] [cursor=pointer]:
+        - link [ref=e509]:
+          - /url: https://product.29cm.co.kr/catalog/2923187
+          - button [ref=e513]
+        - generic [ref=e518]:
+          - generic [ref=e519]:
+            - button "파사드패턴" [ref=e520]
+            - link "오버핏 발마칸 패디드 코트_black" [ref=e522]:
+              - /url: https://product.29cm.co.kr/catalog/2923187
+          - link [ref=e523]:
+            - /url: https://product.29cm.co.kr/catalog/2923187
+            - generic [ref=e524]:
+              - paragraph [ref=e525]: 5%
+              - paragraph [ref=e526]: 406,600
+          - link [ref=e527]:
+            - /url: https://product.29cm.co.kr/catalog/2923187
+  - button [ref=e639] [cursor=pointer]

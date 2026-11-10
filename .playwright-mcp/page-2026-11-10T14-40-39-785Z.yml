@@ -1,0 +1,203 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - heading [level=1] [ref=e5]:
+          - link [ref=e6] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/
+            - img "29CM 로고이미지" [ref=e7]
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link [ref=e11] [cursor=pointer]:
+              - /url: "#"
+              - img "마이페이지" [ref=e12]
+              - text: 마이페이지
+          - listitem [ref=e13]:
+            - link [ref=e14] [cursor=pointer]:
+              - /url: "#"
+              - img "좋아요" [ref=e15]
+              - text: 좋아요
+          - listitem [ref=e16]:
+            - link [ref=e17] [cursor=pointer]:
+              - /url: "#"
+              - img "장바구니" [ref=e18]
+              - text: 장바구니
+          - listitem [ref=e19]:
+            - link [ref=e20] [cursor=pointer]:
+              - /url: https://auth.29cm.co.kr/login?redirect_uri=https%3A%2F%2Fwww.29cm.co.kr%2F
+              - button "로그인/회원가입" [ref=e21]
+      - generic [ref=e22]:
+        - list [ref=e23]:
+          - listitem [ref=e24]:
+            - link "Special-Order" [ref=e25] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/store/special-order
+          - listitem [ref=e26]:
+            - link "Showcase" [ref=e27] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/store/showcase
+          - listitem [ref=e28]:
+            - link "PT" [ref=e29] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/store/pt?Z25i
+          - listitem [ref=e30]:
+            - link "29Magazine" [ref=e31] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/content/29magazine
+        - link [ref=e33] [cursor=pointer]:
+          - /url: "#"
+          - img "검색 아이콘" [ref=e34]
+      - navigation [ref=e35]:
+        - list [ref=e36]:
+          - listitem [ref=e37]:
+            - link "BEST" [ref=e38] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e39]:
+            - link "WOMEN" [ref=e40] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e41]:
+            - link "MEN" [ref=e42] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e43]:
+            - link "INTERIOR" [ref=e44] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e45]:
+            - link "KITCHEN" [ref=e46] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e47]:
+            - link "ELECTRONICS" [ref=e48] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e49]:
+            - link "DIGITAL" [ref=e50] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e51]:
+            - link "BEAUTY" [ref=e52] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e53]:
+            - link "FOOD" [ref=e54] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e55]:
+            - link "LEISURE" [ref=e56] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e57]:
+            - link "KIDS" [ref=e58] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e59]:
+            - link "TICKET" [ref=e60] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e61]:
+            - link "CULTURE" [ref=e62] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e63]:
+            - link "EARTH" [ref=e64] [cursor=pointer]:
+              - /url: "#"
+        - list [ref=e65]:
+          - listitem [ref=e66]:
+            - link "Event" [ref=e67] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e68]:
+            - link "Lookbook" [ref=e69] [cursor=pointer]:
+              - /url: "#"
+  - main [ref=e70]:
+    - complementary [ref=e71]:
+      - link [ref=e72] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/campaign/2026/11/29-week
+        - img "이구위크 메인페이지" [ref=e73]
+      - link [ref=e74] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/campaign/2026/11/29-week/first-benefit
+        - img "이구위크 첫 구매 페이지" [ref=e75]
+      - link [ref=e76] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcaseplus/2026/11/108pound
+        - img "108pound" [ref=e77]
+      - link [ref=e78] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcase/7328
+        - img "elloge" [ref=e79]
+      - link [ref=e80] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/brand-news/77539?product_sort=featured
+        - img "aakam" [ref=e81]
+      - link [ref=e82] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/29-limited-order/2026/11/kentroyal-hellokitty
+        - img "kentroyal" [ref=e83]
+      - link [ref=e84] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcase/7338
+        - img "sulwhasoo" [ref=e85]
+      - link [ref=e86] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/29-showcaseplus/2026/11/always-in-season
+        - img "nike" [ref=e87]
+      - link [ref=e88] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/special/2026/11/gelatopique
+        - img "gelato pique" [ref=e89]
+      - link [ref=e90] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/brand-event/2026/11/06/hacer
+        - img "hacer" [ref=e91]
+      - link [ref=e92] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/29-showcaseplus/2026/11/poloralphlauren
+        - img "polo ralph lauren" [ref=e93]
+      - link [ref=e94] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcase/7299
+        - img "firenze.a" [ref=e95]
+      - link [ref=e96] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcase/7266
+        - img "rawumber" [ref=e97]
+      - link [ref=e98] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/products/4267200
+        - img "beheavyer" [ref=e99]
+      - link [ref=e100] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcase/7298
+        - img "unaffected" [ref=e101]
+      - link [ref=e102] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/29-limited-order/2026/11/subu-silicagel
+        - img "subu" [ref=e103]
+    - generic [ref=e104]:
+      - generic [ref=e105]:
+        - link [ref=e107] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/campaign/2026/11/29-week?cache=true#one-brand-day
+          - img "이구위크 원브랜드데이 foeto" [ref=e108]
+        - link [ref=e110] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/collection/28501?product_sort=best
+          - img "이구위크 원브랜드데이 thisisneverthat" [ref=e111]
+      - generic [ref=e112]:
+        - link [ref=e113] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/focus/2026/11/09/facadepattern?cache=true
+          - img "파사드패턴 겨울 인기 상품" [ref=e114]
+        - paragraph [ref=e115]: 파사드패턴 겨울 인기 상품
+        - paragraph [ref=e116]: 단독 혜택으로 만나보세요.
+        - list [ref=e117]:
+          - listitem [ref=e118]:
+            - link "Line Floor Lamp Black 조명 에프에프 컬렉티브 Line Floor Lamp Black (전구증정) 장스탠드 플로어 조명 33% 256,310원 쿠폰 조건부 무료배송" [ref=e119] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/products/1871943
+              - img "Line Floor Lamp Black 조명" [ref=e120]
+              - generic [ref=e121]:
+                - paragraph [ref=e122]: 에프에프 컬렉티브
+                - paragraph [ref=e123]: Line Floor Lamp Black (전구증정) 장스탠드 플로어 조명
+                - paragraph [ref=e124]:
+                  - generic [ref=e125]: 33%
+                  - text: 256,310원
+                - generic [ref=e126]:
+                  - generic [ref=e127]: 쿠폰
+                  - generic [ref=e128]: 조건부 무료배송
+          - listitem [ref=e129]:
+            - link "배꽃비 무선 조명 포터블 램프 에프에프 컬렉티브 [29CM 단독 한정수량 / 선물포장] 배꽃비 무선 조명 포터블 램프 (전구증정) 29% 134,900원 쿠폰 조건부 무료배송 에디션" [ref=e130] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/products/4269819
+              - img "배꽃비 무선 조명 포터블 램프" [ref=e131]
+              - generic [ref=e132]:
+                - paragraph [ref=e133]: 에프에프 컬렉티브
+                - paragraph [ref=e134]: "[29CM 단독 한정수량 / 선물포장] 배꽃비 무선 조명 포터블 램프 (전구증정)"
+                - paragraph [ref=e135]:
+                  - generic [ref=e136]: 29%
+                  - text: 134,900원
+                - generic [ref=e137]:
+                  - generic [ref=e138]: 쿠폰
+                  - generic [ref=e139]: 조건부 무료배송
+                  - generic [ref=e140]: 에디션
+          - listitem [ref=e141]:
+            - link "밤새잎 무선 조명 포터블 램프 에프에프 컬렉티브 [29CM 단독 한정수량 / 선물포장] 밤새잎 무선 조명 포터블 램프 (전구증정) 29% 134,900원 쿠폰 조건부 무료배송 에디션" [ref=e142] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/products/4269825
+              - img "밤새잎 무선 조명 포터블 램프" [ref=e143]
+              - generic [ref=e144]:
+                - paragraph [ref=e145]: 에프에프 컬렉티브
+                - paragraph [ref=e146]: "[29CM 단독 한정수량 / 선물포장] 밤새잎 무선 조명 포터블 램프 (전구증정)"
+                - paragraph [ref=e147]:
+                  - generic [ref=e148]: 29%
+                  - text: 134,900원
+                - generic [ref=e149]:
+                  - generic [ref=e150]: 쿠폰
+                  - generic [ref=e151]: 조건부 무료배송
+                  - generic [ref=e152]: 에디션
+  - contentinfo

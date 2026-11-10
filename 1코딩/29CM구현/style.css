@@ -308,21 +308,32 @@ display외 다른 요소도 중복되어 제거20261103*/
 }
 
 .main{
-    height: 746px;
-    gap: 20px;
-    justify-content: space-between;
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(0, 3fr) minmax(0, 4fr);
+    column-gap: 20px;
+    height: auto;
 }
 .main_left_con{
-    width: 75%;
+    grid-column: 1;
+    width: 100%;
 }
 
 .main_right_con{
-    width: 100%;
-    
+    position: absolute;
+    grid-column: 2;
+    grid-row: 1;
+    inset: 0;
+    width: calc(100% - 20px);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    overflow: hidden;
 }
 .main_right_first{
     display: flex;
-    display: flex;
+    flex: none;
     align-items: flex-start;
     justify-content: space-between;
 }
@@ -346,19 +357,31 @@ display외 다른 요소도 중복되어 제거20261103*/
     display: block;
     width: 100%;
 }
+.listwraps{
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    align-items: stretch;
+    overflow: hidden;
+}
+.listwrap1, .listwrap2 { flex: 1; min-width: 0; }
+.listwrap2 {
+    border-right: 1px solid #ddd;
+}
+
 .con-list{
     box-sizing: border-box;
-    width: 50%;
-    height: 746px;
+    width: 100%;
     padding: 32px 24px 32px 24px;
-    border: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
 }
 .con-list > a > img{
     display: block;
     width: 100%;
 }
 .cardtitle{
-    margin-top: 10px;
+    margin-top: 15px;
     margin-bottom: 10px;
     font-size: 22px;
     font-weight: 700;
@@ -366,6 +389,57 @@ display외 다른 요소도 중복되어 제거20261103*/
 .cardsub{
     font-size: 15px;
     font-weight: 700;
-    padding-bottom: 20px;
-    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+}
+.cardlist{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.cardlist > li{
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+}
+.cardlist > li > a{
+    display: flex;
+    align-items: center;
+    min-width: 0;
+}
+.cardlist > li > a > img{
+    flex: 0 0 70px;
+    width: 70px;
+    height: 70px;
+    border-radius: 4px;
+    object-fit: cover;
+}
+.cardlist-info{
+    flex: 1;
+    min-width: 0;
+    padding: 1px 0 1px 10px;
+    color: #1f1f1f;
+}
+.cardlist-brand,
+.cardlist-name{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.cardlist-brand{
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 15px;
+}
+.cardlist-name{
+    font-size: 12px;
+    line-height: 16px;
+}
+.cardlist-price{
+    display: flex;
+    gap: 2px;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 18px;
+}
+.cardlist-price > span{
+    color: #ff4800;
 }

@@ -1,0 +1,192 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - generic [ref=f1e4]:
+        - heading [level=1] [ref=f1e5]:
+          - link [ref=f1e6] [cursor=pointer]:
+            - /url: https://www.29cm.co.kr/
+            - img "29CM 로고이미지" [ref=f1e7]
+        - list [ref=f1e9]:
+          - listitem [ref=f1e10]:
+            - link [ref=f1e11] [cursor=pointer]:
+              - /url: "#"
+              - img "마이페이지" [ref=f1e12]
+              - text: 마이페이지
+          - listitem [ref=f1e13]:
+            - link [ref=f1e14] [cursor=pointer]:
+              - /url: "#"
+              - img "좋아요" [ref=f1e15]
+              - text: 좋아요
+          - listitem [ref=f1e16]:
+            - link [ref=f1e17] [cursor=pointer]:
+              - /url: "#"
+              - img "장바구니" [ref=f1e18]
+              - text: 장바구니
+          - listitem [ref=f1e19]:
+            - link [ref=f1e20] [cursor=pointer]:
+              - /url: https://auth.29cm.co.kr/login?redirect_uri=https%3A%2F%2Fwww.29cm.co.kr%2F
+              - button "로그인/회원가입" [ref=f1e21]
+      - generic [ref=f1e22]:
+        - list [ref=f1e23]:
+          - listitem [ref=f1e24]:
+            - link "Special-Order" [ref=f1e25] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/store/special-order
+          - listitem [ref=f1e26]:
+            - link "Showcase" [ref=f1e27] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/store/showcase
+          - listitem [ref=f1e28]:
+            - link "PT" [ref=f1e29] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/store/pt?Z25i
+          - listitem [ref=f1e30]:
+            - link "29Magazine" [ref=f1e31] [cursor=pointer]:
+              - /url: https://www.29cm.co.kr/content/29magazine
+        - link [ref=f1e33] [cursor=pointer]:
+          - /url: "#"
+          - img "검색 아이콘" [ref=f1e34]
+      - navigation [ref=f1e35]:
+        - list [ref=f1e36]:
+          - listitem [ref=f1e37]:
+            - link "BEST" [ref=f1e38] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e39]:
+            - link "WOMEN" [ref=f1e40] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e41]:
+            - link "MEN" [ref=f1e42] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e43]:
+            - link "INTERIOR" [ref=f1e44] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e45]:
+            - link "KITCHEN" [ref=f1e46] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e47]:
+            - link "ELECTRONICS" [ref=f1e48] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e49]:
+            - link "DIGITAL" [ref=f1e50] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e51]:
+            - link "BEAUTY" [ref=f1e52] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e53]:
+            - link "FOOD" [ref=f1e54] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e55]:
+            - link "LEISURE" [ref=f1e56] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e57]:
+            - link "KIDS" [ref=f1e58] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e59]:
+            - link "TICKET" [ref=f1e60] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e61]:
+            - link "CULTURE" [ref=f1e62] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e63]:
+            - link "EARTH" [ref=f1e64] [cursor=pointer]:
+              - /url: "#"
+        - list [ref=f1e65]:
+          - listitem [ref=f1e66]:
+            - link "Event" [ref=f1e67] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f1e68]:
+            - link "Lookbook" [ref=f1e69] [cursor=pointer]:
+              - /url: "#"
+  - main [ref=f1e70]:
+    - complementary [ref=f1e71]:
+      - link [ref=f1e72] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/campaign/2026/11/29-week
+        - img "이구위크 메인페이지" [ref=f1e73]
+      - link [ref=f1e74] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/campaign/2026/11/29-week/first-benefit
+        - img "이구위크 첫 구매 페이지" [ref=f1e75]
+      - link [ref=f1e76] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcaseplus/2026/11/108pound
+        - img "108pound" [ref=f1e77]
+      - link [ref=f1e78] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcase/7328
+        - img "elloge" [ref=f1e79]
+      - link [ref=f1e80] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/brand-news/77539?product_sort=featured
+        - img "aakam" [ref=f1e81]
+      - link [ref=f1e82] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/29-limited-order/2026/11/kentroyal-hellokitty
+        - img "kentroyal" [ref=f1e83]
+      - link [ref=f1e84] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcase/7338
+        - img "sulwhasoo" [ref=f1e85]
+      - link [ref=f1e86] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/29-showcaseplus/2026/11/always-in-season
+        - img "nike" [ref=f1e87]
+      - link [ref=f1e88] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/special/2026/11/gelatopique
+        - img "gelato pique" [ref=f1e89]
+      - link [ref=f1e90] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/brand-event/2026/11/06/hacer
+        - img "hacer" [ref=f1e91]
+      - link [ref=f1e92] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/29-showcaseplus/2026/11/poloralphlauren
+        - img "polo ralph lauren" [ref=f1e93]
+      - link [ref=f1e94] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcase/7299
+        - img "firenze.a" [ref=f1e95]
+      - link [ref=f1e96] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcase/7266
+        - img "rawumber" [ref=f1e97]
+      - link [ref=f1e98] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/products/4267200
+        - img "beheavyer" [ref=f1e99]
+      - link [ref=f1e100] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/showcase/7298
+        - img "unaffected" [ref=f1e101]
+      - link [ref=f1e102] [cursor=pointer]:
+        - /url: https://www.29cm.co.kr/content/29-limited-order/2026/11/subu-silicagel
+        - img "subu" [ref=f1e103]
+    - generic [ref=f1e104]:
+      - generic [ref=f1e105]:
+        - link [ref=f1e107] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/campaign/2026/11/29-week?cache=true#one-brand-day
+          - img "이구위크 원브랜드데이 foeto" [ref=f1e108]
+        - link [ref=f1e110] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/collection/28501?product_sort=best
+          - img "이구위크 원브랜드데이 thisisneverthat" [ref=f1e111]
+      - generic [ref=f1e112]:
+        - link [ref=f1e113] [cursor=pointer]:
+          - /url: https://www.29cm.co.kr/content/focus/2026/11/09/facadepattern?cache=true
+          - img "파사드패턴 겨울 인기 상품" [ref=f1e114]
+        - paragraph [ref=f1e115]: 파사드패턴 겨울 인기 상품
+        - paragraph [ref=f1e116]: 단독 혜택으로 만나보세요.
+        - list [ref=f1e117]:
+          - listitem [ref=f1e118]:
+            - link "오버핏 캐시미어 하프 코트 블랙 파사드패턴 오버핏 캐시미어 하프 코트_black 5% 435,100원" [ref=f1e119] [cursor=pointer]:
+              - /url: https://product.29cm.co.kr/catalog/2796269
+              - img "오버핏 캐시미어 하프 코트 블랙" [ref=f1e120]
+              - generic [ref=f1e121]:
+                - paragraph [ref=f1e122]: 파사드패턴
+                - paragraph [ref=f1e123]: 오버핏 캐시미어 하프 코트_black
+                - paragraph [ref=f1e124]:
+                  - generic [ref=f1e125]: 5%
+                  - text: 435,100원
+          - listitem [ref=f1e126]:
+            - link "오버핏 캐시미어 하프 코트 차콜 파사드패턴 오버핏 캐시미어 하프 코트_charcoal 5% 435,100원" [ref=f1e127] [cursor=pointer]:
+              - /url: https://product.29cm.co.kr/catalog/2796275
+              - img "오버핏 캐시미어 하프 코트 차콜" [ref=f1e128]
+              - generic [ref=f1e129]:
+                - paragraph [ref=f1e130]: 파사드패턴
+                - paragraph [ref=f1e131]: 오버핏 캐시미어 하프 코트_charcoal
+                - paragraph [ref=f1e132]:
+                  - generic [ref=f1e133]: 5%
+                  - text: 435,100원
+          - listitem [ref=f1e134]:
+            - link "오버핏 캐시미어 하프 코트 멜란지 브라운 파사드패턴 오버핏 캐시미어 하프 코트_melange brown 5% 435,100원" [ref=f1e135] [cursor=pointer]:
+              - /url: https://product.29cm.co.kr/catalog/2796277
+              - img "오버핏 캐시미어 하프 코트 멜란지 브라운" [ref=f1e136]
+              - generic [ref=f1e137]:
+                - paragraph [ref=f1e138]: 파사드패턴
+                - paragraph [ref=f1e139]: 오버핏 캐시미어 하프 코트_melange brown
+                - paragraph [ref=f1e140]:
+                  - generic [ref=f1e141]: 5%
+                  - text: 435,100원
+  - contentinfo
