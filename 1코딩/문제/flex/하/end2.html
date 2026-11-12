@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>end2</title>
+</head>
+<!-- css는 style 태그 안에 있습니다. 해당 태그를 열어서 문제를 확인해주세요. -->
+<!-- 문제: 해당 이미지의 1box, 2box, 3box가 세로정렬로 되어 있습니다. 가로정렬이 되도록 수정하고 3,2,1 순서가 아닌 1,2,3순서가 되도록 변경해주세요. 또 점선끼리 맞닿은 채 이미지 정 가운데 정렬이 되도록 수정해주세요. -->
+    <style>
+
+      .container {
+        margin: 0 auto;
+        width: 1000px;
+        height: 700px;
+        background-color: beige;
+        border: 1px solid chocolate;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .box1, .box2, .box3 {
+          text-align: center;
+          line-height: 200px;
+          width: 200px;
+          height: 200px;
+          border: 2px solid chocolate;
+          background-color: blanchedalmond;
+          color: chocolate;
+      }
+
+      .box1{
+        border-right-style: dashed;
+      }
+      .box2{
+        border-left-style: dashed;
+        border-right-style: dashed;
+      }
+      .box3{
+        border-left-style: dashed;
+}
+    </style>  
+<body>
+    <div class="container">
+  <div class="box1">1</div>
+  <div class="box2">2</div>
+  <div class="box3">3</div>
+</div>
+</body>
+</html>

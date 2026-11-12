@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex2</title>
+</head>
+<!-- css는 style 태그 안에 있습니다. 해당 태그를 열어서 문제를 확인해주세요. -->
+<!-- 문제: 해당 이미지의 1box, 2box, 3box가 세로정렬로 되어 있습니다. 가로정렬이 되도록 수정하고 3,2,1 순서가 아닌 1,2,3순서가 되도록 변경해주세요. 또 점선끼리 맞닿은 채 이미지 정 가운데 정렬이 되도록 수정해주세요. -->
+    <style>
+
+      .container {
+        margin: 0 auto;
+        width: 1000px;
+        height: 700px;
+        background-color: beige;
+        border: 1px solid chocolate;
+        display: flex;
+        /* 해설1: display: flex;가 적용되어 원래는 자식요소들이 가로정렬되어야 하지만 flex-direction: column-reverse;때문에 세로로 뒤집어 정렬되어 있습니다. 해당 요소를 지워줍니다.*/
+        /* 해설2: justify-content: space-between로 인해 자식요소들이 부모요소의 양끝을 기준으로 여백이 균등하게 나뉘어 점선이 붙질 않습니다. justify-content: center;로 바꿔 부모요소의
+        가로 가운데로 모이도록 해줍니다.*/
+        justify-content: center;
+        /* 해설3: 가로 가운데 정렬은 되었으나 3개의 박스가 세로 가운데 정렬은 되지 않았습니다. 세로 가운데 정렬을 위해 align-items: center;를 추가해줍니다.*/
+        align-items: center;
+      }
+
+      .box1, .box2, .box3 {
+          text-align: center;
+          line-height: 200px;
+          width: 200px;
+          height: 200px;
+          border: 2px solid chocolate;
+          background-color: blanchedalmond;
+          color: chocolate;
+      }
+
+      .box1{
+        border-right-style: dashed;
+      }
+      .box2{
+        border-left-style: dashed;
+        border-right-style: dashed;
+      }
+      .box3{
+        border-left-style: dashed;
+}
+    </style>  
+<body>
+    <div class="container">
+  <div class="box1">1</div>
+  <div class="box2">2</div>
+  <div class="box3">3</div>
+</div>
+</body>
+</html>

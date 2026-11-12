@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex1</title>
+</head>
+<!-- css는 style 태그 안에 있습니다. 해당 태그를 열어서 문제를 확인해주세요. -->
+<!-- 정답 -->
+    <style>
+.container {
+  margin: 0 auto;
+  width: 1000px;
+  height: 700px;
+  background-color: beige;
+  border: 1px solid chocolate;
+  /* 해설1: 부모 요소인 div에 따로 display: flex;를 주지 않으면, 자식 요소인 div 태그 역시 기본값이 display: block;이기 때문에 세로로 배치됩니다.
+  때문에 먼저 display: flex;를 .left, .right의 부모요소인 .container에 추가해줍니다.
+   */
+  display: flex;
+  /* 해설2: flex를 주면 가로 정렬은 되지만 두 개의 네모가 양 끝으로 떨어져 있습니다. 
+  이는 .container의 width:1000px인채로 justify-content: space-between;가 들어가 1000px 좌우 끝에 자식 요소가 붙어있게 했기 때문입니다.
+  justify-content: space-between;->justify-content: flex-start로 수정하여 요소들이 왼쪽으로 붙을 수 있도록 해줍니다.
+  css를 수정하면 왼쪽과 오른쪽이 붙어 점선끼리 맞닿게 됩니다.*/
+  justify-content: flex-start;
+
+}
+
+.left, .right {
+    text-align: center;
+    line-height: 300px;
+    width: 300px;
+    height: 300px;
+    border: 2px solid chocolate;
+    background-color: blanchedalmond;
+    color: chocolate;
+}
+
+.left {
+  border-right-style: dashed;
+  
+}
+
+.right {
+  border-left-style: dashed;
+}
+    </style>
+<body>
+    <div class="container">
+  <div class="left">왼쪽</div>
+  <div class="right">오른쪽</div>
+</div>
+</body>
+</html>
