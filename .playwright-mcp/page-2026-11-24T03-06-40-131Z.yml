@@ -1,0 +1,191 @@
+- generic [ref=f89e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f89e13]:
+      - generic [ref=f89e15]:
+        - generic [ref=f89e16]:
+          - combobox "검색" [ref=f89e18]: rope knot line art pattern
+          - generic [ref=f89e19]:
+            - button "검색 입력 삭제" [ref=f89e23] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f89e30]:
+              - button "Pinterest 렌즈" [ref=f89e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f89e38] [cursor=pointer]:
+          - generic [ref=f89e40]:
+            - generic [ref=f89e41]: 모든 핀
+            - img "드롭다운" [ref=f89e43]
+      - link "내 프로필" [ref=f89e49] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f89e56]:
+          - generic [ref=f89e57]: 강
+      - button "계정" [ref=f89e61] [cursor=pointer]
+  - navigation [ref=f89e66]:
+    - generic [ref=f89e68]:
+      - generic [ref=f89e69]:
+        - generic "홈" [ref=f89e73]:
+          - link "홈" [ref=f89e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f89e81]:
+          - link "홈" [ref=f89e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f89e89]:
+          - link "내 보드" [ref=f89e90] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f89e97]:
+          - button "만들기" [ref=f89e98] [cursor=pointer]
+        - generic "메시지" [ref=f89e110]:
+          - button "메시지" [ref=f89e111] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f89e120]:
+        - button "설정 및 지원" [ref=f89e121] [cursor=pointer]
+  - main [ref=f89e126]:
+    - generic [ref=f89e129]:
+      - heading "검색 결과 페이지" [level=1] [ref=f89e131]
+      - region "필터 및 세분화 검색" [ref=f89e135]:
+        - button "필터 표시" [ref=f89e144] [cursor=pointer]
+      - generic [ref=f89e155]:
+        - generic [ref=f89e156]: rope knot line art pattern 검색 결과를 추가로 불러오는 중
+        - list [ref=f89e161]:
+          - listitem [ref=f89e162]:
+            - group "핀 카드" [ref=f89e167]:
+              - generic [ref=f89e169]:
+                - link "제목 없음 핀 페이지" [ref=f89e171] [cursor=pointer]:
+                  - /url: /pin/675188169162769143/
+                  - img "포함된 이미지:" [ref=f89e181]
+                - generic "추가 작업" [ref=f89e190]:
+                  - button "추가 작업" [ref=f89e191] [cursor=pointer]
+          - listitem [ref=f89e196]:
+            - group "핀 카드" [ref=f89e201]:
+              - generic [ref=f89e203]:
+                - link "제목 없음 핀 페이지" [ref=f89e205] [cursor=pointer]:
+                  - /url: /pin/218002438213813666/
+                  - img "포함된 이미지:" [ref=f89e215]
+                - generic "추가 작업" [ref=f89e224]:
+                  - button "추가 작업" [ref=f89e225] [cursor=pointer]
+          - listitem [ref=f89e230]:
+            - group "핀 카드" [ref=f89e235]:
+              - generic [ref=f89e237]:
+                - link "제목 없음 핀 페이지" [ref=f89e239] [cursor=pointer]:
+                  - /url: /pin/640214903319165105/
+                  - img "포함된 이미지:" [ref=f89e249]
+                - generic "추가 작업" [ref=f89e258]:
+                  - button "추가 작업" [ref=f89e259] [cursor=pointer]
+          - listitem [ref=f89e264]:
+            - group "핀 카드" [ref=f89e269]:
+              - generic [ref=f89e271]:
+                - link "제목 없음 핀 페이지" [ref=f89e273] [cursor=pointer]:
+                  - /url: /pin/555209460334384727/
+                  - img "포함된 이미지:" [ref=f89e283]
+                - generic "추가 작업" [ref=f89e292]:
+                  - button "추가 작업" [ref=f89e293] [cursor=pointer]
+          - listitem [ref=f89e298]:
+            - group "핀 카드" [ref=f89e303]:
+              - generic [ref=f89e305]:
+                - link "40 Rope Patterns - Big Set by Anastasiia Vnsk | Creative Market 핀 페이지" [ref=f89e307] [cursor=pointer]:
+                  - /url: /pin/4603241891557769344/
+                  - 'img "포함된 이미지: 40 Rope Patterns - Big Set by Anastasiia Vnsk | Creative Market" [ref=f89e317]'
+                - generic [ref=f89e322]:
+                  - generic [ref=f89e323]:
+                    - heading [level=2] [ref=f89e328]:
+                      - link "40 Rope Patterns - Big Set by Anastasiia Vnsk | Creative Market" [ref=f89e330] [cursor=pointer]:
+                        - /url: /pin/4603241891557769344/
+                    - link "Creative Market" [ref=f89e333] [cursor=pointer]:
+                      - /url: /creativemarket/
+                      - generic "Creative Market" [ref=f89e340]
+                  - generic "추가 작업" [ref=f89e343]:
+                    - button "추가 작업" [ref=f89e344] [cursor=pointer]
+          - listitem [ref=f89e349]:
+            - group "핀 카드" [ref=f89e354]:
+              - generic [ref=f89e356]:
+                - link "제목 없음 핀 페이지" [ref=f89e358] [cursor=pointer]:
+                  - /url: /pin/469500329923284914/
+                  - img "포함된 이미지:" [ref=f89e368]
+                - generic "추가 작업" [ref=f89e377]:
+                  - button "추가 작업" [ref=f89e378] [cursor=pointer]
+          - listitem [ref=f89e383]:
+            - group "핀 카드" [ref=f89e388]:
+              - generic [ref=f89e390]:
+                - link "제목 없음 핀 페이지" [ref=f89e392] [cursor=pointer]:
+                  - /url: /pin/682225043589582621/
+                  - img "포함된 이미지:" [ref=f89e402]
+                - generic "추가 작업" [ref=f89e411]:
+                  - button "추가 작업" [ref=f89e412] [cursor=pointer]
+          - listitem [ref=f89e417]:
+            - group "핀 카드" [ref=f89e422]:
+              - generic [ref=f89e424]:
+                - link "Welcome to Creative Market 핀 페이지" [ref=f89e426] [cursor=pointer]:
+                  - /url: /pin/340444053082208396/
+                  - 'img "포함된 이미지: Welcome to Creative Market" [ref=f89e436]'
+                - generic [ref=f89e441]:
+                  - heading [level=2] [ref=f89e447]:
+                    - link "Welcome to Creative Market" [ref=f89e449] [cursor=pointer]:
+                      - /url: /pin/340444053082208396/
+                  - generic "추가 작업" [ref=f89e452]:
+                    - button "추가 작업" [ref=f89e453] [cursor=pointer]
+          - listitem [ref=f89e458]:
+            - group "핀 카드" [ref=f89e463]:
+              - generic [ref=f89e465]:
+                - link "Knotted Rope Art Minimalist Blue on Cream Illustration Art Print 핀 페이지" [ref=f89e467] [cursor=pointer]:
+                  - /url: /pin/451767406387958331/
+                  - 'img "포함된 이미지: Knotted Rope Art Minimalist Blue on Cream Illustration Art Print" [ref=f89e477]'
+                - generic [ref=f89e482]:
+                  - generic [ref=f89e483]:
+                    - heading [level=2] [ref=f89e488]:
+                      - link "Knotted Rope Art Minimalist Blue on Cream Illustration Art Print" [ref=f89e490] [cursor=pointer]:
+                        - /url: /pin/451767406387958331/
+                    - link "Society6" [ref=f89e493] [cursor=pointer]:
+                      - /url: /society6/
+                      - generic "Society6" [ref=f89e500]
+                  - generic "추가 작업" [ref=f89e503]:
+                    - button "추가 작업" [ref=f89e504] [cursor=pointer]
+          - listitem [ref=f89e509]:
+            - group "핀 카드" [ref=f89e514]:
+              - generic [ref=f89e516]:
+                - link "Mood • Instagram 핀 페이지" [ref=f89e518] [cursor=pointer]:
+                  - /url: /pin/316870523803050308/
+                  - img "포함된 이미지:" [ref=f89e528]
+                - generic "추가 작업" [ref=f89e537]:
+                  - button "추가 작업" [ref=f89e538] [cursor=pointer]
+          - listitem [ref=f89e543]:
+            - group "핀 카드" [ref=f89e548]:
+              - generic [ref=f89e550]:
+                - link "제목 없음 핀 페이지" [ref=f89e552] [cursor=pointer]:
+                  - /url: /pin/281123201724840165/
+                  - img "포함된 이미지:" [ref=f89e562]
+                - generic "추가 작업" [ref=f89e571]:
+                  - button "추가 작업" [ref=f89e572] [cursor=pointer]
+          - listitem [ref=f89e577]:
+            - group "핀 카드" [ref=f89e582]:
+              - generic [ref=f89e584]:
+                - link "knots 핀 페이지" [ref=f89e586] [cursor=pointer]:
+                  - /url: /pin/318489004869136145/
+                  - img "포함된 이미지:" [ref=f89e596]
+                - generic "추가 작업" [ref=f89e605]:
+                  - button "추가 작업" [ref=f89e606] [cursor=pointer]
+          - listitem [ref=f89e611]:
+            - group "핀 카드" [ref=f89e616]:
+              - generic [ref=f89e618]:
+                - link "The Tentacles of Life | Hand illustration, Illustration design, Illustration | Rope illustration design, Black and white chain illustration, Black and white knot patterns 핀 페이지" [ref=f89e620] [cursor=pointer]:
+                  - /url: /pin/818388563520872685/
+                  - 'img "포함된 이미지: The Tentacles of Life | Hand illustration, Illustration design, Illustration | Rope illustration design, Black and white chain illustration, Black and white knot patterns" [ref=f89e630]'
+                - generic [ref=f89e635]:
+                  - heading [level=2] [ref=f89e641]:
+                    - link "Amarrados" [ref=f89e643] [cursor=pointer]:
+                      - /url: /pin/818388563520872685/
+                  - generic "추가 작업" [ref=f89e646]:
+                    - button "추가 작업" [ref=f89e647] [cursor=pointer]
+          - listitem [ref=f89e652]:
+            - group "핀 카드" [ref=f89e657]:
+              - generic [ref=f89e659]:
+                - link "제목 없음 핀 페이지" [ref=f89e661] [cursor=pointer]:
+                  - /url: /pin/464081936621433946/
+                  - img "포함된 이미지:" [ref=f89e671]
+                - generic "추가 작업" [ref=f89e680]:
+                  - button "추가 작업" [ref=f89e681] [cursor=pointer]
+          - listitem [ref=f89e686]:
+            - group "핀 카드" [ref=f89e691]:
+              - generic [ref=f89e693]:
+                - link "제목 없음 핀 페이지" [ref=f89e695] [cursor=pointer]:
+                  - /url: /pin/173036810659511202/
+                  - img "포함된 이미지:" [ref=f89e705]
+                - generic "추가 작업" [ref=f89e714]:
+                  - button "추가 작업" [ref=f89e715] [cursor=pointer]

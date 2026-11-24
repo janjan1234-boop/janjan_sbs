@@ -1,0 +1,90 @@
+- generic [ref=f216e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f216e13]:
+      - generic [ref=f216e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=f216e18]
+        - generic "이미지 업로드" [ref=f216e22]:
+          - button "Pinterest 렌즈" [ref=f216e23] [cursor=pointer]
+      - link "내 프로필" [ref=f216e32] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f216e39]:
+          - generic [ref=f216e40]: 강
+      - button "계정" [ref=f216e44] [cursor=pointer]
+  - navigation [ref=f216e49]:
+    - generic [ref=f216e51]:
+      - generic [ref=f216e52]:
+        - generic "홈" [ref=f216e56]:
+          - link "홈" [ref=f216e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f216e64]:
+          - link "홈" [ref=f216e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f216e72]:
+          - link "내 보드" [ref=f216e73] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f216e80]:
+          - button "만들기" [ref=f216e81] [cursor=pointer]
+        - generic "업데이트" [ref=f216e90]:
+          - 'button "업데이트: 1개 알림" [ref=f216e91] [cursor=pointer]'
+        - generic "메시지" [ref=f216e100]:
+          - button "메시지" [ref=f216e101] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f216e110]:
+        - button "설정 및 지원" [ref=f216e111] [cursor=pointer]
+  - main [ref=f216e116]:
+    - generic [ref=f216e126]:
+      - button "뒤로" [ref=f216e128] [cursor=pointer]
+      - generic [ref=f216e137]:
+        - generic [ref=f216e138]: 관련 상품 결과를 불러오는 중
+        - list [ref=f216e143]:
+          - listitem [ref=f216e144]:
+            - group "Closeup content container" [ref=f216e151]:
+              - generic [ref=f216e156]:
+                - region "핀 이미지 및 탐색할 항목" [ref=f216e159]:
+                  - region "핀 이미지" [ref=f216e164]
+                - generic [ref=f216e171]:
+                  - generic [ref=f216e174]:
+                    - list [ref=f216e175]:
+                      - generic [ref=f216e176]:
+                        - listitem [ref=f216e178]:
+                          - generic "반응" [ref=f216e181]:
+                            - button "반응" [ref=f216e182] [cursor=pointer]
+                          - generic [ref=f216e187]: "3"
+                        - listitem [ref=f216e189]:
+                          - generic "댓글" [ref=f216e192]:
+                            - button "댓글" [disabled] [ref=f216e193] [cursor=pointer]
+                        - listitem [ref=f216e199]:
+                          - generic "공유" [ref=f216e203]:
+                            - button "이 핀 공유" [ref=f216e205] [cursor=pointer]
+                        - listitem [ref=f216e211]:
+                          - generic "추가 작업" [ref=f216e216]:
+                            - button "추가 작업" [ref=f216e218] [cursor=pointer]
+                    - generic [ref=f216e228]:
+                      - 'button "저장할 보드 선택: 프로필" [ref=f216e231] [cursor=pointer]':
+                        - generic "프로필" [ref=f216e234]
+                      - button "저장" [ref=f216e240] [cursor=pointer]
+                  - generic [ref=f216e248]:
+                    - generic [ref=f216e257]:
+                      - link [ref=f216e259] [cursor=pointer]:
+                        - /url: /Maggielostintranslation/
+                        - img "Maggie 아바타 링크" [ref=f216e266]
+                      - link [ref=f216e270] [cursor=pointer]:
+                        - /url: /Maggielostintranslation/
+                        - heading "Maggie" [level=2] [ref=f216e271]
+                    - generic [ref=f216e280]:
+                      - heading "설명" [level=4] [ref=f216e281]
+                      - generic [ref=f216e282]: Scalloped
+          - listitem [ref=f216e286]
+          - listitem [ref=f216e290]
+          - listitem [ref=f216e294]
+          - listitem [ref=f216e298]
+          - listitem [ref=f216e302]
+          - listitem [ref=f216e306]
+          - listitem [ref=f216e310]
+          - listitem [ref=f216e314]
+          - listitem [ref=f216e318]
+          - listitem [ref=f216e322]
+          - listitem [ref=f216e326]

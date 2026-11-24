@@ -1,0 +1,90 @@
+- generic [ref=f148e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f148e13]:
+      - generic [ref=f148e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=f148e18]
+        - generic "이미지 업로드" [ref=f148e22]:
+          - button "Pinterest 렌즈" [ref=f148e23] [cursor=pointer]
+      - link "내 프로필" [ref=f148e32] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f148e39]:
+          - generic [ref=f148e40]: 강
+      - button "계정" [ref=f148e44] [cursor=pointer]
+  - navigation [ref=f148e49]:
+    - generic [ref=f148e51]:
+      - generic [ref=f148e52]:
+        - generic "홈" [ref=f148e56]:
+          - link "홈" [ref=f148e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f148e64]:
+          - link "홈" [ref=f148e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f148e72]:
+          - link "내 보드" [ref=f148e73] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f148e80]:
+          - button "만들기" [ref=f148e81] [cursor=pointer]
+        - generic "업데이트" [ref=f148e90]:
+          - 'button "업데이트: 1개 알림" [ref=f148e91] [cursor=pointer]'
+        - generic "메시지" [ref=f148e100]:
+          - button "메시지" [ref=f148e101] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f148e110]:
+        - button "설정 및 지원" [ref=f148e111] [cursor=pointer]
+  - main [ref=f148e116]:
+    - generic [ref=f148e126]:
+      - button "뒤로" [ref=f148e128] [cursor=pointer]
+      - generic [ref=f148e137]:
+        - generic [ref=f148e138]: 관련 상품 결과를 불러오는 중
+        - list [ref=f148e143]:
+          - listitem [ref=f148e144]:
+            - group "Closeup content container" [ref=f148e151]:
+              - generic [ref=f148e156]:
+                - region "핀 이미지 및 탐색할 항목" [ref=f148e159]:
+                  - region "핀 이미지" [ref=f148e164]
+                - generic [ref=f148e171]:
+                  - generic [ref=f148e174]:
+                    - list [ref=f148e175]:
+                      - generic [ref=f148e176]:
+                        - listitem [ref=f148e178]:
+                          - generic "반응" [ref=f148e181]:
+                            - button "반응" [ref=f148e182] [cursor=pointer]
+                          - generic [ref=f148e187]: "0"
+                        - listitem [ref=f148e189]:
+                          - generic "댓글" [ref=f148e192]:
+                            - button "댓글" [ref=f148e193] [cursor=pointer]
+                        - listitem [ref=f148e199]:
+                          - generic "공유" [ref=f148e203]:
+                            - button "이 핀 공유" [ref=f148e205] [cursor=pointer]
+                        - listitem [ref=f148e211]:
+                          - generic "추가 작업" [ref=f148e216]:
+                            - button "추가 작업" [ref=f148e218] [cursor=pointer]
+                    - generic [ref=f148e228]:
+                      - 'button "저장할 보드 선택: 프로필" [ref=f148e231] [cursor=pointer]':
+                        - generic "프로필" [ref=f148e234]
+                      - button "저장" [ref=f148e240] [cursor=pointer]
+                  - generic [ref=f148e248]:
+                    - generic [ref=f148e257]:
+                      - link [ref=f148e259] [cursor=pointer]:
+                        - /url: /Helmine030/
+                        - img "karbe manja 아바타 링크" [ref=f148e266]
+                      - link [ref=f148e270] [cursor=pointer]:
+                        - /url: /Helmine030/
+                        - heading "karbe manja" [level=2] [ref=f148e271]
+                    - generic [ref=f148e280]:
+                      - heading "설명" [level=4] [ref=f148e281]
+                      - generic [ref=f148e282]: ♡
+          - listitem [ref=f148e287]
+          - listitem [ref=f148e291]
+          - listitem [ref=f148e295]
+          - listitem [ref=f148e299]
+          - listitem [ref=f148e303]
+          - listitem [ref=f148e307]
+          - listitem [ref=f148e311]
+          - listitem [ref=f148e315]
+          - listitem [ref=f148e319]
+          - listitem [ref=f148e323]
+          - listitem [ref=f148e327]

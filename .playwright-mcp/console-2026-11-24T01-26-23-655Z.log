@@ -1,0 +1,6 @@
+[     389ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 1054, rating: needs-improvement, delta: 1054} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[     389ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[     389ms] [LOG] %croute_data: color:gray Topic @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 2546845ms] [LOG] %cmetric: color:gray {name: LCP, entries: Array(1), value: 2480, rating: good, delta: 2480} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 2546845ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[ 2546845ms] [LOG] %croute_data: color:gray Asset @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5

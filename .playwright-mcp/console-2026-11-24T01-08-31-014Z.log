@@ -1,0 +1,7 @@
+[   74067ms] [ERROR] Executing inline event handler violates the following Content Security Policy directive 'script-src 'nonce-TWqbHAepUFvqTrIFagRgoQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:'. Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list. The action has been blocked. @ https://www.google.com/search?q=unsplash&oq=unslpl&gs_lcrp=EgZjaHJvbWUqEQgBEAAYChgLGIMBGLEDGIAEMgYIABBFGDkyEQgBEAAYChgLGIMBGLEDGIAEMgsIAhAAGAoYCxiABDILCAMQABgKGAsYgAQyCwgEEAAYChgLGIAEMgsIBRAAGAoYCxiABDILCAYQABgKGAsYgAQyCwgHEAAYChgLGIAEMgsICBAAGAoYCxiABDILCAkQABgKGAsYgATSAQgxNjExajBqMqgCALACAQ&sourceid=chrome&ie=UTF-8:1
+[   76248ms] [LOG] %cmetric: color:gray {name: TTFB, entries: Array(1), value: 709.8000000007451, rating: good, delta: 709.8000000007451} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[   76249ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[   76249ms] [LOG] %croute_data: color:gray Home @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[  220191ms] [LOG] %cmetric: color:gray {name: LCP, entries: Array(1), value: 872, rating: good, delta: 872} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[  220191ms] [LOG] %cusr: color:gray {locale: ko-KR} @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5
+[  220191ms] [LOG] %croute_data: color:gray Topic @ https://unsplash.com/a/ko-KR/d7.d81771d88b.js:5

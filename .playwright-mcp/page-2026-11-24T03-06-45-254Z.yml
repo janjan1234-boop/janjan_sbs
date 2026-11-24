@@ -1,0 +1,211 @@
+- generic [ref=f101e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f101e13]:
+      - generic [ref=f101e15]:
+        - generic [ref=f101e16]:
+          - combobox "검색" [ref=f101e18]: layered arch papercut
+          - generic [ref=f101e19]:
+            - button "검색 입력 삭제" [ref=f101e23] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f101e30]:
+              - button "Pinterest 렌즈" [ref=f101e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f101e38] [cursor=pointer]:
+          - generic [ref=f101e40]:
+            - generic [ref=f101e41]: 모든 핀
+            - img "드롭다운" [ref=f101e43]
+      - link "내 프로필" [ref=f101e49] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f101e56]:
+          - generic [ref=f101e57]: 강
+      - button "계정" [ref=f101e61] [cursor=pointer]
+  - navigation [ref=f101e66]:
+    - generic [ref=f101e68]:
+      - generic [ref=f101e69]:
+        - generic "홈" [ref=f101e73]:
+          - link "홈" [ref=f101e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f101e81]:
+          - link "홈" [ref=f101e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f101e89]:
+          - link "내 보드" [ref=f101e90] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f101e97]:
+          - button "만들기" [ref=f101e98] [cursor=pointer]
+        - generic "업데이트" [ref=f101e107]:
+          - 'button "업데이트: 1개 알림" [ref=f101e108] [cursor=pointer]'
+        - generic "메시지" [ref=f101e117]:
+          - button "메시지" [ref=f101e118] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f101e127]:
+        - button "설정 및 지원" [ref=f101e128] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - main [ref=f101e133]:
+    - generic [ref=f101e136]:
+      - heading "검색 결과 페이지" [level=1] [ref=f101e138]
+      - region "필터 및 세분화 검색" [ref=f101e142]:
+        - button "필터 표시" [ref=f101e151] [cursor=pointer]
+      - generic [ref=f101e162]:
+        - generic [ref=f101e163]: layered arch papercut 검색 결과를 추가로 불러오는 중
+        - list [ref=f101e168]:
+          - listitem [ref=f101e169]:
+            - group "핀 카드" [ref=f101e174]:
+              - generic [ref=f101e176]:
+                - link "Serre blanche, Charles Etienne B. 핀 페이지" [ref=f101e178] [cursor=pointer]:
+                  - /url: /pin/515732594830122544/
+                  - 'img "포함된 이미지: Serre blanche, Charles Etienne B." [ref=f101e188]'
+                - generic [ref=f101e193]:
+                  - heading [level=2] [ref=f101e199]:
+                    - link "Serre blanche, Charles Etienne B." [ref=f101e201] [cursor=pointer]:
+                      - /url: /pin/515732594830122544/
+                  - generic "추가 작업" [ref=f101e204]:
+                    - button "추가 작업" [ref=f101e205] [cursor=pointer]
+          - listitem [ref=f101e210]:
+            - group "핀 카드" [ref=f101e215]:
+              - generic [ref=f101e217]:
+                - link "제목 없음 핀 페이지" [ref=f101e219] [cursor=pointer]:
+                  - /url: /pin/1007821222863520770/
+                  - img "포함된 이미지:" [ref=f101e229]
+                - generic "추가 작업" [ref=f101e238]:
+                  - button "추가 작업" [ref=f101e239] [cursor=pointer]
+          - listitem [ref=f101e244]:
+            - group "핀 카드" [ref=f101e249]:
+              - generic [ref=f101e251]:
+                - link "Aurely Cerise | Set Design & Paper Art - Paper Architecture 핀 페이지" [ref=f101e253] [cursor=pointer]:
+                  - /url: /pin/476748310563891017/
+                  - 'img "포함된 이미지: Aurely Cerise | Set Design & Paper Art - Paper Architecture" [ref=f101e263]'
+                - generic [ref=f101e268]:
+                  - heading [level=2] [ref=f101e274]:
+                    - link "Aurely Cerise | Set Design & Paper Art - Paper Architecture" [ref=f101e276] [cursor=pointer]:
+                      - /url: /pin/476748310563891017/
+                  - generic "추가 작업" [ref=f101e279]:
+                    - button "추가 작업" [ref=f101e280] [cursor=pointer]
+          - listitem [ref=f101e285]:
+            - group "핀 카드" [ref=f101e290]:
+              - generic [ref=f101e292]:
+                - link "제목 없음 핀 페이지" [ref=f101e294] [cursor=pointer]:
+                  - /url: /pin/546905948504912964/
+                  - img "포함된 이미지:" [ref=f101e304]
+                - generic "추가 작업" [ref=f101e313]:
+                  - button "추가 작업" [ref=f101e314] [cursor=pointer]
+          - listitem [ref=f101e319]:
+            - group "핀 카드" [ref=f101e324]:
+              - generic [ref=f101e326]:
+                - link "제목 없음 핀 페이지" [ref=f101e328] [cursor=pointer]:
+                  - /url: /pin/1130614681498170690/
+                  - img "포함된 이미지:" [ref=f101e338]
+                - generic "추가 작업" [ref=f101e347]:
+                  - button "추가 작업" [ref=f101e348] [cursor=pointer]
+          - listitem [ref=f101e353]:
+            - group "핀 카드" [ref=f101e358]:
+              - generic [ref=f101e360]:
+                - link "제목 없음 핀 페이지" [ref=f101e362] [cursor=pointer]:
+                  - /url: /pin/836895543276664546/
+                  - img "포함된 이미지:" [ref=f101e372]
+                - generic "추가 작업" [ref=f101e381]:
+                  - button "추가 작업" [ref=f101e382] [cursor=pointer]
+          - listitem [ref=f101e387]:
+            - group "핀 카드" [ref=f101e392]:
+              - generic [ref=f101e394]:
+                - link "Hazel Glass 핀 페이지" [ref=f101e396] [cursor=pointer]:
+                  - /url: /pin/140737557098073207/
+                  - 'img "포함된 이미지: Hazel Glass" [ref=f101e406]'
+                - generic [ref=f101e411]:
+                  - heading [level=2] [ref=f101e417]:
+                    - link "Hazel Glass" [ref=f101e419] [cursor=pointer]:
+                      - /url: /pin/140737557098073207/
+                  - generic "추가 작업" [ref=f101e422]:
+                    - button "추가 작업" [ref=f101e423] [cursor=pointer]
+          - listitem [ref=f101e428]:
+            - group "핀 카드" [ref=f101e433]:
+              - generic [ref=f101e435]:
+                - link "Shop 핀 페이지" [ref=f101e437] [cursor=pointer]:
+                  - /url: /pin/113153009393636180/
+                  - 'img "포함된 이미지: Shop" [ref=f101e447]'
+                - generic [ref=f101e452]:
+                  - generic [ref=f101e453]:
+                    - heading [level=2] [ref=f101e458]:
+                      - link "Shop" [ref=f101e460] [cursor=pointer]:
+                        - /url: /pin/113153009393636180/
+                    - link "no.bu.ru" [ref=f101e463] [cursor=pointer]:
+                      - /url: /davidumemoto/
+                      - generic "no.bu.ru" [ref=f101e470]
+                  - generic "추가 작업" [ref=f101e473]:
+                    - button "추가 작업" [ref=f101e474] [cursor=pointer]
+          - listitem [ref=f101e479]:
+            - group "핀 카드" [ref=f101e484]:
+              - generic [ref=f101e486]:
+                - link "Shop 핀 페이지" [ref=f101e488] [cursor=pointer]:
+                  - /url: /pin/484066659970853533/
+                  - img "포함된 이미지:" [ref=f101e498]
+                - generic "추가 작업" [ref=f101e507]:
+                  - button "추가 작업" [ref=f101e508] [cursor=pointer]
+          - listitem [ref=f101e513]:
+            - group "핀 카드" [ref=f101e518]:
+              - generic [ref=f101e520]:
+                - link "제목 없음 핀 페이지" [ref=f101e522] [cursor=pointer]:
+                  - /url: /pin/816488607478041240/
+                  - img "포함된 이미지:" [ref=f101e532]
+                - generic "추가 작업" [ref=f101e541]:
+                  - button "추가 작업" [ref=f101e542] [cursor=pointer]
+          - listitem [ref=f101e547]:
+            - group "핀 카드" [ref=f101e552]:
+              - generic [ref=f101e554]:
+                - link "제목 없음 핀 페이지" [ref=f101e556] [cursor=pointer]:
+                  - /url: /pin/509821620332033244/
+                  - img "포함된 이미지:" [ref=f101e566]
+                - generic "추가 작업" [ref=f101e575]:
+                  - button "추가 작업" [ref=f101e576] [cursor=pointer]
+          - listitem [ref=f101e581]:
+            - group "핀 카드" [ref=f101e586]:
+              - generic [ref=f101e588]:
+                - link "제목 없음 핀 페이지" [ref=f101e590] [cursor=pointer]:
+                  - /url: /pin/601863937732630204/
+                  - img "포함된 이미지:" [ref=f101e600]
+                - generic "추가 작업" [ref=f101e609]:
+                  - button "추가 작업" [ref=f101e610] [cursor=pointer]
+          - listitem [ref=f101e615]:
+            - group "핀 카드" [ref=f101e620]:
+              - generic [ref=f101e622]:
+                - link "제목 없음 핀 페이지" [ref=f101e624] [cursor=pointer]:
+                  - /url: /pin/1022669027860806923/
+                  - img "포함된 이미지:" [ref=f101e634]
+                - generic "추가 작업" [ref=f101e643]:
+                  - button "추가 작업" [ref=f101e644] [cursor=pointer]
+          - listitem [ref=f101e649]:
+            - group "핀 카드" [ref=f101e654]:
+              - generic [ref=f101e656]:
+                - link "Archways DIY Cutout Card Set 핀 페이지" [ref=f101e658] [cursor=pointer]:
+                  - /url: /pin/715579828327273766/
+                  - 'img "포함된 이미지: Archways DIY Cutout Card Set" [ref=f101e668]'
+                - generic [ref=f101e673]:
+                  - generic [ref=f101e674]:
+                    - heading [level=2] [ref=f101e679]:
+                      - link "Archways DIY Cutout Card Set" [ref=f101e681] [cursor=pointer]:
+                        - /url: /pin/715579828327273766/
+                    - link "no.bu.ru" [ref=f101e684] [cursor=pointer]:
+                      - /url: /davidumemoto/
+                      - generic "no.bu.ru" [ref=f101e691]
+                  - generic "추가 작업" [ref=f101e694]:
+                    - button "추가 작업" [ref=f101e695] [cursor=pointer]
+          - listitem [ref=f101e700]:
+            - group "핀 카드" [ref=f101e705]:
+              - generic [ref=f101e707]:
+                - link "Arch PaperCut 핀 페이지" [ref=f101e709] [cursor=pointer]:
+                  - /url: /pin/471611392243112718/
+                  - 'img "포함된 내용: Arch Papercut illustration" [ref=f101e719]'
+                - generic [ref=f101e724]:
+                  - heading [level=2] [ref=f101e730]:
+                    - link "Arch PaperCut" [ref=f101e732] [cursor=pointer]:
+                      - /url: /pin/471611392243112718/
+                  - generic "추가 작업" [ref=f101e735]:
+                    - button "추가 작업" [ref=f101e736] [cursor=pointer]
+          - listitem [ref=f101e741]:
+            - group "핀 카드" [ref=f101e746]:
+              - generic [ref=f101e748]:
+                - link "Shop 핀 페이지" [ref=f101e750] [cursor=pointer]:
+                  - /url: /pin/484066659970853531/
+                  - img "포함된 이미지:" [ref=f101e760]
+                - generic "추가 작업" [ref=f101e769]:
+                  - button "추가 작업" [ref=f101e770] [cursor=pointer]

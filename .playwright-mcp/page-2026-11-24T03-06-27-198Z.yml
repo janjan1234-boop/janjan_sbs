@@ -1,0 +1,229 @@
+- generic [ref=f60e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f60e13]:
+      - generic [ref=f60e15]:
+        - generic [ref=f60e16]:
+          - combobox "검색" [ref=f60e18]: paw print seamless pattern
+          - generic [ref=f60e19]:
+            - button "검색 입력 삭제" [ref=f60e23] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f60e30]:
+              - button "Pinterest 렌즈" [ref=f60e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f60e38] [cursor=pointer]:
+          - generic [ref=f60e40]:
+            - generic [ref=f60e41]: 모든 핀
+            - img "드롭다운" [ref=f60e43]
+      - link "내 프로필" [ref=f60e49] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f60e56]:
+          - generic [ref=f60e57]: 강
+      - button "계정" [ref=f60e61] [cursor=pointer]
+  - navigation [ref=f60e66]:
+    - generic [ref=f60e68]:
+      - generic [ref=f60e69]:
+        - generic "홈" [ref=f60e73]:
+          - link "홈" [ref=f60e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f60e81]:
+          - link "홈" [ref=f60e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f60e89]:
+          - link "내 보드" [ref=f60e90] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f60e97]:
+          - button "만들기" [ref=f60e98] [cursor=pointer]
+        - generic "업데이트" [ref=f60e107]:
+          - 'button "업데이트: 1개 알림" [ref=f60e108] [cursor=pointer]'
+        - generic "메시지" [ref=f60e117]:
+          - button "메시지" [ref=f60e118] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f60e127]:
+        - button "설정 및 지원" [ref=f60e128] [cursor=pointer]
+  - main [ref=f60e133]:
+    - generic [ref=f60e136]:
+      - heading "검색 결과 페이지" [level=1] [ref=f60e138]
+      - region "필터 및 세분화 검색" [ref=f60e142]:
+        - button "필터 표시" [ref=f60e151] [cursor=pointer]
+      - generic [ref=f60e162]:
+        - generic [ref=f60e163]: paw print seamless pattern 검색 결과를 추가로 불러오는 중
+        - list [ref=f60e168]:
+          - listitem [ref=f60e169]:
+            - group "핀 카드" [ref=f60e174]:
+              - generic [ref=f60e176]:
+                - link "제목 없음 핀 페이지" [ref=f60e178] [cursor=pointer]:
+                  - /url: /pin/777856166919169915/
+                  - img "포함된 이미지:" [ref=f60e188]
+                - generic "추가 작업" [ref=f60e197]:
+                  - button "추가 작업" [ref=f60e198] [cursor=pointer]
+          - listitem [ref=f60e203]:
+            - group "핀 카드" [ref=f60e208]:
+              - generic [ref=f60e210]:
+                - link "제목 없음 핀 페이지" [ref=f60e212] [cursor=pointer]:
+                  - /url: /pin/52495151901012599/
+                  - img "포함된 이미지:" [ref=f60e222]
+                - generic "추가 작업" [ref=f60e231]:
+                  - button "추가 작업" [ref=f60e232] [cursor=pointer]
+          - listitem [ref=f60e237]:
+            - group "핀 카드" [ref=f60e242]:
+              - generic [ref=f60e244]:
+                - link "Seamless Animal Pattern of Paw Footprint. 핀 페이지" [ref=f60e246] [cursor=pointer]:
+                  - /url: /pin/757027018597466188/
+                  - 'img "포함된 이미지: Seamless Animal Pattern of Paw Footprint." [ref=f60e256]'
+                - generic [ref=f60e261]:
+                  - heading [level=2] [ref=f60e267]:
+                    - link "Seamless Animal Pattern of Paw Footprint." [ref=f60e269] [cursor=pointer]:
+                      - /url: /pin/757027018597466188/
+                  - generic "추가 작업" [ref=f60e272]:
+                    - button "추가 작업" [ref=f60e273] [cursor=pointer]
+          - listitem [ref=f60e278]:
+            - group "핀 카드" [ref=f60e283]:
+              - generic [ref=f60e285]:
+                - link "Seamless animal pattern of paw footprint and bone. Endless textu Stock Vector | Adobe Stock 핀 페이지" [ref=f60e287] [cursor=pointer]:
+                  - /url: /pin/1047720300820637858/
+                  - 'img "포함된 이미지: Seamless animal pattern of paw footprint and bone. Endless textu Stock Vector | Adobe Stock" [ref=f60e297]'
+                - generic [ref=f60e302]:
+                  - heading [level=2] [ref=f60e308]:
+                    - link "Seamless animal pattern of paw footprint and bone. Endless textu Stock Vector | Adobe Stock" [ref=f60e310] [cursor=pointer]:
+                      - /url: /pin/1047720300820637858/
+                  - generic "추가 작업" [ref=f60e313]:
+                    - button "추가 작업" [ref=f60e314] [cursor=pointer]
+          - listitem [ref=f60e319]:
+            - group "핀 카드" [ref=f60e324]:
+              - generic [ref=f60e326]:
+                - link "Pet Lovers Subtle Contemporary Paw Print Pattern Fabric 핀 페이지" [ref=f60e328] [cursor=pointer]:
+                  - /url: /pin/662240320245132678/
+                  - 'img "포함된 이미지: Pet Lovers Subtle Contemporary Paw Print Pattern Fabric" [ref=f60e338]'
+                - generic [ref=f60e343]:
+                  - heading [level=2] [ref=f60e349]:
+                    - link "Pet Lovers Subtle Contemporary Paw Print Pattern Fabric" [ref=f60e351] [cursor=pointer]:
+                      - /url: /pin/662240320245132678/
+                  - generic "추가 작업" [ref=f60e354]:
+                    - button "추가 작업" [ref=f60e355] [cursor=pointer]
+          - listitem [ref=f60e360]:
+            - group "핀 카드" [ref=f60e365]:
+              - generic [ref=f60e367]:
+                - link "제목 없음 핀 페이지" [ref=f60e369] [cursor=pointer]:
+                  - /url: /pin/777856166919169912/
+                  - img "포함된 이미지:" [ref=f60e379]
+                - generic "추가 작업" [ref=f60e388]:
+                  - button "추가 작업" [ref=f60e389] [cursor=pointer]
+          - listitem [ref=f60e394]:
+            - group "핀 카드" [ref=f60e399]:
+              - generic [ref=f60e401]:
+                - link "Watercolor Neutral Paw Print Seamless Pattern, Dog Paw PNG Background, Pet Lover Digital Paper, Minimalist Dog Fabric, Puppy Print Design 핀 페이지" [ref=f60e403] [cursor=pointer]:
+                  - /url: /pin/4611474988734701696/
+                  - 'img "포함된 이미지: Watercolor Neutral Paw Print Seamless Pattern, Dog Paw PNG Background, Pet Lover Digital Paper, Minimalist Dog Fabric, Puppy Print Design" [ref=f60e413]'
+                - generic [ref=f60e418]:
+                  - generic [ref=f60e419]:
+                    - heading [level=2] [ref=f60e424]:
+                      - link "Watercolor Neutral Paw Print Seamless Pattern, Dog Paw PNG Background, Pet Lover Digital Paper, Minimalist Dog Fabric, Puppy Print Design" [ref=f60e426] [cursor=pointer]:
+                        - /url: /pin/4611474988734701696/
+                    - link "EtsyUK" [ref=f60e429] [cursor=pointer]:
+                      - /url: /etsy_UK/
+                      - generic "EtsyUK" [ref=f60e436]
+                  - generic "추가 작업" [ref=f60e439]:
+                    - button "추가 작업" [ref=f60e440] [cursor=pointer]
+          - listitem [ref=f60e445]:
+            - group "핀 카드" [ref=f60e450]:
+              - generic [ref=f60e452]:
+                - link "Sem costura padrão Pegada de pata de animal no quadro e polka - ilustração de arte em vetor 핀 페이지" [ref=f60e454] [cursor=pointer]:
+                  - /url: /pin/319333429821766882/
+                  - img "포함된 이미지:" [ref=f60e464]
+                - generic "추가 작업" [ref=f60e473]:
+                  - button "추가 작업" [ref=f60e474] [cursor=pointer]
+          - listitem [ref=f60e479]:
+            - group "핀 카드" [ref=f60e484]:
+              - generic [ref=f60e486]:
+                - link "MINI, schlicht, Pfotenabdruck, Tier, Fußabdruck, niedlich, Seamless Fabric Design, Rapport Tile, Muster Lunoe 핀 페이지" [ref=f60e488] [cursor=pointer]:
+                  - /url: /pin/624241198426496008/
+                  - 'img "포함된 이미지: MINI, schlicht, Pfotenabdruck, Tier, Fußabdruck, niedlich, Seamless Fabric Design, Rapport Tile, Muster Lunoe" [ref=f60e498]'
+                - generic [ref=f60e503]:
+                  - generic [ref=f60e504]:
+                    - heading [level=2] [ref=f60e509]:
+                      - link "MINI, schlicht, Pfotenabdruck, Tier, Fußabdruck, niedlich, Seamless Fabric Design, Rapport Tile, Muster Lunoe" [ref=f60e511] [cursor=pointer]:
+                        - /url: /pin/624241198426496008/
+                    - link "EtsyDE" [ref=f60e514] [cursor=pointer]:
+                      - /url: /etsy_de/
+                      - generic "EtsyDE" [ref=f60e521]
+                  - generic "추가 작업" [ref=f60e524]:
+                    - button "추가 작업" [ref=f60e525] [cursor=pointer]
+          - listitem [ref=f60e530]:
+            - group "핀 카드" [ref=f60e535]:
+              - generic [ref=f60e537]:
+                - link "The Purrfect Book Club – Lewis & Irene UK 핀 페이지" [ref=f60e539] [cursor=pointer]:
+                  - /url: /pin/600104719135747872/
+                  - 'img "포함된 이미지: The Purrfect Book Club – Lewis & Irene UK" [ref=f60e549]'
+                - generic [ref=f60e554]:
+                  - heading [level=2] [ref=f60e560]:
+                    - link "The Purrfect Book Club – Lewis & Irene UK" [ref=f60e562] [cursor=pointer]:
+                      - /url: /pin/600104719135747872/
+                  - generic "추가 작업" [ref=f60e565]:
+                    - button "추가 작업" [ref=f60e566] [cursor=pointer]
+          - listitem [ref=f60e571]:
+            - group "핀 카드" [ref=f60e576]:
+              - generic [ref=f60e578]:
+                - link "Paw Print Seamless Pattern / Dog Paws Repeating Pattern / Teddy seamless file / Animal Paw Digital Paper for Personal and Commercial use 핀 페이지" [ref=f60e580] [cursor=pointer]:
+                  - /url: /pin/4592968056252869120/
+                  - 'img "포함된 이미지: Paw Print Seamless Pattern / Dog Paws Repeating Pattern / Teddy seamless file / Animal Paw Digital Paper for Personal and Commercial use" [ref=f60e590]'
+                - generic [ref=f60e595]:
+                  - generic [ref=f60e596]:
+                    - heading [level=2] [ref=f60e601]:
+                      - link "Paw Print Seamless Pattern / Dog Paws Repeating Pattern / Teddy seamless file / Animal Paw Digital Paper for Personal and Commercial use" [ref=f60e603] [cursor=pointer]:
+                        - /url: /pin/4592968056252869120/
+                    - link "EtsyCA" [ref=f60e606] [cursor=pointer]:
+                      - /url: /etsyca/
+                      - generic "EtsyCA" [ref=f60e613]
+                  - generic "추가 작업" [ref=f60e616]:
+                    - button "추가 작업" [ref=f60e617] [cursor=pointer]
+          - listitem [ref=f60e622]:
+            - group "핀 카드" [ref=f60e627]:
+              - generic [ref=f60e629]:
+                - link "🧑‍🎄🤶🎄Coco’s Christmas 🤶🧑‍🎄🎄 핀 페이지" [ref=f60e631] [cursor=pointer]:
+                  - /url: /pin/957296464528385584/
+                  - 'img "포함된 이미지: 🧑‍🎄🤶🎄Coco’s Christmas 🤶🧑‍🎄🎄" [ref=f60e641]'
+                - generic [ref=f60e646]:
+                  - heading [level=2] [ref=f60e652]:
+                    - link "🧑‍🎄🤶🎄Coco’s Christmas 🤶🧑‍🎄🎄" [ref=f60e654] [cursor=pointer]:
+                      - /url: /pin/957296464528385584/
+                  - generic "추가 작업" [ref=f60e657]:
+                    - button "추가 작업" [ref=f60e658] [cursor=pointer]
+          - listitem [ref=f60e663]:
+            - group "핀 카드" [ref=f60e668]:
+              - generic [ref=f60e670]:
+                - link "Mungo & Maud Dog Bones & Dog Paws Illustration 핀 페이지" [ref=f60e672] [cursor=pointer]:
+                  - /url: /pin/167970261076766367/
+                  - img "포함된 이미지:" [ref=f60e682]
+                - generic "추가 작업" [ref=f60e691]:
+                  - button "추가 작업" [ref=f60e692] [cursor=pointer]
+          - listitem [ref=f60e697]:
+            - group "핀 카드" [ref=f60e702]:
+              - generic [ref=f60e704]:
+                - link "제목 없음 핀 페이지" [ref=f60e706] [cursor=pointer]:
+                  - /url: /pin/755056693817444777/
+                  - img "포함된 이미지:" [ref=f60e716]
+                - generic "추가 작업" [ref=f60e725]:
+                  - button "추가 작업" [ref=f60e726] [cursor=pointer]
+          - listitem [ref=f60e731]:
+            - group "핀 카드" [ref=f60e736]:
+              - generic [ref=f60e738]:
+                - link "귀여운 고양이 발 발자국 원활한 패턴 | 프리미엄 벡터 핀 페이지" [ref=f60e740] [cursor=pointer]:
+                  - /url: /pin/653866439659541480/
+                  - 'img "포함된 이미지: 귀여운 고양이 발 발자국 원활한 패턴 | 프리미엄 벡터" [ref=f60e750]'
+                - generic [ref=f60e755]:
+                  - generic [ref=f60e756]:
+                    - heading [level=2] [ref=f60e761]:
+                      - link "귀여운 고양이 발 발자국 원활한 패턴 | 프리미엄 벡터" [ref=f60e763] [cursor=pointer]:
+                        - /url: /pin/653866439659541480/
+                    - link "Magnific (formerly Freepik)" [ref=f60e766] [cursor=pointer]:
+                      - /url: /magnific_ai/
+                      - generic "Magnific (formerly Freepik)" [ref=f60e773]
+                  - generic "추가 작업" [ref=f60e776]:
+                    - button "추가 작업" [ref=f60e777] [cursor=pointer]
+          - listitem [ref=f60e782]:
+            - group "핀 카드" [ref=f60e787]:
+              - generic [ref=f60e789]:
+                - link "Textured Paw Prints 핀 페이지" [ref=f60e791] [cursor=pointer]:
+                  - /url: /pin/230528074650231234/
+                  - img "포함된 이미지:" [ref=f60e801]
+                - generic "추가 작업" [ref=f60e810]:
+                  - button "추가 작업" [ref=f60e811] [cursor=pointer]

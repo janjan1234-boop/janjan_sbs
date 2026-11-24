@@ -1,0 +1,258 @@
+- generic [ref=f206e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f206e13]:
+      - generic [ref=f206e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=f206e18]
+        - generic "이미지 업로드" [ref=f206e22]:
+          - button "Pinterest 렌즈" [ref=f206e23] [cursor=pointer]
+      - link "내 프로필" [ref=f206e32] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f206e39]:
+          - generic [ref=f206e40]: 강
+      - button "계정" [ref=f206e44] [cursor=pointer]
+  - navigation [ref=f206e49]:
+    - generic [ref=f206e51]:
+      - generic [ref=f206e52]:
+        - generic "홈" [ref=f206e56]:
+          - link "홈" [ref=f206e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f206e64]:
+          - link "홈" [ref=f206e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f206e72]:
+          - link "내 보드" [ref=f206e73] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f206e80]:
+          - button "만들기" [ref=f206e81] [cursor=pointer]
+        - generic "업데이트" [ref=f206e90]:
+          - 'button "업데이트: 1개 알림" [ref=f206e91] [cursor=pointer]'
+        - generic "메시지" [ref=f206e100]:
+          - button "메시지" [ref=f206e101] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f206e110]:
+        - button "설정 및 지원" [ref=f206e111] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - main [ref=f206e116]:
+    - generic [ref=f206e126]:
+      - button "뒤로" [ref=f206e128] [cursor=pointer]
+      - generic [ref=f206e137]:
+        - generic [ref=f206e138]: 관련 상품 결과를 불러오는 중
+        - list [ref=f206e143]:
+          - listitem [ref=f206e144]:
+            - group "Closeup content container" [ref=f206e151]:
+              - generic [ref=f206e156]:
+                - region "핀 이미지 및 탐색할 항목" [ref=f206e159]:
+                  - region "핀 이미지" [ref=f206e164]:
+                    - generic [ref=f206e170]:
+                      - button "더 크게 보기" [ref=f206e385] [cursor=pointer]:
+                        - generic [ref=f206e387]:
+                          - generic: 더 크게 보기
+                          - img "더 크게 보기" [ref=f206e389]
+                      - button "이미지 검색" [ref=f206e394] [cursor=pointer]:
+                        - generic [ref=f206e396]:
+                          - generic: 이미지 검색
+                          - img "이미지 검색" [ref=f206e398]
+                      - link "사이트 방문, chelseamcshane.com" [ref=f206e174] [cursor=pointer]:
+                        - /url: https://chelseamcshane.com/products/dachshund-abstract-ornament?utm_source=Pinterest&utm_medium=organic
+                        - generic [ref=f206e178]: 사이트 방문
+                - generic [ref=f206e179]:
+                  - generic [ref=f206e182]:
+                    - list [ref=f206e183]:
+                      - generic [ref=f206e184]:
+                        - listitem [ref=f206e186]:
+                          - generic "반응" [ref=f206e189]:
+                            - button "반응" [ref=f206e190] [cursor=pointer]
+                          - generic [ref=f206e195]: "0"
+                        - listitem [ref=f206e197]:
+                          - generic "댓글" [ref=f206e200]:
+                            - button "댓글" [ref=f206e201] [cursor=pointer]
+                        - listitem [ref=f206e207]:
+                          - generic "공유" [ref=f206e211]:
+                            - button "이 핀 공유" [ref=f206e213] [cursor=pointer]
+                        - listitem [ref=f206e219]:
+                          - generic "추가 작업" [ref=f206e224]:
+                            - button "추가 작업" [ref=f206e226] [cursor=pointer]
+                    - generic [ref=f206e236]:
+                      - 'button "저장할 보드 선택: 프로필" [ref=f206e239] [cursor=pointer]':
+                        - generic "프로필" [ref=f206e242]
+                      - button "저장" [ref=f206e248] [cursor=pointer]
+                  - generic [ref=f206e256]:
+                    - generic [ref=f206e265]:
+                      - link [ref=f206e267] [cursor=pointer]:
+                        - /url: /nmarcille/
+                        - img "Marcille Narya 아바타 링크" [ref=f206e274]
+                      - link [ref=f206e278] [cursor=pointer]:
+                        - /url: /nmarcille/
+                        - heading "Marcille Narya" [level=2] [ref=f206e279]
+                    - generic [ref=f206e282]:
+                      - generic [ref=f206e284]:
+                        - link [ref=f206e290] [cursor=pointer]:
+                          - /url: https://chelseamcshane.com/products/dachshund-abstract-ornament?utm_source=Pinterest&utm_medium=organic
+                          - heading "Abstract Dachshund Acrylic Christmas Ornament | Dog Ornament" [level=1] [ref=f206e291]
+                        - link "사이트 방문, chelseamcshane.com" [ref=f206e299] [cursor=pointer]:
+                          - /url: https://chelseamcshane.com/products/dachshund-abstract-ornament?utm_source=Pinterest&utm_medium=organic
+                          - generic [ref=f206e300]: 사이트 방문
+                      - generic [ref=f206e303]:
+                        - heading "설명" [level=4] [ref=f206e304]
+                        - generic [ref=f206e306]:
+                          - generic [ref=f206e307]: Dog Acrylic Christmas Ornament | Wreath Charm & Dog Lover Gift
+                          - generic [ref=f206e309]: Celebrate your favorite four-legged friend with our Dog Acrylic Christmas Ornaments, featuring colorful prints of Chelsea McShane's original artwork! 🐶❤️
+                          - generic [ref=f206e311]: Whether you're a proud dog mom, shopping for the perfect dog lover gift, or looking for a special way to celebrate a beloved pet, these colorful, collectible acrylic ornaments are a sweet way to add personality to your home.
+                          - generic [ref=f206e313]: Each ornament features a reproduction of Chelsea's original dog artwork, showcasing her signature loose, expressive brushstrokes and vibrant colors. These unique acrylic dog ornaments capture the charm and personality of our favorite furry companions while bringing a little piece of art into your everyday spaces.
+                          - generic [ref=f206e315]: With a variety of dog breeds and designs to choose from, these ornaments make thoughtful Christmas gifts for dog moms, dog dads, pet lovers, and anyone who considers their pup part of the family!
+                          - generic [ref=f206e317]: And they're not just for Christmas trees! These versatile ornaments can also be used as Christmas wreath charms, decorative gift toppers, garland accents, stocking decorations, or year-round keepsakes. Tie one onto a beautifully wrapped present, add it to a seasonal wreath, or display it on an ornament stand for a little touch of dog-inspired art all year long!
+                          - generic [ref=f206e319]: Features a reproduction of Chelsea McShane's original dog artwork printed on acrylic
+                          - generic [ref=f206e321]: High-quality acrylic ornament
+                          - generic [ref=f206e323]: Approximately 4–5" × 2.5–3.5" (size varies by design)
+                          - generic [ref=f206e325]: Ribbon included for easy hanging
+                          - generic [ref=f206e327]: Protective film on front should be removed before display
+                          - generic [ref=f206e329]: Perfect for Christmas trees, wreath charms, gift toppers, garlands, ornament stands, and year-round display
+                          - generic [ref=f206e331]: Thoughtful gifts for dog moms, dog dads, pet lovers, and dog breed enthusiasts
+                          - generic [ref=f206e333]: A little piece of art for the dog lover in your life! Whether you're celebrating your own furry friend or gifting to someone special, these collectible dog ornaments bring color, personality, and joy to any season! 🐾❤️
+                        - button "더 보기" [ref=f206e336] [cursor=pointer]
+                  - generic [ref=f206e407]:
+                    - generic [ref=f206e409]:
+                      - button [ref=f206e411]
+                      - generic [ref=f206e415]:
+                        - generic: 의견을 공유하려면 댓글을 추가하세요.
+                        - combobox "의견을 공유하려면 댓글을 추가하세요." [ref=f206e417]
+                    - generic [ref=f206e426]:
+                      - button "이모티콘 선택" [ref=f206e427] [cursor=pointer]
+                      - button "스티커 선택" [ref=f206e432] [cursor=pointer]
+                      - button "사진을 선택합니다." [ref=f206e438] [cursor=pointer]
+          - listitem [ref=f206e443]:
+            - group "핀 카드" [ref=f206e448]:
+              - generic [ref=f206e450]:
+                - link "X 핀 페이지" [ref=f206e452] [cursor=pointer]:
+                  - /url: /pin/496521927696433791/
+                  - img "포함된 이미지:" [ref=f206e462]
+                - generic "추가 작업" [ref=f206e471]:
+                  - button "추가 작업" [ref=f206e472] [cursor=pointer]
+          - listitem [ref=f206e477]:
+            - group "핀 카드" [ref=f206e482]:
+              - generic [ref=f206e484]:
+                - link "제목 없음 핀 페이지" [ref=f206e486] [cursor=pointer]:
+                  - /url: /pin/516084438551755272/
+                  - img "포함된 이미지:" [ref=f206e496]
+                - generic "추가 작업" [ref=f206e505]:
+                  - button "추가 작업" [ref=f206e506] [cursor=pointer]
+          - listitem [ref=f206e511]:
+            - group "핀 카드" [ref=f206e516]:
+              - generic [ref=f206e518]:
+                - link "temu.com" [ref=f206e522] [cursor=pointer]:
+                  - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605851322535240&adg_ctx=a-d00eb021~c-62389b1a&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260610175644&_x_ads_id=2680092610080&_x_ads_set=626760066417&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260610175644&_x_ns_gid=605851322535240&_x_ns_product_id=96378663519638&_x_ns_prz_type=101&locale_override=185~~KRW&_x_bg_adid=us1557425932&_x_ads_account=549767591651&_x_ns_placement=r&utm_campaign=626760066417&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092610080&pp=0
+                  - 'img "포함된 이미지: Temu | 2개 INS 스타일 만화 동물" [ref=f206e533]'
+                - generic [ref=f206e537]:
+                  - generic [ref=f206e538]:
+                    - heading [level=2] [ref=f206e543]:
+                      - link "Temu | 2개 INS 스타일 만화 동물 패턴 소프트 도자기 커팅 다이 세트 - 겨울 풍경 및 새해 선물 테마 주얼리 제작 도구 키트. 옷 모양의 커팅 다이가 포함되어 있으며, 도시 모임 및 휴가에 적합합니다. (슈나우저, 다치슈나우더 포함)" [ref=f206e547] [cursor=pointer]:
+                        - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605851322535240&adg_ctx=a-d00eb021~c-62389b1a&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260610175644&_x_ads_id=2680092610080&_x_ads_set=626760066417&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260610175644&_x_ns_gid=605851322535240&_x_ns_product_id=96378663519638&_x_ns_prz_type=101&locale_override=185~~KRW&_x_bg_adid=us1557425932&_x_ads_account=549767591651&_x_ns_placement=r&utm_campaign=626760066417&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092610080&pp=0
+                    - link "Temu_Korea 후원 핀" [ref=f206e551] [cursor=pointer]:
+                      - /url: /ads_fb40/
+                      - generic [ref=f206e553]:
+                        - generic [ref=f206e554]: Temu_Korea
+                        - generic [ref=f206e555]: 후원 핀
+                  - generic "추가 작업" [ref=f206e563]:
+                    - button "추가 작업" [ref=f206e564] [cursor=pointer]
+          - listitem [ref=f206e569]:
+            - group "핀 카드" [ref=f206e574]:
+              - generic [ref=f206e576]:
+                - link "제목 없음 핀 페이지" [ref=f206e578] [cursor=pointer]:
+                  - /url: /pin/123215739805708258/
+                  - img "포함된 이미지:" [ref=f206e588]
+                - generic "추가 작업" [ref=f206e597]:
+                  - button "추가 작업" [ref=f206e598] [cursor=pointer]
+          - listitem [ref=f206e603]:
+            - group "핀 카드" [ref=f206e608]:
+              - generic [ref=f206e610]:
+                - link "제목 없음 핀 페이지" [ref=f206e612] [cursor=pointer]:
+                  - /url: /pin/745908757071877395/
+                  - img "포함된 이미지:" [ref=f206e622]
+                - generic "추가 작업" [ref=f206e631]:
+                  - button "추가 작업" [ref=f206e632] [cursor=pointer]
+          - listitem [ref=f206e637]:
+            - group "핀 카드" [ref=f206e642]:
+              - generic [ref=f206e644]:
+                - link "temu.com" [ref=f206e648] [cursor=pointer]:
+                  - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=601105314946614&adg_ctx=a-5982e317~c-d0a025fb&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=601105314946614&_x_ns_product_id=17618941850142&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                  - 'img "포함된 이미지: Temu | 귀여운 닥스훈트 모양 쿠키 커터" [ref=f206e659]'
+                - generic [ref=f206e663]:
+                  - generic [ref=f206e664]:
+                    - heading [level=2] [ref=f206e669]:
+                      - link "Temu | 귀여운 닥스훈트 모양 쿠키 커터 몰드 강아지 비스킷 스탬프 아이싱 쿠키 퐁당 케이크 애완동물 사료 생일 파티 디저트 페이스트리 베이킹 액세서리 장식 도구" [ref=f206e673] [cursor=pointer]:
+                        - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=601105314946614&adg_ctx=a-5982e317~c-d0a025fb&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=601105314946614&_x_ns_product_id=17618941850142&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                    - link "Temu_Korea 후원 핀" [ref=f206e677] [cursor=pointer]:
+                      - /url: /ads_fb40/
+                      - generic [ref=f206e679]:
+                        - generic [ref=f206e680]: Temu_Korea
+                        - generic [ref=f206e681]: 후원 핀
+                  - generic "추가 작업" [ref=f206e689]:
+                    - button "추가 작업" [ref=f206e690] [cursor=pointer]
+          - listitem [ref=f206e695]:
+            - group "핀 카드" [ref=f206e700]:
+              - generic [ref=f206e702]:
+                - link "제목 없음 핀 페이지" [ref=f206e704] [cursor=pointer]:
+                  - /url: /pin/226024475042438027/
+                  - img "포함된 이미지:" [ref=f206e714]
+                - generic "추가 작업" [ref=f206e723]:
+                  - button "추가 작업" [ref=f206e724] [cursor=pointer]
+          - listitem [ref=f206e729]:
+            - group "핀 카드" [ref=f206e734]:
+              - generic [ref=f206e736]:
+                - link "Instagram 핀 페이지" [ref=f206e738] [cursor=pointer]:
+                  - /url: /pin/228698487326817275/
+                  - img "포함된 이미지:" [ref=f206e748]
+                - generic "추가 작업" [ref=f206e757]:
+                  - button "추가 작업" [ref=f206e758] [cursor=pointer]
+          - listitem [ref=f206e763]:
+            - group "핀 카드" [ref=f206e768]:
+              - generic [ref=f206e770]:
+                - generic [ref=f206e771]:
+                  - link "samsung.com" [ref=f206e774] [cursor=pointer]:
+                    - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/smartphones/galaxy-z-fold8/buy/?cid=sec_pd_social_pinterest_galaxy-z-fold8_sustain_br-i261103_video_standardvideo-i261103-v14-9s-v_amf1854-cuin&utm_campaign=626760350436&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680093088775
+                    - img "원이가 갤럭시와 함께한 이유 예뻐서 Galaxy Z Fold8" [ref=f206e791]
+                  - generic: 0:08
+                - generic [ref=f206e795]:
+                  - generic [ref=f206e796]:
+                    - heading [level=2] [ref=f206e801]:
+                      - link "[갤럭시 Z 폴드8] 우리가 함께한 이유 – 원이 편 | 삼성전자" [ref=f206e805] [cursor=pointer]:
+                        - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/smartphones/galaxy-z-fold8/buy/?cid=sec_pd_social_pinterest_galaxy-z-fold8_sustain_br-i261103_video_standardvideo-i261103-v14-9s-v_amf1854-cuin&utm_campaign=626760350436&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680093088775
+                    - link "삼성전자 Samsung Korea 후원 핀" [ref=f206e809] [cursor=pointer]:
+                      - /url: /adlbh0143/
+                      - generic [ref=f206e811]:
+                        - generic [ref=f206e812]: 삼성전자 Samsung Korea
+                        - generic [ref=f206e813]: 후원 핀
+                  - generic "추가 작업" [ref=f206e821]:
+                    - button "추가 작업" [ref=f206e822] [cursor=pointer]
+          - listitem [ref=f206e827]:
+            - group "핀 카드" [ref=f206e832]:
+              - generic [ref=f206e834]:
+                - link "제목 없음 핀 페이지" [ref=f206e836] [cursor=pointer]:
+                  - /url: /pin/29132728835225666/
+                  - img "포함된 이미지:" [ref=f206e846]
+                - generic "추가 작업" [ref=f206e855]:
+                  - button "추가 작업" [ref=f206e856] [cursor=pointer]
+          - listitem [ref=f206e861]:
+            - group "핀 카드" [ref=f206e866]:
+              - generic [ref=f206e868]:
+                - link "temu.com" [ref=f206e872] [cursor=pointer]:
+                  - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=607283224393475&adg_ctx=a-28c0906f~c-d2791e6d&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=607283224393475&_x_ns_product_id=118854764221331&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                  - 'img "포함된 이미지: Temu | 1개 크리스마스 매달이 장식," [ref=f206e883]'
+                - generic [ref=f206e887]:
+                  - generic [ref=f206e888]:
+                    - heading [level=2] [ref=f206e893]:
+                      - link "Temu | 1개 크리스마스 매달이 장식, 가정 및 상점 창문용 크리스마스 트리 매달이 장식, 창의적인 축제 장식" [ref=f206e897] [cursor=pointer]:
+                        - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=607283224393475&adg_ctx=a-28c0906f~c-d2791e6d&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=607283224393475&_x_ns_product_id=118854764221331&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                    - link "Temu_Korea 후원 핀" [ref=f206e901] [cursor=pointer]:
+                      - /url: /ads_fb40/
+                      - generic [ref=f206e903]:
+                        - generic [ref=f206e904]: Temu_Korea
+                        - generic [ref=f206e905]: 후원 핀
+                  - generic "추가 작업" [ref=f206e913]:
+                    - button "추가 작업" [ref=f206e914] [cursor=pointer]
+  - generic:
+    - contentinfo "꼬리말"

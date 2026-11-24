@@ -1,0 +1,196 @@
+- generic [ref=f216e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f216e13]:
+      - generic [ref=f216e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=f216e18]
+        - generic "이미지 업로드" [ref=f216e22]:
+          - button "Pinterest 렌즈" [ref=f216e23] [cursor=pointer]
+      - link "내 프로필" [ref=f216e32] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f216e39]:
+          - generic [ref=f216e40]: 강
+      - button "계정" [ref=f216e44] [cursor=pointer]
+  - navigation [ref=f216e49]:
+    - generic [ref=f216e51]:
+      - generic [ref=f216e52]:
+        - generic "홈" [ref=f216e56]:
+          - link "홈" [ref=f216e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f216e64]:
+          - link "홈" [ref=f216e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f216e72]:
+          - link "내 보드" [ref=f216e73] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f216e80]:
+          - button "만들기" [ref=f216e81] [cursor=pointer]
+        - generic "업데이트" [ref=f216e90]:
+          - 'button "업데이트: 1개 알림" [ref=f216e91] [cursor=pointer]'
+        - generic "메시지" [ref=f216e100]:
+          - button "메시지" [ref=f216e101] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f216e110]:
+        - button "설정 및 지원" [ref=f216e111] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - main [ref=f216e116]:
+    - generic [ref=f216e126]:
+      - button "뒤로" [ref=f216e128] [cursor=pointer]
+      - generic [ref=f216e137]:
+        - generic [ref=f216e138]: 관련 상품 결과를 불러오는 중
+        - list [ref=f216e143]:
+          - listitem [ref=f216e144]:
+            - group "Closeup content container" [ref=f216e151]:
+              - generic [ref=f216e156]:
+                - region "핀 이미지 및 탐색할 항목" [ref=f216e159]:
+                  - region "핀 이미지" [ref=f216e164]:
+                    - generic [ref=f216e170]:
+                      - button "더 크게 보기" [ref=f216e332] [cursor=pointer]:
+                        - generic [ref=f216e334]:
+                          - generic: 더 크게 보기
+                          - img "더 크게 보기" [ref=f216e336]
+                      - button "이미지 검색" [ref=f216e341] [cursor=pointer]:
+                        - generic [ref=f216e343]:
+                          - generic: 이미지 검색
+                          - img "이미지 검색" [ref=f216e345]
+                - generic [ref=f216e171]:
+                  - generic [ref=f216e174]:
+                    - list [ref=f216e175]:
+                      - generic [ref=f216e176]:
+                        - listitem [ref=f216e178]:
+                          - generic "반응" [ref=f216e181]:
+                            - button "반응" [ref=f216e182] [cursor=pointer]
+                          - generic [ref=f216e187]: "3"
+                        - listitem [ref=f216e189]:
+                          - generic "댓글" [ref=f216e192]:
+                            - button "댓글" [disabled] [ref=f216e193] [cursor=pointer]
+                        - listitem [ref=f216e199]:
+                          - generic "공유" [ref=f216e203]:
+                            - button "이 핀 공유" [ref=f216e205] [cursor=pointer]
+                        - listitem [ref=f216e211]:
+                          - generic "추가 작업" [ref=f216e216]:
+                            - button "추가 작업" [ref=f216e218] [cursor=pointer]
+                    - generic [ref=f216e228]:
+                      - 'button "저장할 보드 선택: 프로필" [ref=f216e231] [cursor=pointer]':
+                        - generic "프로필" [ref=f216e234]
+                      - button "저장" [ref=f216e240] [cursor=pointer]
+                  - generic [ref=f216e248]:
+                    - generic [ref=f216e257]:
+                      - link [ref=f216e259] [cursor=pointer]:
+                        - /url: /Maggielostintranslation/
+                        - img "Maggie 아바타 링크" [ref=f216e266]
+                      - link [ref=f216e270] [cursor=pointer]:
+                        - /url: /Maggielostintranslation/
+                        - heading "Maggie" [level=2] [ref=f216e271]
+                    - generic [ref=f216e280]:
+                      - heading "설명" [level=4] [ref=f216e281]
+                      - generic [ref=f216e282]: Scalloped
+          - listitem [ref=f216e347]:
+            - group "핀 카드" [ref=f216e352]:
+              - generic [ref=f216e354]:
+                - link "鐵花窗文化探討及延伸 (2015) 핀 페이지" [ref=f216e356] [cursor=pointer]:
+                  - /url: /pin/309270699421538072/
+                  - 'img "포함된 이미지: 鐵花窗文化探討及延伸 (2015)" [ref=f216e366]'
+                - generic [ref=f216e371]:
+                  - heading [level=2] [ref=f216e377]:
+                    - link "鐵花窗文化探討及延伸 (2015)" [ref=f216e379] [cursor=pointer]:
+                      - /url: /pin/309270699421538072/
+                  - generic "추가 작업" [ref=f216e382]:
+                    - button "추가 작업" [ref=f216e383] [cursor=pointer]
+          - listitem [ref=f216e388]:
+            - group "핀 카드" [ref=f216e393]:
+              - generic [ref=f216e395]:
+                - generic [ref=f216e396]:
+                  - link "samsung.com" [ref=f216e399] [cursor=pointer]:
+                    - /url: https://shopping.naver.com/festa/onsale/play/6aa79e84f3ec944169bbb139?utm_campaign=626760008878&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092513591&pp=0
+                    - img "삼성 AI 구독으로 최대 20% 할인 받고, 갤럭시 탭으로 갈아타자! 6개월 구독료 추가 지원 혜택과 구글 AI Pro 6개월 구독권 무료 증정까지! 다양한 런칭 프로모션을 지금 삼성닷컴에서 확인하세요" [ref=f216e416]
+                  - generic: 0:25
+                - generic [ref=f216e420]:
+                  - generic [ref=f216e421]:
+                    - heading [level=2] [ref=f216e426]:
+                      - link "갤럭시 탭 S12" [ref=f216e430] [cursor=pointer]:
+                        - /url: https://shopping.naver.com/festa/onsale/play/6aa79e84f3ec944169bbb139?utm_campaign=626760008878&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092513591&pp=0
+                    - link "삼성전자 Samsung Korea 후원 핀" [ref=f216e434] [cursor=pointer]:
+                      - /url: /adlbh0143/
+                      - generic [ref=f216e436]:
+                        - generic [ref=f216e437]: 삼성전자 Samsung Korea
+                        - generic [ref=f216e438]: 후원 핀
+                  - generic "추가 작업" [ref=f216e446]:
+                    - button "추가 작업" [ref=f216e447] [cursor=pointer]
+          - listitem [ref=f216e452]:
+            - group "핀 카드" [ref=f216e457]:
+              - generic [ref=f216e459]:
+                - link "제목 없음 핀 페이지" [ref=f216e461] [cursor=pointer]:
+                  - /url: /pin/637400153551860258/
+                  - img "포함된 이미지:" [ref=f216e471]
+                - generic "추가 작업" [ref=f216e480]:
+                  - button "추가 작업" [ref=f216e481] [cursor=pointer]
+          - listitem [ref=f216e486]:
+            - group "핀 카드" [ref=f216e491]:
+              - generic [ref=f216e493]:
+                - link "Декоративные рамки | Бесплатный вектор 핀 페이지" [ref=f216e495] [cursor=pointer]:
+                  - /url: /pin/918523286472862050/
+                  - 'img "포함된 이미지: Декоративные рамки | Бесплатный вектор" [ref=f216e505]'
+                - generic [ref=f216e510]:
+                  - generic [ref=f216e511]:
+                    - heading [level=2] [ref=f216e516]:
+                      - link "Декоративные рамки | Бесплатный вектор" [ref=f216e518] [cursor=pointer]:
+                        - /url: /pin/918523286472862050/
+                    - link "Magnific (formerly Freepik)" [ref=f216e521] [cursor=pointer]:
+                      - /url: /magnific_ai/
+                      - generic "Magnific (formerly Freepik)" [ref=f216e528]
+                  - generic "추가 작업" [ref=f216e531]:
+                    - button "추가 작업" [ref=f216e532] [cursor=pointer]
+          - listitem [ref=f216e537]:
+            - group "핀 카드" [ref=f216e542]:
+              - generic [ref=f216e544]:
+                - link "Black 'n White Wallpaper 핀 페이지" [ref=f216e546] [cursor=pointer]:
+                  - /url: /pin/586242076518657227/
+                  - 'img "포함된 이미지: Black ''n White Wallpaper" [ref=f216e556]'
+                - generic [ref=f216e561]:
+                  - heading [level=2] [ref=f216e567]:
+                    - link "Black 'n White Wallpaper" [ref=f216e569] [cursor=pointer]:
+                      - /url: /pin/586242076518657227/
+                  - generic "추가 작업" [ref=f216e572]:
+                    - button "추가 작업" [ref=f216e573] [cursor=pointer]
+          - listitem [ref=f216e578]:
+            - group "핀 카드" [ref=f216e583]:
+              - generic [ref=f216e585]:
+                - 'link "Grow Deal/Horizon Vertical - Brand identity :: Behance 핀 페이지" [ref=f216e587] [cursor=pointer]':
+                  - /url: /pin/907123549977863356/
+                  - img "포함된 이미지:" [ref=f216e597]
+                - generic [ref=f216e602]:
+                  - link "Behance" [ref=f216e606] [cursor=pointer]:
+                    - /url: /behance/
+                    - generic "Behance" [ref=f216e613]
+                  - generic "추가 작업" [ref=f216e616]:
+                    - button "추가 작업" [ref=f216e617] [cursor=pointer]
+          - listitem [ref=f216e622]:
+            - group "핀 카드" [ref=f216e627]:
+              - generic [ref=f216e629]:
+                - link "제목 없음 핀 페이지" [ref=f216e631] [cursor=pointer]:
+                  - /url: /pin/83457399338395985/
+                  - img "포함된 이미지:" [ref=f216e641]
+                - generic "추가 작업" [ref=f216e650]:
+                  - button "추가 작업" [ref=f216e651] [cursor=pointer]
+          - listitem [ref=f216e656]:
+            - group "핀 카드" [ref=f216e661]:
+              - generic [ref=f216e663]:
+                - link "wallpaper orla kiely 핀 페이지" [ref=f216e665] [cursor=pointer]:
+                  - /url: /pin/142707881916078290/
+                  - img "포함된 이미지:" [ref=f216e675]
+                - generic "추가 작업" [ref=f216e684]:
+                  - button "추가 작업" [ref=f216e685] [cursor=pointer]
+          - listitem [ref=f216e690]:
+            - group "핀 카드" [ref=f216e695]:
+              - generic [ref=f216e697]:
+                - link "제목 없음 핀 페이지" [ref=f216e699] [cursor=pointer]:
+                  - /url: /pin/729160995905760263/
+                  - img "포함된 이미지:" [ref=f216e709]
+                - generic "추가 작업" [ref=f216e718]:
+                  - button "추가 작업" [ref=f216e719] [cursor=pointer]
+  - generic:
+    - contentinfo "꼬리말"

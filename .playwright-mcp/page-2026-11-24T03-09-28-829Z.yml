@@ -1,0 +1,113 @@
+- generic [ref=f227e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f227e13]:
+      - generic [ref=f227e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=f227e18]
+        - generic "이미지 업로드" [ref=f227e22]:
+          - button "Pinterest 렌즈" [ref=f227e23] [cursor=pointer]
+      - link "내 프로필" [ref=f227e32] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f227e39]:
+          - generic [ref=f227e40]: 강
+      - button "계정" [ref=f227e44] [cursor=pointer]
+  - navigation [ref=f227e49]:
+    - generic [ref=f227e51]:
+      - generic [ref=f227e52]:
+        - generic "홈" [ref=f227e56]:
+          - link "홈" [ref=f227e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f227e64]:
+          - link "홈" [ref=f227e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f227e72]:
+          - link "내 보드" [ref=f227e73] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f227e80]:
+          - button "만들기" [ref=f227e81] [cursor=pointer]
+        - generic "업데이트" [ref=f227e90]:
+          - 'button "업데이트: 1개 알림" [ref=f227e91] [cursor=pointer]'
+        - generic "메시지" [ref=f227e100]:
+          - button "메시지" [ref=f227e101] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f227e110]:
+        - button "설정 및 지원" [ref=f227e111] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - main [ref=f227e116]:
+    - generic [ref=f227e126]:
+      - button "뒤로" [ref=f227e128] [cursor=pointer]
+      - generic [ref=f227e137]:
+        - generic [ref=f227e138]: 관련 상품 결과를 불러오는 중
+        - list [ref=f227e143]:
+          - listitem [ref=f227e144]:
+            - group "Closeup content container" [ref=f227e151]:
+              - generic [ref=f227e156]:
+                - region "핀 이미지 및 탐색할 항목" [ref=f227e159]:
+                  - region "핀 이미지" [ref=f227e164]:
+                    - generic [ref=f227e170]:
+                      - button "더 크게 보기" [ref=f227e173] [cursor=pointer]:
+                        - generic [ref=f227e175]:
+                          - generic: 더 크게 보기
+                          - img "더 크게 보기" [ref=f227e177]
+                      - button "이미지 검색" [ref=f227e182] [cursor=pointer]:
+                        - generic [ref=f227e184]:
+                          - generic: 이미지 검색
+                          - img "이미지 검색" [ref=f227e186]
+                - generic [ref=f227e188]:
+                  - generic [ref=f227e191]:
+                    - list [ref=f227e192]:
+                      - generic [ref=f227e193]:
+                        - listitem [ref=f227e195]:
+                          - generic "반응" [ref=f227e198]:
+                            - button "반응" [ref=f227e199] [cursor=pointer]
+                          - generic [ref=f227e204]: "5"
+                        - listitem [ref=f227e206]:
+                          - generic "댓글" [ref=f227e209]:
+                            - button "댓글" [ref=f227e210] [cursor=pointer]
+                        - listitem [ref=f227e216]:
+                          - generic "공유" [ref=f227e220]:
+                            - button "이 핀 공유" [ref=f227e222] [cursor=pointer]
+                        - listitem [ref=f227e228]:
+                          - generic "추가 작업" [ref=f227e233]:
+                            - button "추가 작업" [ref=f227e235] [cursor=pointer]
+                    - generic [ref=f227e245]:
+                      - 'button "저장할 보드 선택: 프로필" [ref=f227e248] [cursor=pointer]':
+                        - generic "프로필" [ref=f227e251]
+                      - button "저장" [ref=f227e257] [cursor=pointer]
+                  - generic [ref=f227e265]:
+                    - generic [ref=f227e274]:
+                      - link [ref=f227e276] [cursor=pointer]:
+                        - /url: /biancaamaddeo/
+                        - img "Amaddeo Bianca 아바타 링크" [ref=f227e283]
+                      - link [ref=f227e287] [cursor=pointer]:
+                        - /url: /biancaamaddeo/
+                        - heading "Amaddeo Bianca" [level=2] [ref=f227e288]
+                    - generic [ref=f227e297]:
+                      - heading "설명" [level=4] [ref=f227e298]
+                      - generic [ref=f227e299]: knots
+                  - generic [ref=f227e311]:
+                    - generic [ref=f227e313]:
+                      - button [ref=f227e315]
+                      - generic [ref=f227e319]:
+                        - generic: 의견을 공유하려면 댓글을 추가하세요.
+                        - combobox "의견을 공유하려면 댓글을 추가하세요." [ref=f227e321]
+                    - generic [ref=f227e330]:
+                      - button "이모티콘 선택" [ref=f227e331] [cursor=pointer]
+                      - button "스티커 선택" [ref=f227e336] [cursor=pointer]
+                      - button "사진을 선택합니다." [ref=f227e342] [cursor=pointer]
+          - listitem [ref=f227e347]
+          - listitem [ref=f227e351]
+          - listitem [ref=f227e355]
+          - listitem [ref=f227e359]
+          - listitem [ref=f227e363]
+          - listitem [ref=f227e367]
+          - listitem [ref=f227e371]
+          - listitem [ref=f227e375]
+          - listitem [ref=f227e379]
+          - listitem [ref=f227e383]
+          - listitem [ref=f227e387]
+  - generic:
+    - contentinfo "꼬리말"

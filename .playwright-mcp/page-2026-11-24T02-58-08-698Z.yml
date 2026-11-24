@@ -1,0 +1,269 @@
+- generic [ref=e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=e13]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - combobox "검색" [ref=e18]: abstract dog pattern ornament
+          - generic [ref=e19]:
+            - button "검색 입력 삭제" [ref=e23] [cursor=pointer]
+            - generic "이미지 업로드" [ref=e30]:
+              - button "Pinterest 렌즈" [ref=e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=e38] [cursor=pointer]:
+          - generic [ref=e40]:
+            - generic [ref=e41]: 모든 핀
+            - img "드롭다운" [ref=e43]
+      - link "내 프로필" [ref=e49] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=e56]:
+          - generic [ref=e57]: 강
+      - button "계정" [ref=e61] [cursor=pointer]
+  - navigation [ref=e66]:
+    - generic [ref=e68]:
+      - generic [ref=e69]:
+        - generic "홈" [ref=e73]:
+          - link "홈" [ref=e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=e81]:
+          - link "홈" [ref=e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=e89]:
+          - link "내 보드" [ref=e90] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=e97]:
+          - button "만들기" [ref=e98] [cursor=pointer]
+        - generic "업데이트" [ref=e107]:
+          - 'button "업데이트: 1개 알림" [ref=e108] [cursor=pointer]'
+        - generic "메시지" [ref=e117]:
+          - button "메시지" [ref=e118] [cursor=pointer]
+      - generic "설정 및 지원" [ref=e127]:
+        - button "설정 및 지원" [ref=e128] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - main [ref=e133]:
+    - generic [ref=e136]:
+      - heading "검색 결과 페이지" [level=1] [ref=e138]
+      - region "필터 및 세분화 검색" [ref=e142]:
+        - button "필터 표시" [ref=e151] [cursor=pointer]
+      - generic [ref=e162]:
+        - generic [ref=e163]: abstract dog pattern ornament 검색 결과를 추가로 불러오는 중
+        - list [ref=e168]:
+          - listitem [ref=e169]:
+            - group "핀 카드" [ref=e174]:
+              - generic [ref=e176]:
+                - link "제목 없음 핀 페이지" [ref=e178] [cursor=pointer]:
+                  - /url: /pin/741968107367343071/
+                  - img "포함된 이미지:" [ref=e188]
+                - generic "추가 작업" [ref=e197]:
+                  - button "추가 작업" [ref=e198] [cursor=pointer]
+          - listitem [ref=e203]:
+            - group "핀 카드" [ref=e208]:
+              - generic [ref=e210]:
+                - link "temu.com" [ref=e214] [cursor=pointer]:
+                  - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605851322535240&adg_ctx=a-d00eb021~c-62389b1a&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260610170574&_x_ads_id=2680092577565&_x_ads_set=626760052693&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260610170574&_x_ns_gid=605851322535240&_x_ns_product_id=96378663519638&_x_ns_prz_type=101&locale_override=185~~KRW&_x_bg_adid=us1557344271&_x_ads_account=549767591651&_x_ns_placement=s&utm_campaign=626760052693&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092577565&pp=0
+                  - 'img "포함된 이미지: Temu | 2개 INS 스타일 만화 동물" [ref=e225]'
+                - generic [ref=e229]:
+                  - generic [ref=e230]:
+                    - heading [level=2] [ref=e235]:
+                      - link "Temu | 2개 INS 스타일 만화 동물 패턴 소프트 도자기 커팅 다이 세트 - 겨울 풍경 및 새해 선물 테마 주얼리 제작 도구 키트. 옷 모양의 커팅 다이가 포함되어 있으며, 도시 모임 및 휴가에 적합합니다. (슈나우저, 다치슈나우더 포함)" [ref=e239] [cursor=pointer]:
+                        - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605851322535240&adg_ctx=a-d00eb021~c-62389b1a&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260610170574&_x_ads_id=2680092577565&_x_ads_set=626760052693&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260610170574&_x_ns_gid=605851322535240&_x_ns_product_id=96378663519638&_x_ns_prz_type=101&locale_override=185~~KRW&_x_bg_adid=us1557344271&_x_ads_account=549767591651&_x_ns_placement=s&utm_campaign=626760052693&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092577565&pp=0
+                    - link "Temu_Korea 후원 핀" [ref=e243] [cursor=pointer]:
+                      - /url: /ads_fb40/
+                      - generic [ref=e245]:
+                        - generic [ref=e246]: Temu_Korea
+                        - generic [ref=e247]: 후원 핀
+                  - generic "추가 작업" [ref=e255]:
+                    - button "추가 작업" [ref=e256] [cursor=pointer]
+          - listitem [ref=e261]:
+            - group "핀 카드" [ref=e266]:
+              - generic [ref=e268]:
+                - link "Ceramic Running Dog 핀 페이지" [ref=e270] [cursor=pointer]:
+                  - /url: /pin/347340190016898896/
+                  - 'img "포함된 이미지: Ceramic Running Dog" [ref=e280]'
+                - generic [ref=e285]:
+                  - heading [level=2] [ref=e291]:
+                    - link "Ceramic Running Dog" [ref=e293] [cursor=pointer]:
+                      - /url: /pin/347340190016898896/
+                  - generic "추가 작업" [ref=e296]:
+                    - button "추가 작업" [ref=e297] [cursor=pointer]
+          - listitem [ref=e302]:
+            - group "핀 카드" [ref=e307]:
+              - generic [ref=e309]:
+                - link "Ceramic Dog Ornament Decoration Pet Tag Gift 핀 페이지" [ref=e311] [cursor=pointer]:
+                  - /url: /pin/815573814580737224/
+                  - 'img "포함된 이미지: Ceramic Dog Ornament Decoration Pet Tag Gift" [ref=e321]'
+                - generic [ref=e326]:
+                  - generic [ref=e327]:
+                    - heading [level=2] [ref=e332]:
+                      - link "Ceramic Dog Ornament Decoration Pet Tag Gift" [ref=e334] [cursor=pointer]:
+                        - /url: /pin/815573814580737224/
+                    - link "EtsyUK" [ref=e337] [cursor=pointer]:
+                      - /url: /etsy_UK/
+                      - generic "EtsyUK" [ref=e344]
+                  - generic "추가 작업" [ref=e347]:
+                    - button "추가 작업" [ref=e348] [cursor=pointer]
+          - listitem [ref=e353]:
+            - group "핀 카드" [ref=e358]:
+              - generic [ref=e360]:
+                - link "Mowbray The Beagle. Dog ceramic Christmas ornament by Karen Turner. 핀 페이지" [ref=e362] [cursor=pointer]:
+                  - /url: /pin/532550724684512144/
+                  - img "포함된 이미지:" [ref=e372]
+                - generic "추가 작업" [ref=e381]:
+                  - button "추가 작업" [ref=e382] [cursor=pointer]
+          - listitem [ref=e387]:
+            - group "핀 카드" [ref=e392]:
+              - generic [ref=e394]:
+                - link "temu.com" [ref=e398] [cursor=pointer]:
+                  - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605575488363148&adg_ctx=a-7818c177~c-01f36c5f&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=605575488363148&_x_ns_product_id=90045398693544&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                  - 'img "포함된 이미지: Temu | 동물 테마 강아지 점토 커터" [ref=e409]'
+                - generic [ref=e413]:
+                  - generic [ref=e414]:
+                    - heading [level=2] [ref=e419]:
+                      - link "Temu | 동물 테마 강아지 점토 커터 6개, 폴리머 클레이 주얼리 제작용 몰드, 봄 점토 몰드, 발렌타인데이 폴리머 클레이 커터, LOVE 테마 선물, 창의적인 사랑 펜던트 모양 커터, 봄 테마, 발렌타인데이 공예 용품, DIY 공예 및 주얼리 제작, 귀걸이 및 열쇠고리용 도구" [ref=e423] [cursor=pointer]:
+                        - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605575488363148&adg_ctx=a-7818c177~c-01f36c5f&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=605575488363148&_x_ns_product_id=90045398693544&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                    - link "Temu_Korea 후원 핀" [ref=e427] [cursor=pointer]:
+                      - /url: /ads_fb40/
+                      - generic [ref=e429]:
+                        - generic [ref=e430]: Temu_Korea
+                        - generic [ref=e431]: 후원 핀
+                  - generic "추가 작업" [ref=e439]:
+                    - button "추가 작업" [ref=e440] [cursor=pointer]
+          - listitem [ref=e445]:
+            - group "핀 카드" [ref=e450]:
+              - generic [ref=e452]:
+                - link "Dog ceramic Xmas tree animal ornament decoration handmade 핀 페이지" [ref=e454] [cursor=pointer]:
+                  - /url: /pin/1146166173936831333/
+                  - 'img "포함된 이미지: Dog ceramic Xmas tree animal ornament decoration handmade" [ref=e464]'
+                - generic [ref=e469]:
+                  - heading [level=2] [ref=e475]:
+                    - link "Dog ceramic Xmas tree animal ornament decoration handmade" [ref=e477] [cursor=pointer]:
+                      - /url: /pin/1146166173936831333/
+                  - generic "추가 작업" [ref=e480]:
+                    - button "추가 작업" [ref=e481] [cursor=pointer]
+          - listitem [ref=e486]:
+            - group "핀 카드" [ref=e491]:
+              - generic [ref=e493]:
+                - link "Abstract Dachshund Acrylic Christmas Ornament | Dog Ornament 핀 페이지" [ref=e495] [cursor=pointer]:
+                  - /url: /pin/200902833370993456/
+                  - 'img "포함된 이미지: Abstract Dachshund Acrylic Christmas Ornament | Dog Ornament" [ref=e505]'
+                - generic [ref=e510]:
+                  - heading [level=2] [ref=e516]:
+                    - link "Abstract Dachshund Acrylic Christmas Ornament | Dog Ornament" [ref=e518] [cursor=pointer]:
+                      - /url: /pin/200902833370993456/
+                  - generic "추가 작업" [ref=e521]:
+                    - button "추가 작업" [ref=e522] [cursor=pointer]
+          - listitem [ref=e527]:
+            - group "핀 카드" [ref=e532]:
+              - generic [ref=e534]:
+                - link "temu.com" [ref=e538] [cursor=pointer]:
+                  - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=606160140743264&adg_ctx=a-35b72e86~c-b1923186&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=606160140743264&_x_ns_product_id=90312760406554&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                  - 'img "포함된 이미지: Temu | 8개 귀여운 강아지 폴리머 클레이" [ref=e549]'
+                - generic [ref=e553]:
+                  - generic [ref=e554]:
+                    - heading [level=2] [ref=e559]:
+                      - link "Temu | 8개 귀여운 강아지 폴리머 클레이 몰드, 다양한 견종 얼굴 모양 클레이 몰드 (귀걸이 & 브로치용), 발렌타인데이, 부활절, 어버이날, 봄, 여름, 코스터, 세라믹, 도자기, 조각, 뜨개질, 주얼리 제작에 적합" [ref=e563] [cursor=pointer]:
+                        - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=606160140743264&adg_ctx=a-35b72e86~c-b1923186&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=606160140743264&_x_ns_product_id=90312760406554&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                    - link "Temu_Korea 후원 핀" [ref=e567] [cursor=pointer]:
+                      - /url: /ads_fb40/
+                      - generic [ref=e569]:
+                        - generic [ref=e570]: Temu_Korea
+                        - generic [ref=e571]: 후원 핀
+                  - generic "추가 작업" [ref=e579]:
+                    - button "추가 작업" [ref=e580] [cursor=pointer]
+          - listitem [ref=e585]:
+            - group "핀 카드" [ref=e590]:
+              - generic [ref=e592]:
+                - link "제목 없음 핀 페이지" [ref=e594] [cursor=pointer]:
+                  - /url: /pin/743445850979532042/
+                  - img "포함된 이미지:" [ref=e604]
+                - generic "추가 작업" [ref=e613]:
+                  - button "추가 작업" [ref=e614] [cursor=pointer]
+          - listitem [ref=e619]:
+            - group "핀 카드" [ref=e624]:
+              - generic [ref=e626]:
+                - link "Handmade Ceramic Animal Christmas Ornaments, Blue and White Cat, Dog & Rabbit Decorations. 핀 페이지" [ref=e628] [cursor=pointer]:
+                  - /url: /pin/4600638195232793152/
+                  - 'img "포함된 이미지: Handmade Ceramic Animal Christmas Ornaments, Blue and White Cat, Dog & Rabbit Decorations." [ref=e638]'
+                - generic [ref=e643]:
+                  - generic [ref=e644]:
+                    - heading [level=2] [ref=e649]:
+                      - link "Handmade Ceramic Animal Christmas Ornaments, Blue and White Cat, Dog & Rabbit Decorations." [ref=e651] [cursor=pointer]:
+                        - /url: /pin/4600638195232793152/
+                    - link "Etsy" [ref=e654] [cursor=pointer]:
+                      - /url: /etsy/
+                      - generic "Etsy" [ref=e661]
+                  - generic "추가 작업" [ref=e664]:
+                    - button "추가 작업" [ref=e665] [cursor=pointer]
+          - listitem [ref=e670]:
+            - group "핀 카드" [ref=e675]:
+              - generic [ref=e677]:
+                - link "Spotted Dog Hanging Ceramic Ornament Handmade by saraswink 핀 페이지" [ref=e679] [cursor=pointer]:
+                  - /url: /pin/318207529901534775/
+                  - img "포함된 이미지:" [ref=e689]
+                - generic [ref=e694]:
+                  - link "Etsy" [ref=e698] [cursor=pointer]:
+                    - /url: /etsy/
+                    - generic "Etsy" [ref=e705]
+                  - generic "추가 작업" [ref=e708]:
+                    - button "추가 작업" [ref=e709] [cursor=pointer]
+          - listitem [ref=e714]:
+            - group "핀 카드" [ref=e719]:
+              - generic [ref=e721]:
+                - link "제목 없음 핀 페이지" [ref=e723] [cursor=pointer]:
+                  - /url: /pin/560557484891404629/
+                  - img "포함된 이미지:" [ref=e733]
+                - generic "추가 작업" [ref=e742]:
+                  - button "추가 작업" [ref=e743] [cursor=pointer]
+          - listitem [ref=e748]:
+            - group "핀 카드" [ref=e753]:
+              - generic [ref=e755]:
+                - link "temu.com" [ref=e759] [cursor=pointer]:
+                  - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=606559589502231&adg_ctx=a-7671ebe8~c-8931104d&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=606559589502231&_x_ns_product_id=99342325158895&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                  - 'img "포함된 이미지: Temu | 1개 - 모던 추상 기하학적" [ref=e770]'
+                - generic [ref=e774]:
+                  - generic [ref=e775]:
+                    - heading [level=2] [ref=e780]:
+                      - link "Temu | 1개 - 모던 추상 기하학적 디자인 푸들 조각상 | 수제 컬러링, 3D 프린팅, 데스크탑 장식에 완벽, 창의적인 홈 데코, 애완동물 애호가 수집품, 범용 생일 선물" [ref=e784] [cursor=pointer]:
+                        - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=606559589502231&adg_ctx=a-7671ebe8~c-8931104d&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=606559589502231&_x_ns_product_id=99342325158895&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                    - link "Temu_Korea 후원 핀" [ref=e788] [cursor=pointer]:
+                      - /url: /ads_fb40/
+                      - generic [ref=e790]:
+                        - generic [ref=e791]: Temu_Korea
+                        - generic [ref=e792]: 후원 핀
+                  - generic "추가 작업" [ref=e800]:
+                    - button "추가 작업" [ref=e801] [cursor=pointer]
+          - listitem [ref=e806]:
+            - group "핀 카드" [ref=e811]:
+              - generic [ref=e813]:
+                - link "Ceramic Ornament - Labrador 핀 페이지" [ref=e815] [cursor=pointer]:
+                  - /url: /pin/4591279195874550016/
+                  - 'img "포함된 이미지: Ceramic Ornament - Labrador" [ref=e825]'
+                - generic [ref=e830]:
+                  - generic [ref=e831]:
+                    - heading [level=2] [ref=e836]:
+                      - link "Ceramic Ornament - Labrador" [ref=e838] [cursor=pointer]:
+                        - /url: /pin/4591279195874550016/
+                    - link "LUNA" [ref=e841] [cursor=pointer]:
+                      - /url: /lunacollectiveyyj/
+                      - generic "LUNA" [ref=e848]
+                  - generic "추가 작업" [ref=e851]:
+                    - button "추가 작업" [ref=e852] [cursor=pointer]
+          - listitem [ref=e857]:
+            - group "핀 카드" [ref=e862]:
+              - generic [ref=e864]:
+                - link "#MMissoni | Poodle Print | Spring 2013 Collection 핀 페이지" [ref=e866] [cursor=pointer]:
+                  - /url: /pin/308707749428071618/
+                  - img "포함된 이미지:" [ref=e876]
+                - generic "추가 작업" [ref=e885]:
+                  - button "추가 작업" [ref=e886] [cursor=pointer]
+          - listitem [ref=e891]:
+            - group "핀 카드" [ref=e896]:
+              - generic [ref=e898]:
+                - link "제목 없음 핀 페이지" [ref=e900] [cursor=pointer]:
+                  - /url: /pin/458452437079107640/
+                  - img "포함된 이미지:" [ref=e910]
+                - generic "추가 작업" [ref=e919]:
+                  - button "추가 작업" [ref=e920] [cursor=pointer]
+  - generic:
+    - contentinfo "꼬리말"

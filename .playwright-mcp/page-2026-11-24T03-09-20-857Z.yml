@@ -1,0 +1,116 @@
+- generic [ref=f206e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f206e13]:
+      - generic [ref=f206e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=f206e18]
+        - generic "이미지 업로드" [ref=f206e22]:
+          - button "Pinterest 렌즈" [ref=f206e23] [cursor=pointer]
+      - link "내 프로필" [ref=f206e32] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f206e39]:
+          - generic [ref=f206e40]: 강
+      - button "계정" [ref=f206e44] [cursor=pointer]
+  - navigation [ref=f206e49]:
+    - generic [ref=f206e51]:
+      - generic [ref=f206e52]:
+        - generic "홈" [ref=f206e56]:
+          - link "홈" [ref=f206e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f206e64]:
+          - link "홈" [ref=f206e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f206e72]:
+          - link "내 보드" [ref=f206e73] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f206e80]:
+          - button "만들기" [ref=f206e81] [cursor=pointer]
+        - generic "업데이트" [ref=f206e90]:
+          - 'button "업데이트: 1개 알림" [ref=f206e91] [cursor=pointer]'
+        - generic "메시지" [ref=f206e100]:
+          - button "메시지" [ref=f206e101] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f206e110]:
+        - button "설정 및 지원" [ref=f206e111] [cursor=pointer]
+  - main [ref=f206e116]:
+    - generic [ref=f206e126]:
+      - button "뒤로" [ref=f206e128] [cursor=pointer]
+      - generic [ref=f206e137]:
+        - generic [ref=f206e138]: 관련 상품 결과를 불러오는 중
+        - list [ref=f206e143]:
+          - listitem [ref=f206e144]:
+            - group "Closeup content container" [ref=f206e151]:
+              - generic [ref=f206e156]:
+                - region "핀 이미지 및 탐색할 항목" [ref=f206e159]:
+                  - region "핀 이미지" [ref=f206e164]:
+                    - link "사이트 방문, chelseamcshane.com" [ref=f206e174] [cursor=pointer]:
+                      - /url: https://chelseamcshane.com/products/dachshund-abstract-ornament?utm_source=Pinterest&utm_medium=organic
+                      - generic [ref=f206e178]: 사이트 방문
+                - generic [ref=f206e179]:
+                  - generic [ref=f206e182]:
+                    - list [ref=f206e183]:
+                      - generic [ref=f206e184]:
+                        - listitem [ref=f206e186]:
+                          - generic "반응" [ref=f206e189]:
+                            - button "반응" [ref=f206e190] [cursor=pointer]
+                          - generic [ref=f206e195]: "0"
+                        - listitem [ref=f206e197]:
+                          - generic "댓글" [ref=f206e200]:
+                            - button "댓글" [ref=f206e201] [cursor=pointer]
+                        - listitem [ref=f206e207]:
+                          - generic "공유" [ref=f206e211]:
+                            - button "이 핀 공유" [ref=f206e213] [cursor=pointer]
+                        - listitem [ref=f206e219]:
+                          - generic "추가 작업" [ref=f206e224]:
+                            - button "추가 작업" [ref=f206e226] [cursor=pointer]
+                    - generic [ref=f206e236]:
+                      - 'button "저장할 보드 선택: 프로필" [ref=f206e239] [cursor=pointer]':
+                        - generic "프로필" [ref=f206e242]
+                      - button "저장" [ref=f206e248] [cursor=pointer]
+                  - generic [ref=f206e256]:
+                    - generic [ref=f206e265]:
+                      - link [ref=f206e267] [cursor=pointer]:
+                        - /url: /nmarcille/
+                        - img "Marcille Narya 아바타 링크" [ref=f206e274]
+                      - link [ref=f206e278] [cursor=pointer]:
+                        - /url: /nmarcille/
+                        - heading "Marcille Narya" [level=2] [ref=f206e279]
+                    - generic [ref=f206e282]:
+                      - generic [ref=f206e284]:
+                        - link [ref=f206e290] [cursor=pointer]:
+                          - /url: https://chelseamcshane.com/products/dachshund-abstract-ornament?utm_source=Pinterest&utm_medium=organic
+                          - heading "Abstract Dachshund Acrylic Christmas Ornament | Dog Ornament" [level=1] [ref=f206e291]
+                        - link "사이트 방문, chelseamcshane.com" [ref=f206e299] [cursor=pointer]:
+                          - /url: https://chelseamcshane.com/products/dachshund-abstract-ornament?utm_source=Pinterest&utm_medium=organic
+                          - generic [ref=f206e300]: 사이트 방문
+                      - generic [ref=f206e303]:
+                        - heading "설명" [level=4] [ref=f206e304]
+                        - generic [ref=f206e306]:
+                          - generic [ref=f206e307]: Dog Acrylic Christmas Ornament | Wreath Charm & Dog Lover Gift
+                          - generic [ref=f206e309]: Celebrate your favorite four-legged friend with our Dog Acrylic Christmas Ornaments, featuring colorful prints of Chelsea McShane's original artwork! 🐶❤️
+                          - generic [ref=f206e311]: Whether you're a proud dog mom, shopping for the perfect dog lover gift, or looking for a special way to celebrate a beloved pet, these colorful, collectible acrylic ornaments are a sweet way to add personality to your home.
+                          - generic [ref=f206e313]: Each ornament features a reproduction of Chelsea's original dog artwork, showcasing her signature loose, expressive brushstrokes and vibrant colors. These unique acrylic dog ornaments capture the charm and personality of our favorite furry companions while bringing a little piece of art into your everyday spaces.
+                          - generic [ref=f206e315]: With a variety of dog breeds and designs to choose from, these ornaments make thoughtful Christmas gifts for dog moms, dog dads, pet lovers, and anyone who considers their pup part of the family!
+                          - generic [ref=f206e317]: And they're not just for Christmas trees! These versatile ornaments can also be used as Christmas wreath charms, decorative gift toppers, garland accents, stocking decorations, or year-round keepsakes. Tie one onto a beautifully wrapped present, add it to a seasonal wreath, or display it on an ornament stand for a little touch of dog-inspired art all year long!
+                          - generic [ref=f206e319]: Features a reproduction of Chelsea McShane's original dog artwork printed on acrylic
+                          - generic [ref=f206e321]: High-quality acrylic ornament
+                          - generic [ref=f206e323]: Approximately 4–5" × 2.5–3.5" (size varies by design)
+                          - generic [ref=f206e325]: Ribbon included for easy hanging
+                          - generic [ref=f206e327]: Protective film on front should be removed before display
+                          - generic [ref=f206e329]: Perfect for Christmas trees, wreath charms, gift toppers, garlands, ornament stands, and year-round display
+                          - generic [ref=f206e331]: Thoughtful gifts for dog moms, dog dads, pet lovers, and dog breed enthusiasts
+                          - generic [ref=f206e333]: A little piece of art for the dog lover in your life! Whether you're celebrating your own furry friend or gifting to someone special, these collectible dog ornaments bring color, personality, and joy to any season! 🐾❤️
+                        - button "더 보기" [ref=f206e336] [cursor=pointer]
+          - listitem [ref=f206e339]
+          - listitem [ref=f206e343]
+          - listitem [ref=f206e347]
+          - listitem [ref=f206e351]
+          - listitem [ref=f206e355]
+          - listitem [ref=f206e359]
+          - listitem [ref=f206e363]
+          - listitem [ref=f206e367]
+          - listitem [ref=f206e371]
+          - listitem [ref=f206e375]
+          - listitem [ref=f206e379]

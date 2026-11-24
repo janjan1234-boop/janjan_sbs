@@ -1,0 +1,229 @@
+- generic [active] [ref=f71e1]:
+  - generic [ref=f71e4]:
+    - banner:
+      - link "콘텐츠로 건너뛰기":
+        - /url: "#"
+      - generic [ref=f71e13]:
+        - generic [ref=f71e15]:
+          - generic [ref=f71e16]:
+            - combobox "검색" [ref=f71e18]: dog silhouette minimal illustration
+            - generic [ref=f71e19]:
+              - button "검색 입력 삭제" [ref=f71e23] [cursor=pointer]
+              - generic "이미지 업로드" [ref=f71e30]:
+                - button "Pinterest 렌즈" [ref=f71e31] [cursor=pointer]
+          - button "모든 핀 드롭다운" [ref=f71e38] [cursor=pointer]:
+            - generic [ref=f71e40]:
+              - generic [ref=f71e41]: 모든 핀
+              - img "드롭다운" [ref=f71e43]
+        - link "내 프로필" [ref=f71e49] [cursor=pointer]:
+          - /url: /ran4930/
+          - img [ref=f71e56]:
+            - generic [ref=f71e57]: 강
+        - button "계정" [ref=f71e61] [cursor=pointer]
+    - navigation [ref=f71e66]:
+      - generic [ref=f71e68]:
+        - generic [ref=f71e69]:
+          - generic "홈" [ref=f71e73]:
+            - link "홈" [ref=f71e74] [cursor=pointer]:
+              - /url: /
+          - generic "홈" [ref=f71e81]:
+            - link "홈" [ref=f71e82] [cursor=pointer]:
+              - /url: /
+          - generic "내 보드" [ref=f71e89]:
+            - link "내 보드" [ref=f71e90] [cursor=pointer]:
+              - /url: /ran4930/
+          - generic "만들기" [ref=f71e97]:
+            - button "만들기" [ref=f71e98] [cursor=pointer]
+          - generic "업데이트" [ref=f71e107]:
+            - 'button "업데이트: 1개 알림" [ref=f71e108] [cursor=pointer]'
+          - generic "메시지" [ref=f71e117]:
+            - button "메시지" [ref=f71e118] [cursor=pointer]
+        - generic "설정 및 지원" [ref=f71e127]:
+          - button "설정 및 지원" [ref=f71e128] [cursor=pointer]
+    - generic:
+      - complementary "꼬리말 부동 버튼"
+    - main [ref=f71e133]:
+      - generic [ref=f71e136]:
+        - heading "검색 결과 페이지" [level=1] [ref=f71e138]
+        - region "필터 및 세분화 검색" [ref=f71e142]:
+          - button "필터 표시" [ref=f71e151] [cursor=pointer]
+        - generic [ref=f71e162]:
+          - generic [ref=f71e163]: dog silhouette minimal illustration 검색 결과를 추가로 표시
+          - list [ref=f71e168]:
+            - listitem [ref=f71e169]:
+              - group "핀 카드" [ref=f71e174]:
+                - generic [ref=f71e176]:
+                  - link "제목 없음 핀 페이지" [ref=f71e178] [cursor=pointer]:
+                    - /url: /pin/293508100727880049/
+                    - img "포함된 이미지:" [ref=f71e188]
+                  - generic "추가 작업" [ref=f71e197]:
+                    - button "추가 작업" [ref=f71e198] [cursor=pointer]
+            - listitem [ref=f71e203]:
+              - group "핀 카드" [ref=f71e208]:
+                - generic [ref=f71e210]:
+                  - link "제목 없음 핀 페이지" [ref=f71e212] [cursor=pointer]:
+                    - /url: /pin/194991858852021134/
+                    - img "포함된 이미지:" [ref=f71e222]
+                  - generic "추가 작업" [ref=f71e231]:
+                    - button "추가 작업" [ref=f71e232] [cursor=pointer]
+            - listitem [ref=f71e237]:
+              - group "핀 카드" [ref=f71e242]:
+                - generic [ref=f71e244]:
+                  - link "제목 없음 핀 페이지" [ref=f71e246] [cursor=pointer]:
+                    - /url: /pin/360076932727910748/
+                    - img "포함된 이미지:" [ref=f71e256]
+                  - generic "추가 작업" [ref=f71e265]:
+                    - button "추가 작업" [ref=f71e266] [cursor=pointer]
+            - listitem [ref=f71e271]:
+              - group "핀 카드" [ref=f71e276]:
+                - generic [ref=f71e278]:
+                  - link "제목 없음 핀 페이지" [ref=f71e280] [cursor=pointer]:
+                    - /url: /pin/324259241931230026/
+                    - img "포함된 이미지:" [ref=f71e290]
+                  - generic "추가 작업" [ref=f71e299]:
+                    - button "추가 작업" [ref=f71e300] [cursor=pointer]
+            - listitem [ref=f71e305]:
+              - group "핀 카드" [ref=f71e310]:
+                - generic [ref=f71e312]:
+                  - link "제목 없음 핀 페이지" [ref=f71e314] [cursor=pointer]:
+                    - /url: /pin/497084877643431734/
+                    - img "포함된 이미지:" [ref=f71e324]
+                  - generic "추가 작업" [ref=f71e333]:
+                    - button "추가 작업" [ref=f71e334] [cursor=pointer]
+            - listitem [ref=f71e339]:
+              - group "핀 카드" [ref=f71e344]:
+                - generic [ref=f71e346]:
+                  - link "제목 없음 핀 페이지" [ref=f71e348] [cursor=pointer]:
+                    - /url: /pin/779122804323742464/
+                    - img "포함된 이미지:" [ref=f71e358]
+                  - generic "추가 작업" [ref=f71e367]:
+                    - button "추가 작업" [ref=f71e368] [cursor=pointer]
+            - listitem [ref=f71e373]:
+              - group "핀 카드" [ref=f71e378]:
+                - generic [ref=f71e380]:
+                  - link "제목 없음 핀 페이지" [ref=f71e382] [cursor=pointer]:
+                    - /url: /pin/683350943494092080/
+                    - img "포함된 이미지:" [ref=f71e392]
+                  - generic "추가 작업" [ref=f71e401]:
+                    - button "추가 작업" [ref=f71e402] [cursor=pointer]
+            - listitem [ref=f71e407]:
+              - group "핀 카드" [ref=f71e412]:
+                - generic [ref=f71e414]:
+                  - link "Exhibition [ どうぶつ展 ] 2010 - Kanae Sato 핀 페이지" [ref=f71e416] [cursor=pointer]:
+                    - /url: /pin/973199800718510416/
+                    - 'img "포함된 이미지: Exhibition [ どうぶつ展 ] 2010 - Kanae Sato" [ref=f71e426]'
+                  - generic [ref=f71e431]:
+                    - generic [ref=f71e432]:
+                      - heading [level=2] [ref=f71e437]:
+                        - link "Exhibition [ どうぶつ展 ] 2010 - Kanae Sato" [ref=f71e439] [cursor=pointer]:
+                          - /url: /pin/973199800718510416/
+                      - link "Behance" [ref=f71e442] [cursor=pointer]:
+                        - /url: /behance/
+                        - generic "Behance" [ref=f71e449]
+                    - generic "추가 작업" [ref=f71e452]:
+                      - button "추가 작업" [ref=f71e453] [cursor=pointer]
+            - listitem [ref=f71e458]:
+              - group "핀 카드" [ref=f71e463]:
+                - generic [ref=f71e465]:
+                  - link "Bone by Asuka Eo 핀 페이지" [ref=f71e467] [cursor=pointer]:
+                    - /url: /pin/481322278933245987/
+                    - 'img "포함된 이미지: Bone by Asuka Eo" [ref=f71e477]'
+                  - generic [ref=f71e482]:
+                    - heading [level=2] [ref=f71e488]:
+                      - link "Bone by Asuka Eo" [ref=f71e490] [cursor=pointer]:
+                        - /url: /pin/481322278933245987/
+                    - generic "추가 작업" [ref=f71e493]:
+                      - button "추가 작업" [ref=f71e494] [cursor=pointer]
+            - listitem [ref=f71e499]:
+              - group "핀 카드" [ref=f71e504]:
+                - generic [ref=f71e506]:
+                  - link "제목 없음 핀 페이지" [ref=f71e508] [cursor=pointer]:
+                    - /url: /pin/791366965791345114/
+                    - img "포함된 이미지:" [ref=f71e518]
+                  - generic "추가 작업" [ref=f71e527]:
+                    - button "추가 작업" [ref=f71e528] [cursor=pointer]
+            - listitem [ref=f71e533]:
+              - group "핀 카드" [ref=f71e538]:
+                - generic [ref=f71e540]:
+                  - link "제목 없음 핀 페이지" [ref=f71e542] [cursor=pointer]:
+                    - /url: /pin/610378555790895291/
+                    - img "포함된 이미지:" [ref=f71e552]
+                  - generic "추가 작업" [ref=f71e561]:
+                    - button "추가 작업" [ref=f71e562] [cursor=pointer]
+            - listitem [ref=f71e567]:
+              - group "핀 카드" [ref=f71e572]:
+                - generic [ref=f71e574]:
+                  - link "30 simple logos that speak volumes - 99designs 핀 페이지" [ref=f71e576] [cursor=pointer]:
+                    - /url: /pin/569705421626935266/
+                    - 'img "포함된 이미지: 30 simple logos that speak volumes - 99designs" [ref=f71e586]'
+                  - generic [ref=f71e591]:
+                    - heading [level=2] [ref=f71e597]:
+                      - link "30 simple logos that speak volumes - 99designs" [ref=f71e599] [cursor=pointer]:
+                        - /url: /pin/569705421626935266/
+                    - generic "추가 작업" [ref=f71e602]:
+                      - button "추가 작업" [ref=f71e603] [cursor=pointer]
+            - listitem [ref=f71e608]:
+              - group "핀 카드" [ref=f71e613]:
+                - generic [ref=f71e615]:
+                  - link "제목 없음 핀 페이지" [ref=f71e617] [cursor=pointer]:
+                    - /url: /pin/819584832228134629/
+                    - img "포함된 이미지:" [ref=f71e627]
+                  - generic "추가 작업" [ref=f71e636]:
+                    - button "추가 작업" [ref=f71e637] [cursor=pointer]
+            - listitem [ref=f71e642]:
+              - group "핀 카드" [ref=f71e647]:
+                - generic [ref=f71e649]:
+                  - link "제목 없음 핀 페이지" [ref=f71e651] [cursor=pointer]:
+                    - /url: /pin/919860292653505990/
+                    - img "포함된 이미지:" [ref=f71e661]
+                  - generic "추가 작업" [ref=f71e670]:
+                    - button "추가 작업" [ref=f71e671] [cursor=pointer]
+            - listitem [ref=f71e676]:
+              - group "핀 카드" [ref=f71e681]:
+                - generic [ref=f71e683]:
+                  - link "제목 없음 핀 페이지" [ref=f71e685] [cursor=pointer]:
+                    - /url: /pin/681662093613625744/
+                    - img "포함된 이미지:" [ref=f71e695]
+                  - generic "추가 작업" [ref=f71e704]:
+                    - button "추가 작업" [ref=f71e705] [cursor=pointer]
+            - listitem [ref=f71e710]:
+              - group "핀 카드" [ref=f71e715]:
+                - generic [ref=f71e717]:
+                  - link "Dog Logo Vector With Continuous One Line Art Style Minimalist, Dog Drawing, Logo Drawing, Minimalist Drawing PNG and Vector with Transparent Background for Free Download 핀 페이지" [ref=f71e719] [cursor=pointer]:
+                    - /url: /pin/850617448359003654/
+                    - 'img "포함된 이미지: Dog Logo Vector With Continuous One Line Art Style Minimalist, Dog Drawing, Logo Drawing, Minimalist Drawing PNG and Vector with Transparent Background for Free Download" [ref=f71e729]'
+                  - generic [ref=f71e734]:
+                    - generic [ref=f71e735]:
+                      - heading [level=2] [ref=f71e740]:
+                        - link "Dog Logo Vector With Continuous One Line Art Style Minimalist, Dog Drawing, Logo Drawing, Minimalist Drawing PNG and Vector with Transparent Background for Free Download" [ref=f71e742] [cursor=pointer]:
+                          - /url: /pin/850617448359003654/
+                      - link "pngtree" [ref=f71e745] [cursor=pointer]:
+                        - /url: /pngtree/
+                        - generic "pngtree" [ref=f71e752]
+                    - generic "추가 작업" [ref=f71e755]:
+                      - button "추가 작업" [ref=f71e756] [cursor=pointer]
+            - listitem [ref=f71e761]:
+              - group "핀 카드" [ref=f71e766]:
+                - generic [ref=f71e768]:
+                  - link "♡ 핀 페이지" [ref=f71e770] [cursor=pointer]:
+                    - /url: /pin/323062973243515363/
+                    - img "포함된 이미지:" [ref=f71e780]
+                  - generic "추가 작업" [ref=f71e789]:
+                    - button "추가 작업" [ref=f71e790] [cursor=pointer]
+            - listitem [ref=f71e795]:
+              - group "핀 카드" [ref=f71e800]:
+                - generic [ref=f71e802]:
+                  - link "Art for Sale - Buy Prints or Originals Direct from the Artist 핀 페이지" [ref=f71e804] [cursor=pointer]:
+                    - /url: /pin/812688695236467198/
+                    - 'img "포함된 이미지: Art for Sale - Buy Prints or Originals Direct from the Artist" [ref=f71e814]'
+                  - generic [ref=f71e819]:
+                    - heading [level=2] [ref=f71e825]:
+                      - link "Art for Sale - Buy Prints or Originals Direct from the Artist" [ref=f71e827] [cursor=pointer]:
+                        - /url: /pin/812688695236467198/
+                    - generic "추가 작업" [ref=f71e830]:
+                      - button "추가 작업" [ref=f71e831] [cursor=pointer]
+    - generic:
+      - contentinfo "꼬리말"
+  - generic:
+    - generic:
+      - region "Toast notification"

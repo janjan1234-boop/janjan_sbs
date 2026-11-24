@@ -1,0 +1,231 @@
+- generic [ref=f81e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f81e13]:
+      - generic [ref=f81e15]:
+        - generic [ref=f81e16]:
+          - combobox "검색" [ref=f81e18]: scallop wave border pattern
+          - generic [ref=f81e19]:
+            - button "검색 입력 삭제" [ref=f81e23] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f81e30]:
+              - button "Pinterest 렌즈" [ref=f81e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f81e38] [cursor=pointer]:
+          - generic [ref=f81e40]:
+            - generic [ref=f81e41]: 모든 핀
+            - img "드롭다운" [ref=f81e43]
+      - link "내 프로필" [ref=f81e49] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f81e56]:
+          - generic [ref=f81e57]: 강
+      - button "계정" [ref=f81e61] [cursor=pointer]
+  - navigation [ref=f81e66]:
+    - generic [ref=f81e68]:
+      - generic [ref=f81e69]:
+        - generic "홈" [ref=f81e73]:
+          - link "홈" [ref=f81e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f81e81]:
+          - link "홈" [ref=f81e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f81e89]:
+          - link "내 보드" [ref=f81e90] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f81e97]:
+          - button "만들기" [ref=f81e98] [cursor=pointer]
+        - generic "메시지" [ref=f81e110]:
+          - button "메시지" [ref=f81e111] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f81e120]:
+        - button "설정 및 지원" [ref=f81e121] [cursor=pointer]
+  - main [ref=f81e126]:
+    - generic [ref=f81e129]:
+      - heading "검색 결과 페이지" [level=1] [ref=f81e131]
+      - region "필터 및 세분화 검색" [ref=f81e135]:
+        - button "필터 표시" [ref=f81e144] [cursor=pointer]
+      - generic [ref=f81e155]:
+        - generic [ref=f81e156]: scallop wave border pattern 검색 결과를 추가로 불러오는 중
+        - list [ref=f81e161]:
+          - listitem [ref=f81e162]:
+            - group "핀 카드" [ref=f81e167]:
+              - generic [ref=f81e169]:
+                - link "Wave Guest Towels in Paradise by Matouk | Fancy Powder Room Towels 핀 페이지" [ref=f81e171] [cursor=pointer]:
+                  - /url: /pin/4600004877952958848/
+                  - 'img "포함된 이미지: Wave Guest Towels in Paradise by Matouk | Fancy Powder Room Towels" [ref=f81e181]'
+                - generic [ref=f81e186]:
+                  - generic [ref=f81e187]:
+                    - heading [level=2] [ref=f81e192]:
+                      - link "Wave Guest Towels in Paradise by Matouk" [ref=f81e194] [cursor=pointer]:
+                        - /url: /pin/4600004877952958848/
+                    - link "Fig Linens and Home" [ref=f81e197] [cursor=pointer]:
+                      - /url: /figlinens/
+                      - generic "Fig Linens and Home" [ref=f81e204]
+                  - generic "추가 작업" [ref=f81e207]:
+                    - button "추가 작업" [ref=f81e208] [cursor=pointer]
+          - listitem [ref=f81e213]:
+            - group "핀 카드" [ref=f81e218]:
+              - generic [ref=f81e220]:
+                - link "제목 없음 핀 페이지" [ref=f81e222] [cursor=pointer]:
+                  - /url: /pin/379217231135548376/
+                  - img "포함된 이미지:" [ref=f81e232]
+                - generic "추가 작업" [ref=f81e241]:
+                  - button "추가 작업" [ref=f81e242] [cursor=pointer]
+          - listitem [ref=f81e247]:
+            - group "핀 카드" [ref=f81e252]:
+              - generic [ref=f81e254]:
+                - link "제목 없음 핀 페이지" [ref=f81e256] [cursor=pointer]:
+                  - /url: /pin/440156563599500972/
+                  - img "포함된 이미지:" [ref=f81e266]
+                - generic "추가 작업" [ref=f81e275]:
+                  - button "추가 작업" [ref=f81e276] [cursor=pointer]
+          - listitem [ref=f81e281]:
+            - group "핀 카드" [ref=f81e286]:
+              - generic [ref=f81e288]:
+                - link "Seamless Wave Pattern Set 핀 페이지" [ref=f81e290] [cursor=pointer]:
+                  - /url: /pin/707839266427706573/
+                  - 'img "포함된 이미지: Seamless Wave Pattern Set" [ref=f81e300]'
+                - generic [ref=f81e305]:
+                  - heading [level=2] [ref=f81e311]:
+                    - link "Seamless Wave Pattern Set" [ref=f81e313] [cursor=pointer]:
+                      - /url: /pin/707839266427706573/
+                  - generic "추가 작업" [ref=f81e316]:
+                    - button "추가 작업" [ref=f81e317] [cursor=pointer]
+          - listitem [ref=f81e322]:
+            - group "핀 카드" [ref=f81e327]:
+              - generic [ref=f81e329]:
+                - link "제목 없음 핀 페이지" [ref=f81e331] [cursor=pointer]:
+                  - /url: /pin/279363983127856572/
+                  - img "포함된 이미지:" [ref=f81e341]
+                - generic "추가 작업" [ref=f81e350]:
+                  - button "추가 작업" [ref=f81e351] [cursor=pointer]
+          - listitem [ref=f81e356]:
+            - group "핀 카드" [ref=f81e361]:
+              - generic [ref=f81e363]:
+                - link "Wave Guest Towels in Aquarius by Matouk | Fancy Powder Room Towels 핀 페이지" [ref=f81e365] [cursor=pointer]:
+                  - /url: /pin/4599301220250583424/
+                  - 'img "포함된 이미지: Wave Guest Towels in Aquarius by Matouk | Fancy Powder Room Towels" [ref=f81e375]'
+                - generic [ref=f81e380]:
+                  - generic [ref=f81e381]:
+                    - heading [level=2] [ref=f81e386]:
+                      - link "Wave Guest Towels in Aquarius by Matouk" [ref=f81e388] [cursor=pointer]:
+                        - /url: /pin/4599301220250583424/
+                    - link "Fig Linens and Home" [ref=f81e391] [cursor=pointer]:
+                      - /url: /figlinens/
+                      - generic "Fig Linens and Home" [ref=f81e398]
+                  - generic "추가 작업" [ref=f81e401]:
+                    - button "추가 작업" [ref=f81e402] [cursor=pointer]
+          - listitem [ref=f81e407]:
+            - group "핀 카드" [ref=f81e412]:
+              - generic [ref=f81e414]:
+                - link "Plastic Stencils 핀 페이지" [ref=f81e416] [cursor=pointer]:
+                  - /url: /pin/598345500504279142/
+                  - 'img "포함된 이미지: Plastic Stencils" [ref=f81e426]'
+                - generic [ref=f81e431]:
+                  - heading [level=2] [ref=f81e437]:
+                    - link "Plastic Stencils" [ref=f81e439] [cursor=pointer]:
+                      - /url: /pin/598345500504279142/
+                  - generic "추가 작업" [ref=f81e442]:
+                    - button "추가 작업" [ref=f81e443] [cursor=pointer]
+          - listitem [ref=f81e448]:
+            - group "핀 카드" [ref=f81e453]:
+              - generic [ref=f81e455]:
+                - link "제목 없음 핀 페이지" [ref=f81e457] [cursor=pointer]:
+                  - /url: /pin/230739180901659309/
+                  - img "포함된 이미지:" [ref=f81e467]
+                - generic "추가 작업" [ref=f81e476]:
+                  - button "추가 작업" [ref=f81e477] [cursor=pointer]
+          - listitem [ref=f81e482]:
+            - group "핀 카드" [ref=f81e487]:
+              - generic [ref=f81e489]:
+                - link "Template For Scalloped Border - 12 Free PDF Printables | Printablee 핀 페이지" [ref=f81e491] [cursor=pointer]:
+                  - /url: /pin/373095150403691074/
+                  - 'img "포함된 이미지: Template For Scalloped Border - 12 Free PDF Printables | Printablee" [ref=f81e501]'
+                - generic [ref=f81e506]:
+                  - heading [level=2] [ref=f81e512]:
+                    - link "Template For Scalloped Border - 12 Free PDF Printables | Printablee" [ref=f81e514] [cursor=pointer]:
+                      - /url: /pin/373095150403691074/
+                  - generic "추가 작업" [ref=f81e517]:
+                    - button "추가 작업" [ref=f81e518] [cursor=pointer]
+          - listitem [ref=f81e523]:
+            - group "핀 카드" [ref=f81e528]:
+              - generic [ref=f81e530]:
+                - 'link "Wavy Wave Frame SVG Border Shapes: Cricut, Silhouette (digital Download) - Etsy 핀 페이지" [ref=f81e532] [cursor=pointer]':
+                  - /url: /pin/645985140346235596/
+                  - 'img "포함된 이미지: Wavy Wave Frame SVG Border Shapes: Cricut, Silhouette (digital Download) - Etsy" [ref=f81e542]'
+                - generic [ref=f81e547]:
+                  - heading [level=2] [ref=f81e553]:
+                    - 'link "Wavy Wave Frame SVG Border Shapes: Cricut, Silhouette (digital Download) - Etsy" [ref=f81e555] [cursor=pointer]':
+                      - /url: /pin/645985140346235596/
+                  - generic "추가 작업" [ref=f81e558]:
+                    - button "추가 작업" [ref=f81e559] [cursor=pointer]
+          - listitem [ref=f81e564]:
+            - group "핀 카드" [ref=f81e569]:
+              - generic [ref=f81e571]:
+                - link "Scallop Template - 12 Free PDF Printables | Printablee 핀 페이지" [ref=f81e573] [cursor=pointer]:
+                  - /url: /pin/336292297188997210/
+                  - 'img "포함된 이미지: Scallop Template - 12 Free PDF Printables | Printablee" [ref=f81e583]'
+                - generic [ref=f81e588]:
+                  - heading [level=2] [ref=f81e594]:
+                    - link "Scallop Template - 12 Free PDF Printables | Printablee" [ref=f81e596] [cursor=pointer]:
+                      - /url: /pin/336292297188997210/
+                  - generic "추가 작업" [ref=f81e599]:
+                    - button "추가 작업" [ref=f81e600] [cursor=pointer]
+          - listitem [ref=f81e605]:
+            - group "핀 카드" [ref=f81e610]:
+              - generic [ref=f81e612]:
+                - link "Scallop Lace Border Embroidery Design 핀 페이지" [ref=f81e614] [cursor=pointer]:
+                  - /url: /pin/31243791157450046/
+                  - 'img "포함된 이미지: Scallop Lace Border Embroidery Design" [ref=f81e624]'
+                - generic [ref=f81e629]:
+                  - heading [level=2] [ref=f81e635]:
+                    - link "Scallop Lace Border Embroidery Design" [ref=f81e637] [cursor=pointer]:
+                      - /url: /pin/31243791157450046/
+                  - generic "추가 작업" [ref=f81e640]:
+                    - button "추가 작업" [ref=f81e641] [cursor=pointer]
+          - listitem [ref=f81e646]:
+            - group "핀 카드" [ref=f81e651]:
+              - generic [ref=f81e653]:
+                - link "제목 없음 핀 페이지" [ref=f81e655] [cursor=pointer]:
+                  - /url: /pin/1100074646485913063/
+                  - img "포함된 이미지:" [ref=f81e665]
+                - generic "추가 작업" [ref=f81e674]:
+                  - button "추가 작업" [ref=f81e675] [cursor=pointer]
+          - listitem [ref=f81e680]:
+            - group "핀 카드" [ref=f81e685]:
+              - generic [ref=f81e687]:
+                - link "제목 없음 핀 페이지" [ref=f81e689] [cursor=pointer]:
+                  - /url: /pin/503347695855739526/
+                  - img "포함된 이미지:" [ref=f81e699]
+                - generic "추가 작업" [ref=f81e708]:
+                  - button "추가 작업" [ref=f81e709] [cursor=pointer]
+          - listitem [ref=f81e714]:
+            - group "핀 카드" [ref=f81e719]:
+              - generic [ref=f81e721]:
+                - link "Elegant Double Curve Scalloped Embroidery Design Set 핀 페이지" [ref=f81e723] [cursor=pointer]:
+                  - /url: /pin/1012324822499790931/
+                  - 'img "포함된 내용: Embroidery design set featuring double curve scalloped borders in various sizes for fabric decoration." [ref=f81e733]'
+                - generic [ref=f81e738]:
+                  - heading [level=2] [ref=f81e744]:
+                    - link "Elegant Double Curve Scalloped Embroidery Design Set" [ref=f81e746] [cursor=pointer]:
+                      - /url: /pin/1012324822499790931/
+                  - generic "추가 작업" [ref=f81e749]:
+                    - button "추가 작업" [ref=f81e750] [cursor=pointer]
+          - listitem [ref=f81e755]:
+            - group "핀 카드" [ref=f81e760]:
+              - generic [ref=f81e762]:
+                - link "Punjabi Suit Design For Usha Janome 450e & 550e Embroidery design 핀 페이지" [ref=f81e764] [cursor=pointer]:
+                  - /url: /pin/1019432065669194771/
+                  - img "포함된 이미지:" [ref=f81e774]
+                - generic "추가 작업" [ref=f81e783]:
+                  - button "추가 작업" [ref=f81e784] [cursor=pointer]
+          - listitem [ref=f81e789]:
+            - group "핀 카드" [ref=f81e794]:
+              - generic [ref=f81e796]:
+                - link "mySewnet is now CREATIVATE 핀 페이지" [ref=f81e798] [cursor=pointer]:
+                  - /url: /pin/176695985355651431/
+                  - 'img "포함된 이미지: mySewnet is now CREATIVATE" [ref=f81e808]'
+                - generic [ref=f81e813]:
+                  - heading [level=2] [ref=f81e819]:
+                    - link "mySewnet is now CREATIVATE" [ref=f81e821] [cursor=pointer]:
+                      - /url: /pin/176695985355651431/
+                  - generic "추가 작업" [ref=f81e824]:
+                    - button "추가 작업" [ref=f81e825] [cursor=pointer]

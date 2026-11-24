@@ -1,0 +1,111 @@
+- generic [ref=f196e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f196e13]:
+      - generic [ref=f196e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=f196e18]
+        - generic "이미지 업로드" [ref=f196e22]:
+          - button "Pinterest 렌즈" [ref=f196e23] [cursor=pointer]
+      - link "내 프로필" [ref=f196e32] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f196e39]:
+          - generic [ref=f196e40]: 강
+      - button "계정" [ref=f196e44] [cursor=pointer]
+  - navigation [ref=f196e49]:
+    - generic [ref=f196e51]:
+      - generic [ref=f196e52]:
+        - generic "홈" [ref=f196e56]:
+          - link "홈" [ref=f196e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f196e64]:
+          - link "홈" [ref=f196e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f196e72]:
+          - link "내 보드" [ref=f196e73] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f196e80]:
+          - button "만들기" [ref=f196e81] [cursor=pointer]
+        - generic "업데이트" [ref=f196e90]:
+          - 'button "업데이트: 1개 알림" [ref=f196e91] [cursor=pointer]'
+        - generic "메시지" [ref=f196e100]:
+          - button "메시지" [ref=f196e101] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f196e110]:
+        - button "설정 및 지원" [ref=f196e111] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - main [ref=f196e116]:
+    - generic [ref=f196e126]:
+      - button "뒤로" [ref=f196e128] [cursor=pointer]
+      - generic [ref=f196e137]:
+        - generic [ref=f196e138]: 관련 상품 결과를 불러오는 중
+        - list [ref=f196e143]:
+          - listitem [ref=f196e144]:
+            - group "Closeup content container" [ref=f196e151]:
+              - generic [ref=f196e156]:
+                - region "핀 이미지 및 탐색할 항목" [ref=f196e159]:
+                  - region "핀 이미지" [ref=f196e164]:
+                    - generic [ref=f196e170]:
+                      - button "더 크게 보기" [ref=f196e173] [cursor=pointer]:
+                        - generic [ref=f196e175]:
+                          - generic: 더 크게 보기
+                          - img "더 크게 보기" [ref=f196e177]
+                      - button "이미지 검색" [ref=f196e182] [cursor=pointer]:
+                        - generic [ref=f196e184]:
+                          - generic: 이미지 검색
+                          - img "이미지 검색" [ref=f196e186]
+                - generic [ref=f196e188]:
+                  - generic [ref=f196e191]:
+                    - list [ref=f196e192]:
+                      - generic [ref=f196e193]:
+                        - listitem [ref=f196e195]:
+                          - generic "반응" [ref=f196e198]:
+                            - button "반응" [ref=f196e199] [cursor=pointer]
+                          - generic [ref=f196e204]: "161"
+                        - listitem [ref=f196e206]:
+                          - generic "댓글" [ref=f196e209]:
+                            - button "댓글" [ref=f196e210] [cursor=pointer]
+                        - listitem [ref=f196e216]:
+                          - generic "공유" [ref=f196e220]:
+                            - button "이 핀 공유" [ref=f196e222] [cursor=pointer]
+                        - listitem [ref=f196e228]:
+                          - generic "추가 작업" [ref=f196e233]:
+                            - button "추가 작업" [ref=f196e235] [cursor=pointer]
+                    - generic [ref=f196e245]:
+                      - 'button "저장할 보드 선택: 프로필" [ref=f196e248] [cursor=pointer]':
+                        - generic "프로필" [ref=f196e251]
+                      - button "저장" [ref=f196e257] [cursor=pointer]
+                  - generic [ref=f196e270]:
+                    - generic [ref=f196e272]:
+                      - heading "설명" [level=4] [ref=f196e273]
+                      - generic [ref=f196e274]: Mungo & Maud Dog Bones & Dog Paws Illustration
+                    - button [ref=f196e288] [cursor=pointer]:
+                      - heading "댓글 2개" [level=2] [ref=f196e298]
+                      - generic [ref=f196e320]:
+                        - text: r
+                        - generic [ref=f196e321]: This is so adorable
+                  - generic [ref=f196e331]:
+                    - generic [ref=f196e333]:
+                      - button [ref=f196e335]
+                      - generic [ref=f196e339]:
+                        - generic: 댓글 추가
+                        - combobox "댓글 추가" [ref=f196e341]
+                    - generic [ref=f196e350]:
+                      - button "이모티콘 선택" [ref=f196e351] [cursor=pointer]
+                      - button "스티커 선택" [ref=f196e356] [cursor=pointer]
+                      - button "사진을 선택합니다." [ref=f196e362] [cursor=pointer]
+          - listitem [ref=f196e367]
+          - listitem [ref=f196e371]
+          - listitem [ref=f196e375]
+          - listitem [ref=f196e379]
+          - listitem [ref=f196e383]
+          - listitem [ref=f196e387]
+          - listitem [ref=f196e391]
+          - listitem [ref=f196e395]
+          - listitem [ref=f196e399]
+          - listitem [ref=f196e403]
+          - listitem [ref=f196e407]
+  - generic:
+    - contentinfo "꼬리말"

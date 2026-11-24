@@ -1,0 +1,4 @@
+[     227ms] [WARNING] Unrecognized feature: 'attribution-reporting'. @ https://s.pinimg.com/webapp/33818.ko_KR-48e88251298fa78f.mjs:308
+[     274ms] [WARNING] Unrecognized feature: 'attribution-reporting'. @ https://s.pinimg.com/webapp/33818.ko_KR-48e88251298fa78f.mjs:308
+[     292ms] [WARNING] Unrecognized feature: 'attribution-reporting'. @ https://s.pinimg.com/webapp/33818.ko_KR-48e88251298fa78f.mjs:308
+[     534ms] [ERROR] Failed to load resource: net::ERR_QUIC_PROTOCOL_ERROR @ https://kr.pinterest.com/pin/318489004869136145/:1

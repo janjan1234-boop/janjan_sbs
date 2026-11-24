@@ -1,0 +1,256 @@
+- generic [ref=f16e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f16e13]:
+      - generic [ref=f16e15]:
+        - generic [ref=f16e16]:
+          - combobox "검색" [ref=f16e18]: dog silhouette illustration ornament pattern
+          - generic [ref=f16e19]:
+            - button "검색 입력 삭제" [ref=f16e23] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f16e30]:
+              - button "Pinterest 렌즈" [ref=f16e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f16e38] [cursor=pointer]:
+          - generic [ref=f16e40]:
+            - generic [ref=f16e41]: 모든 핀
+            - img "드롭다운" [ref=f16e43]
+      - link "내 프로필" [ref=f16e49] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f16e56]:
+          - generic [ref=f16e57]: 강
+      - button "계정" [ref=f16e61] [cursor=pointer]
+  - navigation [ref=f16e66]:
+    - generic [ref=f16e68]:
+      - generic [ref=f16e69]:
+        - generic "홈" [ref=f16e73]:
+          - link "홈" [ref=f16e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f16e81]:
+          - link "홈" [ref=f16e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f16e89]:
+          - link "내 보드" [ref=f16e90] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f16e97]:
+          - button "만들기" [ref=f16e98] [cursor=pointer]
+        - generic "업데이트" [ref=f16e107]:
+          - 'button "업데이트: 1개 알림" [ref=f16e108] [cursor=pointer]'
+        - generic "메시지" [ref=f16e117]:
+          - button "메시지" [ref=f16e118] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f16e127]:
+        - button "설정 및 지원" [ref=f16e128] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - main [ref=f16e133]:
+    - generic [ref=f16e136]:
+      - heading "검색 결과 페이지" [level=1] [ref=f16e138]
+      - region "필터 및 세분화 검색" [ref=f16e142]:
+        - generic [ref=f16e145]:
+          - button "필터 표시" [ref=f16e151] [cursor=pointer]
+          - button "Fur" [ref=f16e162] [cursor=pointer]
+          - button "Hot" [ref=f16e173] [cursor=pointer]
+          - button "Bone" [ref=f16e184] [cursor=pointer]
+          - button "Design" [ref=f16e195] [cursor=pointer]
+          - button "Cat" [ref=f16e206] [cursor=pointer]
+          - button "Cat and" [ref=f16e217] [cursor=pointer]
+      - generic [ref=f16e228]:
+        - generic [ref=f16e229]: dog silhouette illustration ornament pattern 검색 결과를 추가로 불러오는 중
+        - list [ref=f16e234]:
+          - listitem [ref=f16e235]:
+            - group "핀 카드" [ref=f16e240]:
+              - generic [ref=f16e242]:
+                - link "제목 없음 핀 페이지" [ref=f16e244] [cursor=pointer]:
+                  - /url: /pin/741968107367343071/
+                  - img "포함된 이미지:" [ref=f16e254]
+                - generic "추가 작업" [ref=f16e263]:
+                  - button "추가 작업" [ref=f16e264] [cursor=pointer]
+          - listitem [ref=f16e269]:
+            - group "핀 카드" [ref=f16e274]:
+              - generic [ref=f16e276]:
+                - link "temu.com" [ref=f16e280] [cursor=pointer]:
+                  - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605575488363148&adg_ctx=a-7818c177~c-01f36c5f&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=605575488363148&_x_ns_product_id=90045398693544&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                  - 'img "포함된 이미지: Temu | 동물 테마 강아지 점토 커터" [ref=f16e291]'
+                - generic [ref=f16e295]:
+                  - generic [ref=f16e296]:
+                    - heading [level=2] [ref=f16e301]:
+                      - link "Temu | 동물 테마 강아지 점토 커터 6개, 폴리머 클레이 주얼리 제작용 몰드, 봄 점토 몰드, 발렌타인데이 폴리머 클레이 커터, LOVE 테마 선물, 창의적인 사랑 펜던트 모양 커터, 봄 테마, 발렌타인데이 공예 용품, DIY 공예 및 주얼리 제작, 귀걸이 및 열쇠고리용 도구" [ref=f16e305] [cursor=pointer]:
+                        - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605575488363148&adg_ctx=a-7818c177~c-01f36c5f&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=605575488363148&_x_ns_product_id=90045398693544&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                    - link "Temu_Korea 후원 핀" [ref=f16e309] [cursor=pointer]:
+                      - /url: /ads_fb40/
+                      - generic [ref=f16e311]:
+                        - generic [ref=f16e312]: Temu_Korea
+                        - generic [ref=f16e313]: 후원 핀
+                  - generic "추가 작업" [ref=f16e321]:
+                    - button "추가 작업" [ref=f16e322] [cursor=pointer]
+          - listitem [ref=f16e327]:
+            - group "핀 카드" [ref=f16e332]:
+              - generic [ref=f16e334]:
+                - link "제목 없음 핀 페이지" [ref=f16e336] [cursor=pointer]:
+                  - /url: /pin/579205202111360866/
+                  - img "포함된 이미지:" [ref=f16e346]
+                - generic "추가 작업" [ref=f16e355]:
+                  - button "추가 작업" [ref=f16e356] [cursor=pointer]
+          - listitem [ref=f16e361]:
+            - group "핀 카드" [ref=f16e366]:
+              - generic [ref=f16e368]:
+                - link "Gold dogs with bows pattern 핀 페이지" [ref=f16e370] [cursor=pointer]:
+                  - /url: /pin/295971006782043161/
+                  - 'img "포함된 이미지: Gold dogs with bows pattern" [ref=f16e380]'
+                - generic [ref=f16e385]:
+                  - generic [ref=f16e386]:
+                    - heading [level=2] [ref=f16e391]:
+                      - link "Gold dogs with bows pattern" [ref=f16e393] [cursor=pointer]:
+                        - /url: /pin/295971006782043161/
+                    - link "Krissy Mast Art + Illustration" [ref=f16e396] [cursor=pointer]:
+                      - /url: /KrissyMastArt/
+                      - generic "Krissy Mast Art + Illustration" [ref=f16e403]
+                  - generic "추가 작업" [ref=f16e406]:
+                    - button "추가 작업" [ref=f16e407] [cursor=pointer]
+          - listitem [ref=f16e412]:
+            - group "핀 카드" [ref=f16e417]:
+              - generic [ref=f16e419]:
+                - link "제목 없음 핀 페이지" [ref=f16e421] [cursor=pointer]:
+                  - /url: /pin/394698354866478794/
+                  - img "포함된 이미지:" [ref=f16e431]
+                - generic "추가 작업" [ref=f16e440]:
+                  - button "추가 작업" [ref=f16e441] [cursor=pointer]
+          - listitem [ref=f16e446]:
+            - group "핀 카드" [ref=f16e451]:
+              - generic [ref=f16e453]:
+                - link "temu.com" [ref=f16e457] [cursor=pointer]:
+                  - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605851322535240&adg_ctx=a-d00eb021~c-62389b1a&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260610175644&_x_ads_id=2680092610080&_x_ads_set=626760066417&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260610175644&_x_ns_gid=605851322535240&_x_ns_product_id=96378663519638&_x_ns_prz_type=101&locale_override=185~~KRW&_x_bg_adid=us1557425932&_x_ads_account=549767591651&_x_ns_placement=s&utm_campaign=626760066417&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092610080&pp=0
+                  - 'img "포함된 이미지: Temu | 2개 INS 스타일 만화 동물" [ref=f16e468]'
+                - generic [ref=f16e472]:
+                  - generic [ref=f16e473]:
+                    - heading [level=2] [ref=f16e478]:
+                      - link "Temu | 2개 INS 스타일 만화 동물 패턴 소프트 도자기 커팅 다이 세트 - 겨울 풍경 및 새해 선물 테마 주얼리 제작 도구 키트. 옷 모양의 커팅 다이가 포함되어 있으며, 도시 모임 및 휴가에 적합합니다. (슈나우저, 다치슈나우더 포함)" [ref=f16e482] [cursor=pointer]:
+                        - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605851322535240&adg_ctx=a-d00eb021~c-62389b1a&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260610175644&_x_ads_id=2680092610080&_x_ads_set=626760066417&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260610175644&_x_ns_gid=605851322535240&_x_ns_product_id=96378663519638&_x_ns_prz_type=101&locale_override=185~~KRW&_x_bg_adid=us1557425932&_x_ads_account=549767591651&_x_ns_placement=s&utm_campaign=626760066417&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092610080&pp=0
+                    - link "Temu_Korea 후원 핀" [ref=f16e486] [cursor=pointer]:
+                      - /url: /ads_fb40/
+                      - generic [ref=f16e488]:
+                        - generic [ref=f16e489]: Temu_Korea
+                        - generic [ref=f16e490]: 후원 핀
+                  - generic "추가 작업" [ref=f16e498]:
+                    - button "추가 작업" [ref=f16e499] [cursor=pointer]
+          - listitem [ref=f16e504]:
+            - group "핀 카드" [ref=f16e509]:
+              - generic [ref=f16e511]:
+                - link "Dog and Moon 핀 페이지" [ref=f16e513] [cursor=pointer]:
+                  - /url: /pin/482166703873982824/
+                  - 'img "포함된 내용: art, artwork, design, graphic design, drawing, painting" [ref=f16e523]'
+                - generic [ref=f16e528]:
+                  - heading [level=2] [ref=f16e534]:
+                    - link "Dog and Moon" [ref=f16e536] [cursor=pointer]:
+                      - /url: /pin/482166703873982824/
+                  - generic "추가 작업" [ref=f16e539]:
+                    - button "추가 작업" [ref=f16e540] [cursor=pointer]
+          - listitem [ref=f16e545]:
+            - group "핀 카드" [ref=f16e550]:
+              - generic [ref=f16e552]:
+                - link "제목 없음 핀 페이지" [ref=f16e554] [cursor=pointer]:
+                  - /url: /pin/565412928236755271/
+                  - img "포함된 이미지:" [ref=f16e564]
+                - generic "추가 작업" [ref=f16e573]:
+                  - button "추가 작업" [ref=f16e574] [cursor=pointer]
+          - listitem [ref=f16e579]:
+            - group "핀 카드" [ref=f16e584]:
+              - generic [ref=f16e586]:
+                - link "Стоковое векторное изображение «dog with retro colored blue vector illustration» | Adobe Stock 핀 페이지" [ref=f16e588] [cursor=pointer]:
+                  - /url: /pin/697424692334705757/
+                  - 'img "포함된 이미지: Стоковое векторное изображение «dog with retro colored blue vector illustration» | Adobe Stock" [ref=f16e598]'
+                - generic [ref=f16e603]:
+                  - heading [level=2] [ref=f16e609]:
+                    - link "Стоковое векторное изображение «dog with retro colored blue vector illustration» | Adobe Stock" [ref=f16e611] [cursor=pointer]:
+                      - /url: /pin/697424692334705757/
+                  - generic "추가 작업" [ref=f16e614]:
+                    - button "추가 작업" [ref=f16e615] [cursor=pointer]
+          - listitem [ref=f16e620]:
+            - group "핀 카드" [ref=f16e625]:
+              - generic [ref=f16e627]:
+                - link "제목 없음 핀 페이지" [ref=f16e629] [cursor=pointer]:
+                  - /url: /pin/532058143467661333/
+                  - img "포함된 이미지:" [ref=f16e639]
+                - generic "추가 작업" [ref=f16e648]:
+                  - button "추가 작업" [ref=f16e649] [cursor=pointer]
+          - listitem [ref=f16e654]:
+            - group "핀 카드" [ref=f16e659]:
+              - generic [ref=f16e661]:
+                - link "Giovani Flores - Graphic Designer / Illustrator in São Paulo, Brazil 핀 페이지" [ref=f16e663] [cursor=pointer]:
+                  - /url: /pin/212372938670185713/
+                  - 'img "포함된 이미지: Giovani Flores - Graphic Designer / Illustrator in São Paulo, Brazil" [ref=f16e673]'
+                - generic [ref=f16e678]:
+                  - generic [ref=f16e679]:
+                    - heading [level=2] [ref=f16e684]:
+                      - link "Giovani Flores - Graphic Designer / Illustrator in São Paulo, Brazil" [ref=f16e686] [cursor=pointer]:
+                        - /url: /pin/212372938670185713/
+                    - link "Behance" [ref=f16e689] [cursor=pointer]:
+                      - /url: /behance/
+                      - generic "Behance" [ref=f16e696]
+                  - generic "추가 작업" [ref=f16e699]:
+                    - button "추가 작업" [ref=f16e700] [cursor=pointer]
+          - listitem [ref=f16e705]:
+            - group "핀 카드" [ref=f16e710]:
+              - generic [ref=f16e712]:
+                - link "Instagram 핀 페이지" [ref=f16e714] [cursor=pointer]:
+                  - /url: /pin/325736985570230820/
+                  - img "포함된 이미지:" [ref=f16e724]
+                - generic "추가 작업" [ref=f16e733]:
+                  - button "추가 작업" [ref=f16e734] [cursor=pointer]
+          - listitem [ref=f16e739]:
+            - group "핀 카드" [ref=f16e744]:
+              - generic [ref=f16e746]:
+                - link "Grayhound en diferentes poses siluetas de perros sobre fondo rosa de patrones sin fisuras estilo francés | Vector Premium 핀 페이지" [ref=f16e748] [cursor=pointer]:
+                  - /url: /pin/504966176978924902/
+                  - 'img "포함된 이미지: Grayhound en diferentes poses siluetas de perros sobre fondo rosa de patrones sin fisuras estilo francés | Vector Premium" [ref=f16e758]'
+                - generic [ref=f16e763]:
+                  - heading [level=2] [ref=f16e769]:
+                    - link "Grayhound en diferentes poses siluetas de perros sobre fondo rosa de patrones sin fisuras estilo francés | Vector Premium" [ref=f16e771] [cursor=pointer]:
+                      - /url: /pin/504966176978924902/
+                  - generic "추가 작업" [ref=f16e774]:
+                    - button "추가 작업" [ref=f16e775] [cursor=pointer]
+          - listitem [ref=f16e780]:
+            - group "핀 카드" [ref=f16e785]:
+              - generic [ref=f16e787]:
+                - link "Jenny Koland | Surface Pattern Design & Illustration (@jennykoland) • Instagram photos and videos 핀 페이지" [ref=f16e789] [cursor=pointer]:
+                  - /url: /pin/625930048244234222/
+                  - img "포함된 이미지:" [ref=f16e799]
+                - generic "추가 작업" [ref=f16e808]:
+                  - button "추가 작업" [ref=f16e809] [cursor=pointer]
+          - listitem [ref=f16e814]:
+            - group "핀 카드" [ref=f16e819]:
+              - generic [ref=f16e821]:
+                - link "제목 없음 핀 페이지" [ref=f16e823] [cursor=pointer]:
+                  - /url: /pin/919860292653505990/
+                  - img "포함된 이미지:" [ref=f16e833]
+                - generic "추가 작업" [ref=f16e842]:
+                  - button "추가 작업" [ref=f16e843] [cursor=pointer]
+          - listitem [ref=f16e848]:
+            - group "핀 카드" [ref=f16e853]:
+              - generic [ref=f16e855]:
+                - link "제목 없음 핀 페이지" [ref=f16e857] [cursor=pointer]:
+                  - /url: /pin/565764771951540680/
+                  - img "포함된 이미지:" [ref=f16e867]
+                - generic "추가 작업" [ref=f16e876]:
+                  - button "추가 작업" [ref=f16e877] [cursor=pointer]
+          - listitem [ref=f16e882]:
+            - group "핀 카드" [ref=f16e887]:
+              - generic [ref=f16e889]:
+                - link "Greyhound 핀 페이지" [ref=f16e891] [cursor=pointer]:
+                  - /url: /pin/508062401711981023/
+                  - 'img "포함된 이미지: Greyhound" [ref=f16e901]'
+                - generic [ref=f16e906]:
+                  - heading [level=2] [ref=f16e912]:
+                    - link "Greyhound" [ref=f16e914] [cursor=pointer]:
+                      - /url: /pin/508062401711981023/
+                  - generic "추가 작업" [ref=f16e917]:
+                    - button "추가 작업" [ref=f16e918] [cursor=pointer]
+          - listitem [ref=f16e923]:
+            - group "핀 카드" [ref=f16e928]:
+              - generic [ref=f16e930]:
+                - 'link "Day 18 of #doodleadayfeb is #symmetry which colour and design is your favourite? 💙🤎 #doodleaday #staffordshiredogs #staffordshiredogfigurines #symmetrical #procreate #illustration #selftaughtartist #learningtoillustrate #drawingoftheday #drawingchallenge #drawingprompts #february #dogillustration #dogsofinstagram 핀 페이지" [ref=f16e932] [cursor=pointer]':
+                  - /url: /pin/105693922498708061/
+                  - img "포함된 이미지:" [ref=f16e942]
+                - generic "추가 작업" [ref=f16e951]:
+                  - button "추가 작업" [ref=f16e952] [cursor=pointer]
+  - generic:
+    - contentinfo "꼬리말"

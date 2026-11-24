@@ -1,0 +1,115 @@
+- generic [ref=f164e4]:
+  - navigation [ref=f164e5]:
+    - generic [ref=f164e6]:
+      - generic [ref=f164e7]:
+        - link "Unsplash 홈" [ref=f164e8] [cursor=pointer]:
+          - /url: /ko
+          - img "Unsplash 홈" [ref=f164e9]
+        - link "사진" [ref=f164e11] [cursor=pointer]:
+          - /url: /ko
+        - link "일러스트" [ref=f164e14] [cursor=pointer]:
+          - /url: /ko/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8
+      - generic [ref=f164e17]:
+        - button "탐색" [ref=f164e18] [cursor=pointer]
+        - button "컬렉션" [ref=f164e21] [cursor=pointer]
+        - button "다운로드 내역" [ref=f164e24] [cursor=pointer]
+      - button "북마크" [ref=f164e28] [cursor=pointer]
+    - generic [ref=f164e31]:
+      - link "로그인 / 가입" [ref=f164e32] [cursor=pointer]:
+        - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2588%2588-%25EC%2586%258D%25EC%2597%2590-%25EB%25B0%259C%25EC%259E%2590%25EA%25B5%25AD%25EC%259D%25B4-%25EC%25B0%258D%25ED%259E%258C-%25EA%25B0%2595%25EC%2595%2584%25EC%25A7%2580-RDSK7DzIDUk
+      - button "언어" [ref=f164e35] [cursor=pointer]
+      - button "메뉴" [ref=f164e38] [cursor=pointer]
+  - generic [ref=f164e41]:
+    - generic [ref=f164e42]:
+      - navigation [ref=f164e43]:
+        - search "사이트 전체에서 이미지 찾기" [ref=f164e45]:
+          - button "Unsplash 검색" [ref=f164e46] [cursor=pointer]
+          - combobox [ref=f164e49]:
+            - searchbox "Unsplash 검색" [ref=f164e50]
+            - listbox
+          - button "시각적 검색" [ref=f164e52] [cursor=pointer]
+        - generic [ref=f164e55]:
+          - link "Unsplash+ 구독" [ref=f164e56] [cursor=pointer]:
+            - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4
+          - link "로그인" [ref=f164e57] [cursor=pointer]:
+            - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2588%2588-%25EC%2586%258D%25EC%2597%2590-%25EB%25B0%259C%25EC%259E%2590%25EA%25B5%25AD%25EC%259D%25B4-%25EC%25B0%258D%25ED%259E%258C-%25EA%25B0%2595%25EC%2595%2584%25EC%25A7%2580-RDSK7DzIDUk
+        - button "이미지 제출" [ref=f164e59] [cursor=pointer]
+      - generic [ref=f164e60]:
+        - generic [ref=f164e61]:
+          - banner [ref=f164e63]:
+            - generic [ref=f164e65]:
+              - link [ref=f164e66] [cursor=pointer]:
+                - /url: /ko/@kanatysh
+              - generic [ref=f164e69]:
+                - link "Duman Shaker" [ref=f164e70] [cursor=pointer]:
+                  - /url: /ko/@kanatysh
+                - link "고용 가능" [ref=f164e72] [cursor=pointer]:
+                  - /url: /ko/@kanatysh
+            - generic [ref=f164e75]:
+              - button "북마크" [ref=f164e76] [cursor=pointer]
+              - button "컬렉션에 추가" [ref=f164e79] [cursor=pointer]
+              - link "이미지 편집" [ref=f164e82] [cursor=pointer]:
+                - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%2588%2588-%25EC%2586%258D%25EC%2597%2590-%25EB%25B0%259C%25EC%259E%2590%25EA%25B5%25AD%25EC%259D%25B4-%25EC%25B0%258D%25ED%259E%258C-%25EA%25B0%2595%25EC%2595%2584%25EC%25A7%2580-RDSK7DzIDUk
+              - generic [ref=f164e86]:
+                - link "무료 다운로드" [ref=f164e87] [cursor=pointer]:
+                  - /url: https://unsplash.com/photos/RDSK7DzIDUk/download?force=true
+                - button "다운로드 크기 선택" [ref=f164e89] [cursor=pointer]
+          - button "이 이미지 확대" [disabled] [ref=f164e95]:
+            - img "눈 속에 발자국이 찍힌 강아지" [ref=f164e96]
+          - generic [ref=f164e97]:
+            - generic [ref=f164e98]:
+              - generic [ref=f164e99]:
+                - generic [ref=f164e100]:
+                  - generic [ref=f164e101]: ––– –– ––
+                  - text: ––– –––– ––––
+                - generic [ref=f164e102]:
+                  - generic [ref=f164e103]: ––– –– ––
+                  - text: ––– –––– ––––
+              - generic [ref=f164e104]:
+                - button "이 이미지 공유" [ref=f164e105] [cursor=pointer]:
+                  - generic [ref=f164e108]: 공유
+                - button "이 이미지 관련 통계" [ref=f164e109] [cursor=pointer]:
+                  - generic [ref=f164e112]: 정보
+                - button "더 많은 작업" [ref=f164e113] [cursor=pointer]
+            - generic [ref=f164e117]:
+              - heading "눈 속에 발자국이 찍힌 강아지" [level=1] [ref=f164e119]
+              - paragraph [ref=f164e123]: Duman Shaker(@kanatysh)의 이 무료 바닷가, 텍스처, 겨울 및 무늬 HD 사진 다운로드
+              - generic [ref=f164e125]:
+                - generic [ref=f164e130]:
+                  - time [ref=f164e131]: 2024년 1월 12일(UTC)
+                  - text: 에 게시됨
+                - button "NIKON CORPORATION, NIKON D3100" [ref=f164e136] [cursor=pointer]
+                - generic [ref=f164e140]:
+                  - link "Unsplash 라이선스" [ref=f164e141] [cursor=pointer]:
+                    - /url: /ko/%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4
+                  - text: 하에서 무료로 사용 가능
+            - generic [ref=f164e143]:
+              - link "바닷가" [ref=f164e144] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B0%94%EB%8B%B7%EA%B0%80
+              - link "텍스처" [ref=f164e145] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%85%8D%EC%8A%A4%EC%B2%98
+              - link "겨울" [ref=f164e146] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B2%A8%EC%9A%B8
+              - link "무늬" [ref=f164e147] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%AC%B4%EB%8A%AC
+              - link "눈" [ref=f164e148] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%88%88
+              - link "하얀" [ref=f164e149] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%95%98%EC%96%80
+              - link "회색" [ref=f164e150] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%9A%8C%EC%83%89
+              - link "모래" [ref=f164e151] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%AA%A8%EB%9E%98
+              - link "바위" [ref=f164e152] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B0%94%EC%9C%84
+              - link "카자흐스탄" [ref=f164e153] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%B9%B4%EC%9E%90%ED%9D%90%EC%8A%A4%ED%83%84
+              - link "발자국" [ref=f164e154] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B0%9C%EC%9E%90%EA%B5%AD
+              - link "토양" [ref=f164e155] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%86%A0%EC%96%91
+              - link "바깥" [ref=f164e156] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B0%94%EA%B9%A5
+        - paragraph [ref=f164e162]: iStock에서 프리미엄 관련 이미지 찾아보기 | 코드 UNSPLASH20로 20% 할인 혜택 받기
+    - generic:
+      - region "Notifications"

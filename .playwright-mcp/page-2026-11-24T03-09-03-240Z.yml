@@ -1,0 +1,237 @@
+- generic [ref=f184e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f184e13]:
+      - generic [ref=f184e15]:
+        - generic [ref=f184e16]:
+          - combobox "검색" [ref=f184e18]: scallop border pattern graphic
+          - generic [ref=f184e19]:
+            - button "검색 입력 삭제" [ref=f184e23] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f184e30]:
+              - button "Pinterest 렌즈" [ref=f184e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f184e38] [cursor=pointer]:
+          - generic [ref=f184e40]:
+            - generic [ref=f184e41]: 모든 핀
+            - img "드롭다운" [ref=f184e43]
+      - link "내 프로필" [ref=f184e49] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f184e56]:
+          - generic [ref=f184e57]: 강
+      - button "계정" [ref=f184e61] [cursor=pointer]
+  - navigation [ref=f184e66]:
+    - generic [ref=f184e68]:
+      - generic [ref=f184e69]:
+        - generic "홈" [ref=f184e73]:
+          - link "홈" [ref=f184e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f184e81]:
+          - link "홈" [ref=f184e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f184e89]:
+          - link "내 보드" [ref=f184e90] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f184e97]:
+          - button "만들기" [ref=f184e98] [cursor=pointer]
+        - generic "업데이트" [ref=f184e107]:
+          - 'button "업데이트: 1개 알림" [ref=f184e108] [cursor=pointer]'
+        - generic "메시지" [ref=f184e117]:
+          - button "메시지" [ref=f184e118] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f184e127]:
+        - button "설정 및 지원" [ref=f184e128] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - main [ref=f184e133]:
+    - generic [ref=f184e136]:
+      - heading "검색 결과 페이지" [level=1] [ref=f184e138]
+      - region "필터 및 세분화 검색" [ref=f184e142]:
+        - button "필터 표시" [ref=f184e151] [cursor=pointer]
+      - generic [ref=f184e162]:
+        - generic [ref=f184e163]: scallop border pattern graphic 검색 결과를 추가로 표시
+        - list [ref=f184e168]:
+          - listitem [ref=f184e169]:
+            - group "핀 카드" [ref=f184e174]:
+              - generic [ref=f184e176]:
+                - link "제목 없음 핀 페이지" [ref=f184e178] [cursor=pointer]:
+                  - /url: /pin/379217231135548376/
+                  - img "포함된 이미지:" [ref=f184e188]
+                - generic "추가 작업" [ref=f184e197]:
+                  - button "추가 작업" [ref=f184e198] [cursor=pointer]
+          - listitem [ref=f184e203]:
+            - group "핀 카드" [ref=f184e208]:
+              - generic [ref=f184e210]:
+                - link "Scalloped 핀 페이지" [ref=f184e212] [cursor=pointer]:
+                  - /url: /pin/413064597046852022/
+                  - img "포함된 이미지:" [ref=f184e222]
+                - generic "추가 작업" [ref=f184e231]:
+                  - button "추가 작업" [ref=f184e232] [cursor=pointer]
+          - listitem [ref=f184e237]:
+            - group "핀 카드" [ref=f184e242]:
+              - generic [ref=f184e244]:
+                - link "Classic blue scallop pattern wallpaper inspired by timeless European and coastal interiors 핀 페이지" [ref=f184e246] [cursor=pointer]:
+                  - /url: /pin/1088886016562159076/
+                  - 'img "포함된 이미지: Classic blue scallop pattern wallpaper inspired by timeless European and coastal interiors" [ref=f184e256]'
+                - generic [ref=f184e261]:
+                  - heading [level=2] [ref=f184e267]:
+                    - link "Classic blue scallop pattern wallpaper inspired by timeless European and coastal interiors" [ref=f184e269] [cursor=pointer]:
+                      - /url: /pin/1088886016562159076/
+                  - generic "추가 작업" [ref=f184e272]:
+                    - button "추가 작업" [ref=f184e273] [cursor=pointer]
+          - listitem [ref=f184e278]:
+            - group "핀 카드" [ref=f184e283]:
+              - generic [ref=f184e285]:
+                - link "제목 없음 핀 페이지" [ref=f184e287] [cursor=pointer]:
+                  - /url: /pin/135319163800607589/
+                  - img "포함된 이미지:" [ref=f184e297]
+                - generic "추가 작업" [ref=f184e306]:
+                  - button "추가 작업" [ref=f184e307] [cursor=pointer]
+          - listitem [ref=f184e312]:
+            - group "핀 카드" [ref=f184e317]:
+              - generic [ref=f184e319]:
+                - link "제목 없음 핀 페이지" [ref=f184e321] [cursor=pointer]:
+                  - /url: /pin/629448485464216615/
+                  - img "포함된 이미지:" [ref=f184e331]
+                - generic "추가 작업" [ref=f184e340]:
+                  - button "추가 작업" [ref=f184e341] [cursor=pointer]
+          - listitem [ref=f184e346]:
+            - group "핀 카드" [ref=f184e351]:
+              - generic [ref=f184e353]:
+                - link "제목 없음 핀 페이지" [ref=f184e355] [cursor=pointer]:
+                  - /url: /pin/71283606598890486/
+                  - img "포함된 이미지:" [ref=f184e365]
+                - generic "추가 작업" [ref=f184e374]:
+                  - button "추가 작업" [ref=f184e375] [cursor=pointer]
+          - listitem [ref=f184e380]:
+            - group "핀 카드" [ref=f184e385]:
+              - generic [ref=f184e387]:
+                - link "KROKI Scalloped Edge 핀 페이지" [ref=f184e389] [cursor=pointer]:
+                  - /url: /pin/1024920827696324204/
+                  - 'img "포함된 이미지: KROKI Scalloped Edge" [ref=f184e399]'
+                - generic [ref=f184e404]:
+                  - heading [level=2] [ref=f184e410]:
+                    - link "KROKI Scalloped Edge" [ref=f184e412] [cursor=pointer]:
+                      - /url: /pin/1024920827696324204/
+                  - generic "추가 작업" [ref=f184e415]:
+                    - button "추가 작업" [ref=f184e416] [cursor=pointer]
+          - listitem [ref=f184e421]:
+            - group "핀 카드" [ref=f184e426]:
+              - generic [ref=f184e428]:
+                - link "제목 없음 핀 페이지" [ref=f184e430] [cursor=pointer]:
+                  - /url: /pin/497014508898507915/
+                  - img "포함된 이미지:" [ref=f184e440]
+                - generic "추가 작업" [ref=f184e449]:
+                  - button "추가 작업" [ref=f184e450] [cursor=pointer]
+          - listitem [ref=f184e455]:
+            - group "핀 카드" [ref=f184e460]:
+              - generic [ref=f184e462]:
+                - link "Wave Guest Towels in Paradise by Matouk | Fancy Powder Room Towels 핀 페이지" [ref=f184e464] [cursor=pointer]:
+                  - /url: /pin/4600004877952958848/
+                  - 'img "포함된 이미지: Wave Guest Towels in Paradise by Matouk | Fancy Powder Room Towels" [ref=f184e474]'
+                - generic [ref=f184e479]:
+                  - generic [ref=f184e480]:
+                    - heading [level=2] [ref=f184e485]:
+                      - link "Wave Guest Towels in Paradise by Matouk" [ref=f184e487] [cursor=pointer]:
+                        - /url: /pin/4600004877952958848/
+                    - link "Fig Linens and Home" [ref=f184e490] [cursor=pointer]:
+                      - /url: /figlinens/
+                      - generic "Fig Linens and Home" [ref=f184e497]
+                  - generic "추가 작업" [ref=f184e500]:
+                    - button "추가 작업" [ref=f184e501] [cursor=pointer]
+          - listitem [ref=f184e506]:
+            - group "핀 카드" [ref=f184e511]:
+              - generic [ref=f184e513]:
+                - link "제목 없음 핀 페이지" [ref=f184e515] [cursor=pointer]:
+                  - /url: /pin/503347695855739526/
+                  - img "포함된 이미지:" [ref=f184e525]
+                - generic "추가 작업" [ref=f184e534]:
+                  - button "추가 작업" [ref=f184e535] [cursor=pointer]
+          - listitem [ref=f184e540]:
+            - group "핀 카드" [ref=f184e545]:
+              - generic [ref=f184e547]:
+                - link "제목 없음 핀 페이지" [ref=f184e549] [cursor=pointer]:
+                  - /url: /pin/814870126367641735/
+                  - img "포함된 이미지:" [ref=f184e559]
+                - generic "추가 작업" [ref=f184e568]:
+                  - button "추가 작업" [ref=f184e569] [cursor=pointer]
+          - listitem [ref=f184e574]:
+            - group "핀 카드" [ref=f184e579]:
+              - generic [ref=f184e581]:
+                - link "motif 핀 페이지" [ref=f184e583] [cursor=pointer]:
+                  - /url: /pin/524247212843629460/
+                  - img "포함된 이미지:" [ref=f184e593]
+                - generic "추가 작업" [ref=f184e602]:
+                  - button "추가 작업" [ref=f184e603] [cursor=pointer]
+          - listitem [ref=f184e608]:
+            - group "핀 카드" [ref=f184e613]:
+              - generic [ref=f184e615]:
+                - link "Small Dotted Scallop Wall Stencil Border - 10 mil 핀 페이지" [ref=f184e617] [cursor=pointer]:
+                  - /url: /pin/97460779432103175/
+                  - 'img "포함된 이미지: Small Dotted Scallop Wall Stencil Border - 10 mil" [ref=f184e627]'
+                - generic [ref=f184e632]:
+                  - generic [ref=f184e633]:
+                    - heading [level=2] [ref=f184e638]:
+                      - link "Small Dotted Scallop Wall Stencil Border - 10 mil" [ref=f184e640] [cursor=pointer]:
+                        - /url: /pin/97460779432103175/
+                    - link "Designer Stencils" [ref=f184e643] [cursor=pointer]:
+                      - /url: /designerstencils/
+                      - generic "Designer Stencils" [ref=f184e650]
+                  - generic "추가 작업" [ref=f184e653]:
+                    - button "추가 작업" [ref=f184e654] [cursor=pointer]
+          - listitem [ref=f184e659]:
+            - group "핀 카드" [ref=f184e664]:
+              - generic [ref=f184e666]:
+                - link "Fundo 핀 페이지" [ref=f184e668] [cursor=pointer]:
+                  - /url: /pin/729653577164376932/
+                  - 'img "포함된 이미지: Fundo" [ref=f184e678]'
+                - generic [ref=f184e683]:
+                  - heading [level=2] [ref=f184e689]:
+                    - link "Fundo" [ref=f184e691] [cursor=pointer]:
+                      - /url: /pin/729653577164376932/
+                  - generic "추가 작업" [ref=f184e694]:
+                    - button "추가 작업" [ref=f184e695] [cursor=pointer]
+          - listitem [ref=f184e700]:
+            - group "핀 카드" [ref=f184e705]:
+              - generic [ref=f184e707]:
+                - link "7,400+ Ruffles Stock Illustrations, Royalty-Free Vector Graphics & Clip Art 핀 페이지" [ref=f184e709] [cursor=pointer]:
+                  - /url: /pin/610167449554343120/
+                  - 'img "포함된 이미지: 7,400+ Ruffles Stock Illustrations, Royalty-Free Vector Graphics & Clip Art" [ref=f184e719]'
+                - generic [ref=f184e724]:
+                  - generic [ref=f184e725]:
+                    - heading [level=2] [ref=f184e730]:
+                      - link "7,400+ Ruffles Stock Illustrations, Royalty-Free Vector Graphics & Clip Art" [ref=f184e732] [cursor=pointer]:
+                        - /url: /pin/610167449554343120/
+                    - link "iStock by Getty Images" [ref=f184e735] [cursor=pointer]:
+                      - /url: /istock/
+                      - generic "iStock by Getty Images" [ref=f184e742]
+                  - generic "추가 작업" [ref=f184e745]:
+                    - button "추가 작업" [ref=f184e746] [cursor=pointer]
+          - listitem [ref=f184e751]:
+            - group "핀 카드" [ref=f184e756]:
+              - generic [ref=f184e758]:
+                - link "Carta Bella, Scallop Stencil, 6x6\", Summer Scallops, Waves, Background, Loops | eBay 핀 페이지" [ref=f184e760] [cursor=pointer]:
+                  - /url: /pin/167196204912810581/
+                  - 'img "포함된 이미지: Carta Bella, Scallop Stencil, 6x6\", Summer Scallops, Waves, Background, Loops | eBay" [ref=f184e770]'
+                - generic [ref=f184e775]:
+                  - heading [level=2] [ref=f184e781]:
+                    - link "Carta Bella, Scallop Stencil, 6x6\", Summer Scallops, Waves, Background, Loops | eBay" [ref=f184e783] [cursor=pointer]:
+                      - /url: /pin/167196204912810581/
+                  - generic "추가 작업" [ref=f184e786]:
+                    - button "추가 작업" [ref=f184e787] [cursor=pointer]
+          - listitem [ref=f184e792]:
+            - group "핀 카드" [ref=f184e797]:
+              - generic [ref=f184e799]:
+                - link "Scalloped edge border frilly stroke divider black silhouette stripe, tape collection isolated on white background. Traditional simple ornament with circles, embroidery ribbon. 핀 페이지" [ref=f184e801] [cursor=pointer]:
+                  - /url: /pin/1148417973720450449/
+                  - 'img "포함된 이미지: Scalloped edge border frilly stroke divider black silhouette stripe, tape collection isolated on white background. Traditional simple ornament with circles, embroidery ribbon." [ref=f184e811]'
+                - generic [ref=f184e816]:
+                  - generic [ref=f184e817]:
+                    - heading [level=2] [ref=f184e822]:
+                      - link "Scalloped edge border frilly stroke divider black silhouette stripe, tape collection isolated on white background. Traditional simple ornament with circles, embroidery ribbon." [ref=f184e824] [cursor=pointer]:
+                        - /url: /pin/1148417973720450449/
+                    - link "Vecteezy" [ref=f184e827] [cursor=pointer]:
+                      - /url: /vecteezy/
+                      - generic "Vecteezy" [ref=f184e834]
+                  - generic "추가 작업" [ref=f184e837]:
+                    - button "추가 작업" [ref=f184e838] [cursor=pointer]
+  - generic:
+    - contentinfo "꼬리말"

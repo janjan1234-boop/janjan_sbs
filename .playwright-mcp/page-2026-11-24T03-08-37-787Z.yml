@@ -1,0 +1,140 @@
+- generic [ref=f174e4]:
+  - navigation [ref=f174e5]:
+    - generic [ref=f174e6]:
+      - generic [ref=f174e7]:
+        - link "Unsplash 홈" [ref=f174e8] [cursor=pointer]:
+          - /url: /ko
+          - img "Unsplash 홈" [ref=f174e9]
+        - link "사진" [ref=f174e11] [cursor=pointer]:
+          - /url: /ko
+        - link "일러스트" [ref=f174e14] [cursor=pointer]:
+          - /url: /ko/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8
+      - generic [ref=f174e17]:
+        - button "탐색" [ref=f174e18] [cursor=pointer]
+        - button "컬렉션" [ref=f174e21] [cursor=pointer]
+        - button "다운로드 내역" [ref=f174e24] [cursor=pointer]
+      - button "북마크" [ref=f174e28] [cursor=pointer]
+    - generic [ref=f174e31]:
+      - link "로그인 / 가입" [ref=f174e32] [cursor=pointer]:
+        - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2596%2587%25EB%25B9%259B%25EC%259D%25B4-%25EB%25AC%25B4%25EB%258A%25AC%25EA%25B0%2580-%25EC%259E%2588%25EB%258A%2594-%25EC%25B0%25BD%25EB%25AC%25B8%25EC%259D%2584-%25ED%2586%25B5%25ED%2595%25B4-%25EC%2595%2584%25EC%25B9%2598%25ED%2598%2595-%25EB%25B3%25B5%25EB%258F%2584%25EB%25A1%259C-%25EC%258F%259F%25EC%2595%2584%25EC%25A7%2584%25EB%258B%25A4-DjNdJwrpByQ
+      - button "언어" [ref=f174e35] [cursor=pointer]
+      - button "메뉴" [ref=f174e38] [cursor=pointer]
+  - generic [ref=f174e41]:
+    - generic [ref=f174e42]:
+      - navigation [ref=f174e43]:
+        - search "사이트 전체에서 이미지 찾기" [ref=f174e45]:
+          - button "Unsplash 검색" [ref=f174e46] [cursor=pointer]
+          - combobox [ref=f174e49]:
+            - searchbox "Unsplash 검색" [ref=f174e50]
+            - listbox
+          - button "시각적 검색" [ref=f174e52] [cursor=pointer]
+        - generic [ref=f174e55]:
+          - link "Unsplash+ 구독" [ref=f174e56] [cursor=pointer]:
+            - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4
+          - link "로그인" [ref=f174e57] [cursor=pointer]:
+            - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2596%2587%25EB%25B9%259B%25EC%259D%25B4-%25EB%25AC%25B4%25EB%258A%25AC%25EA%25B0%2580-%25EC%259E%2588%25EB%258A%2594-%25EC%25B0%25BD%25EB%25AC%25B8%25EC%259D%2584-%25ED%2586%25B5%25ED%2595%25B4-%25EC%2595%2584%25EC%25B9%2598%25ED%2598%2595-%25EB%25B3%25B5%25EB%258F%2584%25EB%25A1%259C-%25EC%258F%259F%25EC%2595%2584%25EC%25A7%2584%25EB%258B%25A4-DjNdJwrpByQ
+        - button "이미지 제출" [ref=f174e59] [cursor=pointer]
+      - generic [ref=f174e60]:
+        - generic [ref=f174e61]:
+          - banner [ref=f174e63]:
+            - generic [ref=f174e65]:
+              - link [ref=f174e66] [cursor=pointer]:
+                - /url: /ko/@yasinonus
+              - generic [ref=f174e69]:
+                - link "Yasin Onus" [ref=f174e70] [cursor=pointer]:
+                  - /url: /ko/@yasinonus
+                - link "고용 가능" [ref=f174e72] [cursor=pointer]:
+                  - /url: /ko/@yasinonus
+            - generic [ref=f174e75]:
+              - button "북마크" [ref=f174e76] [cursor=pointer]
+              - button "컬렉션에 추가" [ref=f174e79] [cursor=pointer]
+              - link "이미지 편집" [ref=f174e82] [cursor=pointer]:
+                - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25ED%2596%2587%25EB%25B9%259B%25EC%259D%25B4-%25EB%25AC%25B4%25EB%258A%25AC%25EA%25B0%2580-%25EC%259E%2588%25EB%258A%2594-%25EC%25B0%25BD%25EB%25AC%25B8%25EC%259D%2584-%25ED%2586%25B5%25ED%2595%25B4-%25EC%2595%2584%25EC%25B9%2598%25ED%2598%2595-%25EB%25B3%25B5%25EB%258F%2584%25EB%25A1%259C-%25EC%258F%259F%25EC%2595%2584%25EC%25A7%2584%25EB%258B%25A4-DjNdJwrpByQ
+              - generic [ref=f174e86]:
+                - link "무료 다운로드" [ref=f174e87] [cursor=pointer]:
+                  - /url: https://unsplash.com/photos/DjNdJwrpByQ/download?force=true
+                - button "다운로드 크기 선택" [ref=f174e89] [cursor=pointer]
+          - button "이 이미지 확대" [disabled] [ref=f174e95]:
+            - img "햇빛이 무늬가 있는 창문을 통해 아치형 복도로 쏟아진다" [ref=f174e96]
+          - generic [ref=f174e97]:
+            - generic [ref=f174e98]:
+              - generic [ref=f174e99]:
+                - generic [ref=f174e100]:
+                  - generic [ref=f174e101]: ––– –– ––
+                  - text: ––– –––– ––––
+                - generic [ref=f174e102]:
+                  - generic [ref=f174e103]: ––– –– ––
+                  - text: ––– –––– ––––
+              - generic [ref=f174e105]:
+                - heading "소개 매체" [level=3] [ref=f174e106]
+                - generic [ref=f174e107]:
+                  - link "사진" [ref=f174e108] [cursor=pointer]:
+                    - /url: /ko
+                  - text: ","
+                  - link "건축학" [ref=f174e109] [cursor=pointer]:
+                    - /url: /ko/t/architecture-interior
+              - generic [ref=f174e110]:
+                - button "이 이미지 공유" [ref=f174e111] [cursor=pointer]:
+                  - generic [ref=f174e114]: 공유
+                - button "이 이미지 관련 통계" [ref=f174e115] [cursor=pointer]:
+                  - generic [ref=f174e118]: 정보
+                - button "더 많은 작업" [ref=f174e119] [cursor=pointer]
+            - generic [ref=f174e123]:
+              - heading "햇빛이 무늬가 있는 창문을 통해 아치형 복도로 쏟아진다" [level=1] [ref=f174e125]
+              - paragraph [ref=f174e129]: Türkiye에서 Yasin Onus(@yasinonus)의 이 무료 건축학, 내부, 관광 및 기하학적 패턴 HD 사진 다운로드
+              - generic [ref=f174e131]:
+                - generic [ref=f174e132]: Mardin, Türkiye
+                - generic [ref=f174e141]:
+                  - time [ref=f174e142]: 2026년 1월 26일(UTC)
+                  - text: 에 게시됨
+                - button "SONY, ILCE-7M3" [ref=f174e147] [cursor=pointer]
+                - generic [ref=f174e151]:
+                  - link "Unsplash 라이선스" [ref=f174e152] [cursor=pointer]:
+                    - /url: /ko/%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4
+                  - text: 하에서 무료로 사용 가능
+            - generic [ref=f174e154]:
+              - link "건축학" [ref=f174e155] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B1%B4%EC%B6%95%ED%95%99
+              - link "내부" [ref=f174e156] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%82%B4%EB%B6%80
+              - link "관광" [ref=f174e157] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B4%80%EA%B4%91
+              - link "기하학적 패턴" [ref=f174e158] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81-%ED%8C%A8%ED%84%B4
+              - link "여행 목적지" [ref=f174e159] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%97%AC%ED%96%89-%EB%AA%A9%EC%A0%81%EC%A7%80
+              - link "문화 유산" [ref=f174e160] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%AC%B8%ED%99%94-%EC%9C%A0%EC%82%B0
+              - link "고대의" [ref=f174e161] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B3%A0%EB%8C%80%EC%9D%98
+              - link "여행 사진" [ref=f174e162] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%97%AC%ED%96%89-%EC%82%AC%EC%A7%84
+              - link "빛과 그림자" [ref=f174e163] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B9%9B%EA%B3%BC-%EA%B7%B8%EB%A6%BC%EC%9E%90
+              - link "오래 된 건물" [ref=f174e164] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%98%A4%EB%9E%98-%EB%90%9C-%EA%B1%B4%EB%AC%BC
+              - link "유산" [ref=f174e165] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%9C%A0%EC%82%B0
+              - link "대칭" [ref=f174e166] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%8C%80%EC%B9%AD
+              - link "아키텍처 세부 정보" [ref=f174e167] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%B8%EB%B6%80-%EC%A0%95%EB%B3%B4
+              - link "인테리어 건축" [ref=f174e168] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4-%EA%B1%B4%EC%B6%95
+              - link "고대 유적" [ref=f174e169] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B3%A0%EB%8C%80-%EC%9C%A0%EC%A0%81
+              - link "고대 문명" [ref=f174e170] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B3%A0%EB%8C%80-%EB%AC%B8%EB%AA%85
+              - link "극적인 조명" [ref=f174e171] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B7%B9%EC%A0%81%EC%9D%B8-%EC%A1%B0%EB%AA%85
+              - link "아치" [ref=f174e172] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%95%84%EC%B9%98
+              - link "돌 바닥" [ref=f174e173] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%8F%8C-%EB%B0%94%EB%8B%A5
+              - link "고대 역사" [ref=f174e174] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B3%A0%EB%8C%80-%EC%97%AD%EC%82%AC
+              - link "HDR 이미지" [ref=f174e175] [cursor=pointer]:
+                - /url: /ko/images/stock/hdr
+        - paragraph [ref=f174e181]: iStock에서 프리미엄 관련 이미지 찾아보기 | 코드 UNSPLASH20로 20% 할인 혜택 받기
+    - generic:
+      - region "Notifications"

@@ -1,0 +1,139 @@
+- generic [ref=f239e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f239e13]:
+      - generic [ref=f239e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=f239e18]
+        - generic "이미지 업로드" [ref=f239e22]:
+          - button "Pinterest 렌즈" [ref=f239e23] [cursor=pointer]
+      - link "내 프로필" [ref=f239e32] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=f239e39]:
+          - generic [ref=f239e40]: 강
+      - button "계정" [ref=f239e44] [cursor=pointer]
+  - navigation [ref=f239e49]:
+    - generic [ref=f239e51]:
+      - generic [ref=f239e52]:
+        - generic "홈" [ref=f239e56]:
+          - link "홈" [ref=f239e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f239e64]:
+          - link "홈" [ref=f239e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f239e72]:
+          - link "내 보드" [ref=f239e73] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=f239e80]:
+          - button "만들기" [ref=f239e81] [cursor=pointer]
+        - generic "업데이트" [ref=f239e90]:
+          - 'button "업데이트: 1개 알림" [ref=f239e91] [cursor=pointer]'
+        - generic "메시지" [ref=f239e100]:
+          - button "메시지" [ref=f239e101] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f239e110]:
+        - button "설정 및 지원" [ref=f239e111] [cursor=pointer]
+  - generic:
+    - complementary "꼬리말 부동 버튼"
+  - main [ref=f239e116]:
+    - generic [ref=f239e126]:
+      - button "뒤로" [ref=f239e128] [cursor=pointer]
+      - generic [ref=f239e137]:
+        - generic [ref=f239e138]: 관련 상품 결과를 불러오는 중
+        - list [ref=f239e143]:
+          - listitem [ref=f239e144]:
+            - group "Closeup content container" [ref=f239e151]:
+              - generic [ref=f239e156]:
+                - region "핀 이미지 및 탐색할 항목" [ref=f239e159]:
+                  - region "핀 이미지" [ref=f239e164]:
+                    - generic [ref=f239e170]:
+                      - button "더 크게 보기" [ref=f239e173] [cursor=pointer]:
+                        - generic [ref=f239e175]:
+                          - generic: 더 크게 보기
+                          - img "더 크게 보기" [ref=f239e177]
+                      - button "이미지 검색" [ref=f239e182] [cursor=pointer]:
+                        - generic [ref=f239e184]:
+                          - generic: 이미지 검색
+                          - img "이미지 검색" [ref=f239e186]
+                      - link "사이트 방문, no-bu-ru.com" [ref=f239e191] [cursor=pointer]:
+                        - /url: https://no-bu-ru.com/products/archways-cutout-card-set?pins_campaign_id=626756149197&utm_campaign=626756149197&utm_medium=organic&utm_source=Pinterest&utm_content=2680086991027&pp=0
+                        - generic [ref=f239e195]: 사이트 방문
+                - generic [ref=f239e196]:
+                  - generic [ref=f239e199]:
+                    - list [ref=f239e200]:
+                      - generic [ref=f239e201]:
+                        - listitem [ref=f239e203]:
+                          - generic "반응" [ref=f239e206]:
+                            - button "반응" [ref=f239e207] [cursor=pointer]
+                          - generic [ref=f239e212]: "0"
+                        - listitem [ref=f239e214]:
+                          - generic "댓글" [ref=f239e217]:
+                            - button "댓글" [ref=f239e218] [cursor=pointer]
+                        - listitem [ref=f239e224]:
+                          - generic "공유" [ref=f239e228]:
+                            - button "이 핀 공유" [ref=f239e230] [cursor=pointer]
+                        - listitem [ref=f239e236]:
+                          - generic "추가 작업" [ref=f239e241]:
+                            - button "추가 작업" [ref=f239e243] [cursor=pointer]
+                    - generic [ref=f239e253]:
+                      - 'button "저장할 보드 선택: 프로필" [ref=f239e256] [cursor=pointer]':
+                        - generic "프로필" [ref=f239e259]
+                      - button "저장" [ref=f239e265] [cursor=pointer]
+                  - generic [ref=f239e273]:
+                    - generic [ref=f239e282]:
+                      - link [ref=f239e284] [cursor=pointer]:
+                        - /url: /davidumemoto/
+                        - img "no.bu.ru 아바타 링크" [ref=f239e291]
+                      - link [ref=f239e295] [cursor=pointer]:
+                        - /url: /davidumemoto/
+                        - heading [level=2] [ref=f239e296]:
+                          - generic [ref=f239e299]:
+                            - text: no.bu.ru
+                            - generic "이 소매업체는 Pinterest 판매자 가이드라인을 충족합니다" [ref=f239e302]:
+                              - button "이 소매업체는 Pinterest 판매자 가이드라인을 충족합니다" [ref=f239e304]:
+                                - img "판매자 인증 배지" [ref=f239e305]
+                    - generic [ref=f239e307]:
+                      - generic [ref=f239e309]:
+                        - link [ref=f239e315] [cursor=pointer]:
+                          - /url: https://no-bu-ru.com/products/archways-cutout-card-set?pins_campaign_id=626756149197&utm_campaign=626756149197&utm_medium=organic&utm_source=Pinterest&utm_content=2680086991027&pp=0
+                          - heading "Archways DIY Cutout Card Set" [level=1] [ref=f239e316]
+                        - link "사이트 방문, no-bu-ru.com" [ref=f239e324] [cursor=pointer]:
+                          - /url: https://no-bu-ru.com/products/archways-cutout-card-set?pins_campaign_id=626756149197&utm_campaign=626756149197&utm_medium=organic&utm_source=Pinterest&utm_content=2680086991027&pp=0
+                          - generic [ref=f239e325]: 사이트 방문
+                      - generic [ref=f239e328]:
+                        - heading "설명" [level=4] [ref=f239e329]
+                        - generic [ref=f239e331]:
+                          - generic [ref=f239e332]: THIS CUTOUT CARD TEMPLATE BUNDLE INCLUDES 5 MODELS
+                          - generic [ref=f239e334]: With this set of cutting templates, you can create personalized cards by mixing and matching covers and inserts, experimenting with colors, and crafting countless designs tailored to your style.
+                          - generic [ref=f239e336]: All card sets are fully compatible, allowing you to combine designs across sets for even more creative possibilities.
+                          - generic [ref=f239e338]: "How It Works:"
+                          - generic [ref=f239e340]: Print the templates using the provided PDF files and cut them by hand with a craft knife. Alternatively, use a cutting machine like Cricut or Silhouette with the included vector files for seamless precision.
+                          - generic [ref=f239e342]: "What’s Included:"
+                          - generic [ref=f239e344]: This collection is available in two versions—Series 1 and Series 2. While both feature similar designs, small adjustments make each series ideal for its specific assembly technique.
+                          - generic [ref=f239e346]: "All templates come in the following formats: PDF, DXF, and SVG."
+                          - generic [ref=f239e348]: Learn more by reading my CUTOUT CARD SETS post
+                        - button "더 보기" [ref=f239e351] [cursor=pointer]
+                  - generic [ref=f239e361]:
+                    - generic [ref=f239e363]:
+                      - button [ref=f239e365]
+                      - generic [ref=f239e369]:
+                        - generic: 의견을 공유하려면 댓글을 추가하세요.
+                        - combobox "의견을 공유하려면 댓글을 추가하세요." [ref=f239e371]
+                    - generic [ref=f239e380]:
+                      - button "이모티콘 선택" [ref=f239e381] [cursor=pointer]
+                      - button "스티커 선택" [ref=f239e386] [cursor=pointer]
+                      - button "사진을 선택합니다." [ref=f239e392] [cursor=pointer]
+          - listitem [ref=f239e397]
+          - listitem [ref=f239e401]
+          - listitem [ref=f239e405]
+          - listitem [ref=f239e409]
+          - listitem [ref=f239e413]
+          - listitem [ref=f239e417]
+          - listitem [ref=f239e421]
+          - listitem [ref=f239e425]
+          - listitem [ref=f239e429]
+          - listitem [ref=f239e433]
+          - listitem [ref=f239e437]
+  - generic:
+    - contentinfo "꼬리말"

@@ -1,0 +1,232 @@
+- generic [ref=f159e5]:
+  - navigation [ref=f159e6]:
+    - generic [ref=f159e7]:
+      - generic [ref=f159e8]:
+        - link "Unsplash 홈" [ref=f159e9] [cursor=pointer]:
+          - /url: /ko
+          - img "Unsplash 홈" [ref=f159e10]
+        - link "사진" [ref=f159e12] [cursor=pointer]:
+          - /url: /ko
+        - link "일러스트" [ref=f159e15] [cursor=pointer]:
+          - /url: /ko/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8
+      - generic [ref=f159e18]:
+        - button "탐색" [ref=f159e19] [cursor=pointer]
+        - button "컬렉션" [ref=f159e22] [cursor=pointer]
+        - button "다운로드 내역" [ref=f159e25] [cursor=pointer]
+      - button "북마크" [ref=f159e29] [cursor=pointer]
+    - generic [ref=f159e32]:
+      - link "로그인 / 가입" [ref=f159e33] [cursor=pointer]:
+        - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B0%259C-%25ED%2584%25B8%25EC%259D%2598-%25ED%2581%25B4%25EB%25A1%259C%25EC%25A6%2588%25EC%2597%2585-1DdSZLtktEg
+      - button "언어" [ref=f159e36] [cursor=pointer]
+      - button "메뉴" [ref=f159e39] [cursor=pointer]
+  - generic [ref=f159e42]:
+    - generic [ref=f159e43]:
+      - navigation [ref=f159e44]:
+        - search "사이트 전체에서 이미지 찾기" [ref=f159e46]:
+          - button "Unsplash 검색" [ref=f159e47] [cursor=pointer]
+          - combobox [ref=f159e50]:
+            - searchbox "Unsplash 검색" [ref=f159e51]
+            - listbox
+          - button "시각적 검색" [ref=f159e53] [cursor=pointer]
+        - generic [ref=f159e56]:
+          - link "Unsplash+ 구독" [ref=f159e57] [cursor=pointer]:
+            - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4
+          - link "로그인" [ref=f159e58] [cursor=pointer]:
+            - /url: /ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B0%259C-%25ED%2584%25B8%25EC%259D%2598-%25ED%2581%25B4%25EB%25A1%259C%25EC%25A6%2588%25EC%2597%2585-1DdSZLtktEg
+        - button "이미지 제출" [ref=f159e60] [cursor=pointer]
+      - generic [ref=f159e61]:
+        - generic [ref=f159e62]:
+          - banner [ref=f159e64]:
+            - generic [ref=f159e66]:
+              - link [ref=f159e67] [cursor=pointer]:
+                - /url: /ko/@eprouzet
+              - generic [ref=f159e70]:
+                - link "Eric Prouzet" [ref=f159e71] [cursor=pointer]:
+                  - /url: /ko/@eprouzet
+                - link "고용 가능" [ref=f159e73] [cursor=pointer]:
+                  - /url: /ko/@eprouzet
+            - generic [ref=f159e76]:
+              - button "북마크" [ref=f159e77] [cursor=pointer]
+              - button "컬렉션에 추가" [ref=f159e80] [cursor=pointer]
+              - button "이미지 편집" [ref=f159e83] [cursor=pointer]
+              - generic [ref=f159e87]:
+                - link "무료 다운로드" [ref=f159e88] [cursor=pointer]:
+                  - /url: https://unsplash.com/photos/1DdSZLtktEg/download?force=true
+                - button "다운로드 크기 선택" [ref=f159e90] [cursor=pointer]
+          - button "이 이미지 확대" [ref=f159e96]:
+            - img "개 털의 클로즈업" [ref=f159e97]
+          - generic [ref=f159e98]:
+            - generic [ref=f159e99]:
+              - generic [ref=f159e100]:
+                - generic [ref=f159e101]:
+                  - heading "조회수" [level=3] [ref=f159e102]
+                  - text: 83,322
+                - generic [ref=f159e103]:
+                  - heading "다운로드" [level=3] [ref=f159e104]
+                  - text: "714"
+              - generic [ref=f159e105]:
+                - button "이 이미지 공유" [ref=f159e106] [cursor=pointer]:
+                  - generic [ref=f159e109]: 공유
+                - button "이 이미지 관련 통계" [ref=f159e110] [cursor=pointer]:
+                  - generic [ref=f159e113]: 정보
+                - button "더 많은 작업" [ref=f159e114] [cursor=pointer]
+            - generic [ref=f159e118]:
+              - heading "개 털의 클로즈업" [level=1] [ref=f159e120]
+              - paragraph [ref=f159e124]: Canada Milton에서 Eric Prouzet(@eprouzet)의 이 무료 배경, 텍스처, 개 및 동물 HD 사진 다운로드
+              - generic [ref=f159e126]:
+                - generic [ref=f159e127]: Crawford Lake, Milton, ON, Canada
+                - generic [ref=f159e136]:
+                  - time [ref=f159e137]: 2021년 12월 12일
+                  - text: 에 게시됨
+                - button "FUJIFILM, X-A7" [ref=f159e142] [cursor=pointer]
+                - generic [ref=f159e146]:
+                  - link "Unsplash 라이선스" [ref=f159e147] [cursor=pointer]:
+                    - /url: /ko/%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4
+                  - text: 하에서 무료로 사용 가능
+            - generic [ref=f159e149]:
+              - link "배경" [ref=f159e150] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B0%B0%EA%B2%BD
+              - link "텍스처" [ref=f159e151] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%85%8D%EC%8A%A4%EC%B2%98
+              - link "개" [ref=f159e152] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B0%9C
+              - link "동물" [ref=f159e153] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%8F%99%EB%AC%BC
+              - link "검정" [ref=f159e154] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B2%80%EC%A0%95
+              - link "색" [ref=f159e155] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%83%89
+              - link "회색" [ref=f159e156] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%9A%8C%EC%83%89
+              - link "갈색" [ref=f159e157] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B0%88%EC%83%89
+              - link "조명" [ref=f159e158] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%A1%B0%EB%AA%85
+              - link "애완동물" [ref=f159e159] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%95%A0%EC%99%84%EB%8F%99%EB%AC%BC
+              - link "닫기" [ref=f159e160] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%8B%AB%EA%B8%B0
+              - link "표지" [ref=f159e161] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%91%9C%EC%A7%80
+              - link "포유동물" [ref=f159e162] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%8F%AC%EC%9C%A0%EB%8F%99%EB%AC%BC
+              - link "부드러운" [ref=f159e163] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4
+              - link "모피" [ref=f159e164] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EB%AA%A8%ED%94%BC
+              - link "근접 촬영" [ref=f159e165] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B7%BC%EC%A0%91-%EC%B4%AC%EC%98%81
+              - link "개" [ref=f159e166] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EA%B0%9C
+              - link "솜 털" [ref=f159e167] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%EC%86%9C-%ED%84%B8
+              - link "클로즈업" [ref=f159e168] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85
+              - link "희미한" [ref=f159e169] [cursor=pointer]:
+                - /url: /ko/s/%EC%82%AC%EC%A7%84/%ED%9D%AC%EB%AF%B8%ED%95%9C
+              - link "고해상도 이미지" [ref=f159e170] [cursor=pointer]:
+                - /url: /ko/images/stock/high-resolution
+        - generic [ref=f159e173]:
+          - paragraph [ref=f159e176]: iStock에서 프리미엄 관련 이미지 찾아보기 | 코드 UNSPLASH20로 20% 할인 혜택 받기
+          - generic [ref=f159e187]:
+            - heading "관련 이미지" [level=4] [ref=f159e189]
+            - generic [ref=f159e193]:
+              - generic [ref=f159e194]:
+                - figure [ref=f159e195]:
+                  - link [ref=f159e198]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B0%94%EB%8A%98%EB%A1%9C-%EB%A8%B8%EB%A6%AC%EB%A5%BC-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81%ED%95%98%EB%8A%94-%EC%86%90%EC%9D%98-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-Bx5BgLtGxN0
+                    - img "바늘로 머리를 스타일링하는 손의 클로즈업" [ref=f159e199]
+                - figure [ref=f159e200]:
+                  - link [ref=f159e203]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B3%B5%EC%A4%91%EC%97%90-%EB%96%A0-%EC%9E%88%EB%8A%94-%EC%A0%84%EC%84%A0-%EB%AD%89%EC%B9%98%EC%9D%98-%ED%9D%90%EB%A6%BF%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-IVAMEZFdy28
+                    - img "공중에 떠 있는 전선 뭉치의 흐릿한 이미지" [ref=f159e204]
+                - figure [ref=f159e205]:
+                  - link [ref=f159e208]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EC%97%AC%EC%9E%90%EC%9D%98-%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-5L29ZIb5Scw
+                    - img "여자의 머리카락 클로즈업" [ref=f159e209]
+                - figure [ref=f159e210]:
+                  - link [ref=f159e213]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%B0-%EB%AA%A8%ED%94%BC-%EC%84%AC%EC%9C%A0%EC%97%90-%EA%B0%88%EC%83%89-%EB%A8%B8%EB%A6%AC-riMKvahP34M
+                    - img "흰 모피 섬유에 갈색 머리" [ref=f159e214]
+                - figure [ref=f159e215]:
+                  - generic [ref=f159e217]:
+                    - link [ref=f159e218]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EB%B9%A0%EC%A7%84-%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%EC%9C%BC%EB%A1%9C-%EB%8D%AE%EC%9D%B8-%EB%82%98%EB%AC%B4-%EB%A8%B8%EB%A6%AC%EB%B9%97-jsF9aG4qSRU
+                      - img "빠진 머리카락으로 덮인 나무 머리빗" [ref=f159e219]
+                    - link [ref=f159e220] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%25B9%25A0%25EC%25A7%2584-%25EB%25A8%25B8%25EB%25A6%25AC%25EC%25B9%25B4%25EB%259D%25BD%25EC%259C%25BC%25EB%25A1%259C-%25EB%258D%25AE%25EC%259D%25B8-%25EB%2582%2598%25EB%25AC%25B4-%25EB%25A8%25B8%25EB%25A6%25AC%25EB%25B9%2597-jsF9aG4qSRU
+                - figure [ref=f159e223]:
+                  - link [ref=f159e226]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%9D%B0-%EA%B3%B5%EC%9D%B4-%EB%8B%AC%EB%A6%B0-%EB%82%98%EB%AD%87%EA%B0%80%EC%A7%80-%EB%AC%B4%EB%A6%AC-BgAOX38M-Jw
+                    - img "흰 공이 달린 나뭇가지 무리" [ref=f159e227]
+                - figure [ref=f159e228]:
+                  - generic [ref=f159e230]:
+                    - link [ref=f159e231]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%9C%EC%97%90%EA%B2%8C-%EC%A3%BC%EC%82%AC%EB%A5%BC-%EB%86%93%EB%8A%94-%EC%82%AC%EB%9E%8C-9v_FLdXXEWM
+                      - img "갈색과 흰색 털을 가진 개에게 피하 주사를 하는 사람" [ref=f159e232]
+                    - link [ref=f159e233] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B0%259C%25EC%2597%2590%25EA%25B2%258C-%25EC%25A3%25BC%25EC%2582%25AC%25EB%25A5%25BC-%25EB%2586%2593%25EB%258A%2594-%25EC%2582%25AC%25EB%259E%258C-9v_FLdXXEWM
+                - figure [ref=f159e236]:
+                  - link [ref=f159e239]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%9C-%EB%88%88-ZpvthNlbF1g
+                    - img "개 눈" [ref=f159e240]
+                - figure [ref=f159e241]:
+                  - generic [ref=f159e243]:
+                    - link [ref=f159e244]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EC%A0%96%EA%B3%A0-%ED%84%B8%EC%9D%B4-%EB%8D%A5%EC%88%98%EB%A3%A9%ED%95%9C-%EA%B0%88%EC%83%89-%ED%84%B8-%EC%A7%88%EA%B0%90-tVNHZ1noYFA
+                      - img "젖고 털이 덥수룩한 갈색 털 질감" [ref=f159e245]
+                    - link [ref=f159e246] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%25A0%2596%25EA%25B3%25A0-%25ED%2584%25B8%25EC%259D%25B4-%25EB%258D%25A5%25EC%2588%2598%25EB%25A3%25A9%25ED%2595%259C-%25EA%25B0%2588%25EC%2583%2589-%25ED%2584%25B8-%25EC%25A7%2588%25EA%25B0%2590-tVNHZ1noYFA
+              - generic [ref=f159e249]:
+                - figure [ref=f159e250]:
+                  - link [ref=f159e253]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B2%80%EC%9D%80-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B0%88%EC%83%89-%EB%A8%B8%EB%A6%AC-Er7ozdqzkjg
+                    - img "검은 배경에 갈색 머리" [ref=f159e254]
+                - figure [ref=f159e255]:
+                  - link [ref=f159e258]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%AC%BC%EA%B2%B0-%EB%AA%A8%EC%96%91%EC%9D%98-%EC%97%B0%ED%95%9C-%EA%B0%88%EC%83%89-%EB%8F%99%EB%AC%BC-%ED%84%B8-TdcM4RJHfvs
+                    - img "부드러운 질감의 길고 물결치는 연한 갈색 동물 털의 클로즈업" [ref=f159e259]
+                - figure [ref=f159e260]:
+                  - generic [ref=f159e262]:
+                    - link [ref=f159e263]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%88%EC%83%89%EA%B3%BC-%ED%9D%B0%EC%83%89-%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%EC%9D%98-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-y7wT4cow65I
+                      - img "갈색과 흰색 머리카락의 클로즈업" [ref=f159e264]
+                    - link [ref=f159e265] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EA%25B0%2588%25EC%2583%2589%25EA%25B3%25BC-%25ED%259D%25B0%25EC%2583%2589-%25EB%25A8%25B8%25EB%25A6%25AC%25EC%25B9%25B4%25EB%259D%25BD%25EC%259D%2598-%25ED%2581%25B4%25EB%25A1%259C%25EC%25A6%2588%25EC%2597%2585-y7wT4cow65I
+                - figure [ref=f159e268]:
+                  - link [ref=f159e271]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%84%B8%EB%B3%B5%EC%88%AD%EC%9D%B4-%EB%8F%99%EB%AC%BC%EC%9D%98-%ED%84%B8-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-ioYGtMBFdDQ
+                    - img "털복숭이 동물의 털 클로즈업" [ref=f159e272]
+                - figure [ref=f159e273]:
+                  - generic [ref=f159e275]:
+                    - link [ref=f159e276]:
+                      - /url: /ko/%EC%82%AC%EC%A7%84/%EC%BD%94%EB%81%BC%EB%A6%AC%EC%9D%98-%ED%94%BC%EB%B6%80-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-b88tl_DdUGw
+                      - img "코끼리의 피부 클로즈업" [ref=f159e277]
+                    - link [ref=f159e278] [cursor=pointer]:
+                      - /url: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EC%25BD%2594%25EB%2581%25BC%25EB%25A6%25AC%25EC%259D%2598-%25ED%2594%25BC%25EB%25B6%2580-%25ED%2581%25B4%25EB%25A1%259C%25EC%25A6%2588%25EC%2597%2585-b88tl_DdUGw
+                - figure [ref=f159e281]:
+                  - link [ref=f159e284]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%84%B8%EC%9D%B4-%EB%A7%8E%EC%9D%80-%EB%8F%99%EB%AC%BC%EC%9D%98-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-wgJp6JUMW1Y
+                    - img "털이 많은 동물의 클로즈업" [ref=f159e285]
+                - figure [ref=f159e286]:
+                  - link [ref=f159e289]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD-%EB%8B%AB%EA%B8%B0--urPrvJ3JxA
+                    - img "머리카락 닫기" [ref=f159e290]
+                - figure [ref=f159e291]:
+                  - link [ref=f159e294]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%84%B8%EC%9D%B4-%EB%B3%B5%EC%8A%AC%EB%B3%B5%EC%8A%AC%ED%95%9C-%EB%8F%99%EB%AC%BC%EC%9D%98-%ED%84%B8-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-nVaPUJIC0bw
+                    - img "털이 복슬복슬한 동물의 털 클로즈업" [ref=f159e295]
+                - figure [ref=f159e296]:
+                  - link [ref=f159e299]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B2%80%EC%9D%80-%EB%B0%B0%EA%B2%BD%EC%97%90-%EC%82%AC%EB%9E%8C-%EB%A8%B8%EB%A6%AC-wmxHXX81trA
+                    - img "검은 배경에 사람 머리" [ref=f159e300]
+                - figure [ref=f159e301]:
+                  - link [ref=f159e304]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%EA%B0%88%EC%83%89-%EC%84%AC%EC%9C%A0%EC%97%90-%EC%98%A4%EB%A0%8C%EC%A7%80-%EC%96%BC%EB%A3%A9-%EA%B3%A0%EC%96%91%EC%9D%B4-QcURLwFLWDY
+                    - img "갈색 섬유에 오렌지 얼룩 고양이" [ref=f159e305]
+                - figure [ref=f159e306]:
+                  - link [ref=f159e309]:
+                    - /url: /ko/%EC%82%AC%EC%A7%84/%ED%84%B8%EC%9D%B4-%EB%A7%8E%EC%9D%80-%EB%8F%99%EB%AC%BC%EC%9D%98-%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85-mAragM5eoIc
+                    - img "털이 많은 동물의 클로즈업" [ref=f159e310]
+    - generic:
+      - region "Notifications"
