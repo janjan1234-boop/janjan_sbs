@@ -1,0 +1,18 @@
+button{
+    background-color: black;
+    width: 160px;
+    height: 40px;
+    color: #fff;
+    border-style: none;
+    border-radius: 30px;
+    font-size: 14px;
+}
+
+button:hover{
+    background-color: navy;
+    cursor: pointer;
+}
+
+button.active{
+    background-color: blueviolet;
+}
