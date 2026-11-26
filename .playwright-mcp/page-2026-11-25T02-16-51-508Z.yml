@@ -1,0 +1,278 @@
+- generic [active] [ref=f17e1]:
+  - generic [ref=f17e3]:
+    - banner [ref=f17e4]:
+      - link "콘텐츠로 건너뛰기":
+        - /url: "#"
+      - navigation "메인" [ref=f17e10]:
+        - generic [ref=f17e11]:
+          - link "Pinterest 홈" [ref=f17e13] [cursor=pointer]:
+            - /url: /
+          - link "탐색" [ref=f17e32] [cursor=pointer]:
+            - /url: /ideas
+        - generic [ref=f17e37]:
+          - generic:
+            - img "검색 아이콘"
+          - combobox "검색" [ref=f17e39]
+        - generic [ref=f17e40]:
+          - generic [ref=f17e41]:
+            - link "소개 ; 새 탭이 열립니다" [ref=f17e43] [cursor=pointer]:
+              - /url: /_/_/about/?utm_campaign=pinterest_homepage_blogicon_all_evergreen&utm_medium=organic-pinterest&utm_source=organicpins_pinsite_homepageicon
+              - generic [ref=f17e44]: 소개
+              - generic: ; 새 탭이 열립니다
+            - link "비즈니스 ; 새 탭이 열립니다" [ref=f17e47] [cursor=pointer]:
+              - /url: /_/_/business/?utm_campaign=pinterest_homepage_blogicon_all_evergreen&utm_medium=organic-pinterest&utm_source=organicpins_pinsite_homepageicon
+              - generic [ref=f17e48]: 비즈니스
+              - generic: ; 새 탭이 열립니다
+            - link "만들기 ; 새 탭이 열립니다" [ref=f17e51] [cursor=pointer]:
+              - /url: /_/_/create/
+              - generic [ref=f17e52]: 만들기
+              - generic: ; 새 탭이 열립니다
+            - link "뉴스 ; 새 탭이 열립니다" [ref=f17e55] [cursor=pointer]:
+              - /url: /_/_/blog/?utm_source=organicpins_pinsite_homepageicon&utm_campaign=pinterest_homepage_blogicon_all_evergreen&utm_medium=organic-pinterest
+              - generic [ref=f17e56]: 뉴스
+              - generic: ; 새 탭이 열립니다
+          - button "로그인" [ref=f17e59] [cursor=pointer]
+          - button "가입하기" [ref=f17e63] [cursor=pointer]
+    - main [ref=f17e67]:
+      - generic [ref=f17e70]:
+        - generic [ref=f17e75]:
+          - generic "Pinterest와 함께 원하는 삶을 그려보세요" [ref=f17e77]
+          - generic [ref=f17e79]:
+            - button "무료로 Pinterest에 가입" [ref=f17e81] [cursor=pointer]
+            - button "이미 계정이 있습니다" [ref=f17e85] [cursor=pointer]
+        - generic [ref=f17e90]:
+          - button "위로 스크롤" [ref=f17e93] [cursor=pointer]
+          - generic [ref=f17e99]:
+            - generic [ref=f17e100]:
+              - generic [ref=f17e101]: 홀리데이의 마법을 펼쳐보세요
+              - generic [ref=f17e102]: 더 특별한 시즌을 위해 엄선된 아이디어를 찾아보세요.
+            - generic [ref=f17e103]:
+              - link "보드 더 보기" [ref=f17e104] [cursor=pointer]:
+                - /url: /pinterest/your-ultimate-holiday-starter-pack/
+              - generic:
+                - generic:
+                  - generic: 쿠키 시즌
+                  - generic: 핀 32개
+                - button "슬라이드 핀 일시 중지" [ref=f17e108] [cursor=pointer]
+            - generic [ref=f17e111]:
+              - generic [ref=f17e113]:
+                - generic [ref=f17e114]: 더 많은 축제 분위기의 아이템
+                - link "더 보기" [ref=f17e117] [cursor=pointer]:
+                  - /url: /pinterest/your-ultimate-holiday-starter-pack/
+              - generic [ref=f17e121]:
+                - generic:
+                  - generic:
+                    - button "이전 이미지 보기"
+                  - generic:
+                    - button "다음 이미지 보기"
+                - list [ref=f17e122]:
+                  - listitem [ref=f17e123]:
+                    - button [ref=f17e124] [cursor=pointer]:
+                      - link "회원님의 완벽한 홀리데이 스타터 팩 Pinterest 신원 확인 배지 아이콘 , 핀 158개 , 3주" [ref=f17e125]:
+                        - /url: /pinterest/your-ultimate-holiday-starter-pack/
+                        - generic [ref=f17e150]:
+                          - heading "회원님의 완벽한 홀리데이 스타터 팩" [level=2] [ref=f17e152]
+                          - generic [ref=f17e154]:
+                            - generic [ref=f17e155]: Pinterest
+                            - img "신원 확인 배지 아이콘" [ref=f17e158]
+                          - generic [ref=f17e160]:
+                            - generic [ref=f17e161]:
+                              - generic [ref=f17e162]:
+                                - generic [ref=f17e163]: ","
+                                - text: 핀 158개
+                              - generic [aria-hidden] [ref=f17e165]: ·
+                            - generic [ref=f17e168]:
+                              - generic [ref=f17e169]: ","
+                              - text: 3주
+                  - listitem [ref=f17e170]:
+                    - button [ref=f17e171] [cursor=pointer]:
+                      - link "누구나 좋아할 홀리데이 무알코올 칵테일 Food 신원 확인 배지 아이콘 , 핀 65개 , 1개월" [ref=f17e172]:
+                        - /url: /food/holiday-mocktails-everyone-will-love/
+                        - generic [ref=f17e197]:
+                          - heading "누구나 좋아할 홀리데이 무알코올 칵테일" [level=2] [ref=f17e199]
+                          - generic [ref=f17e201]:
+                            - generic [ref=f17e202]: Food
+                            - img "신원 확인 배지 아이콘" [ref=f17e205]
+                          - generic [ref=f17e207]:
+                            - generic [ref=f17e208]:
+                              - generic [ref=f17e209]:
+                                - generic [ref=f17e210]: ","
+                                - text: 핀 65개
+                              - generic [aria-hidden] [ref=f17e212]: ·
+                            - generic [ref=f17e215]:
+                              - generic [ref=f17e216]: ","
+                              - text: 1개월
+                  - listitem [ref=f17e217]:
+                    - button [ref=f17e218] [cursor=pointer]:
+                      - link "시도해 볼 만한 독특한 크리스마스 트리 장식 Home Decor 신원 확인 배지 아이콘 , 핀 65개 , 1개월" [ref=f17e219]:
+                        - /url: /homedecor/unique-christmas-tree-decorations-to-try/
+                        - generic [ref=f17e244]:
+                          - heading "시도해 볼 만한 독특한 크리스마스 트리 장식" [level=2] [ref=f17e246]
+                          - generic [ref=f17e248]:
+                            - generic [ref=f17e249]: Home Decor
+                            - img "신원 확인 배지 아이콘" [ref=f17e252]
+                          - generic [ref=f17e254]:
+                            - generic [ref=f17e255]:
+                              - generic [ref=f17e256]:
+                                - generic [ref=f17e257]: ","
+                                - text: 핀 65개
+                              - generic [aria-hidden] [ref=f17e259]: ·
+                            - generic [ref=f17e262]:
+                              - generic [ref=f17e263]: ","
+                              - text: 1개월
+                  - listitem [ref=f17e264]:
+                    - button [ref=f17e265] [cursor=pointer]:
+                      - link "새로운 홀리데이 매니큐어를 시도해 보세요 Pinterest Australia 신원 확인 배지 아이콘 , 핀 119개 , 2주" [ref=f17e266]:
+                        - /url: /pinterestaustralia/try-a-new-holiday-manicure/
+                        - generic [ref=f17e291]:
+                          - heading "새로운 홀리데이 매니큐어를 시도해 보세요" [level=2] [ref=f17e293]
+                          - generic [ref=f17e295]:
+                            - generic [ref=f17e296]: Pinterest Australia
+                            - img "신원 확인 배지 아이콘" [ref=f17e299]
+                          - generic [ref=f17e301]:
+                            - generic [ref=f17e302]:
+                              - generic [ref=f17e303]:
+                                - generic [ref=f17e304]: ","
+                                - text: 핀 119개
+                              - generic [aria-hidden] [ref=f17e306]: ·
+                            - generic [ref=f17e309]:
+                              - generic [ref=f17e310]: ","
+                              - text: 2주
+          - button "아래로 스크롤" [ref=f17e313] [cursor=pointer]
+        - generic [ref=f17e318]:
+          - button "위로 스크롤" [ref=f17e321] [cursor=pointer]
+          - generic [ref=f17e331]:
+            - heading "좋아하는 아이디어를 실현해 보세요." [level=2] [ref=f17e332]
+            - generic [ref=f17e333]: Pinterest를 사용하면 창의력을 발휘하는 도구를 마음껏 활용하고 더 많은 아이디어를 찾을 수 있습니다.
+          - button "아래로 스크롤" [ref=f17e337] [cursor=pointer]
+        - generic [ref=f17e342]:
+          - button "위로 스크롤" [ref=f17e345] [cursor=pointer]
+          - generic [ref=f17e353]:
+            - img "강렬한 홀리데이 메이크업을 한 여성들을 보여주는 미용 검색 결과로, 다양한 피부톤 옵션을 표시하는 피부톤 선택기가 있음" [ref=f17e358]
+            - generic [ref=f17e363]:
+              - heading "모든 계절 내내 화사하게 빛나세요" [level=3] [ref=f17e364]
+              - generic [ref=f17e365]: 피부톤으로 검색하여 내게 꼭 맞는 뷰티 아이디어를 찾아보세요.
+              - link "지금 시도하기" [ref=f17e368] [cursor=pointer]:
+                - /url: /search/pins/?q=bold%20lip&rs=typed
+          - button "아래로 스크롤" [ref=f17e372] [cursor=pointer]
+        - generic [ref=f17e377]:
+          - button "위로 스크롤" [ref=f17e380] [cursor=pointer]
+          - generic [ref=f17e388]:
+            - generic [ref=f17e395]:
+              - heading "공유 위시리스트 만들기" [level=3] [ref=f17e396]
+              - generic [ref=f17e397]: 그룹 보드로 다른 사람들과 위시리스트를 공유해 보세요.
+              - link "예시 보기" [ref=f17e400] [cursor=pointer]:
+                - /url: /trends/boho-maximalist-interiors/
+            - img "디스코 볼 옆에 체리가 들어간 칵테일 잔, 빨간색 체크 담요와 파란색 그릇 사진이 있는 그룹 보드, 그리고 참여자 2명의 프로필 사진." [ref=f17e405]
+          - button "아래로 스크롤" [ref=f17e408] [cursor=pointer]
+        - generic [ref=f17e413]:
+          - button "위로 스크롤" [ref=f17e416] [cursor=pointer]
+          - generic [ref=f17e424]:
+            - img "빨간색 플리츠 점프수트를 입은 여성의 사진으로, 색상, 소재, 스타일을 가리키는 시각적 검색 태그가 표시됨" [ref=f17e429]
+            - generic [ref=f17e433]:
+              - heading "홀리데이 룩을 더 찾아보세요" [level=2] [ref=f17e434]
+              - generic [ref=f17e435]: 이미지 내에서 검색하여 마음에 드는 홀리데이 룩을 찾아보세요.
+              - link "자세히 알아보기; 새 탭이 열립니다" [ref=f17e438] [cursor=pointer]:
+                - /url: https://newsroom.pinterest.com/en-ca/news/introducing-new-visual-search-features/
+                - generic [ref=f17e439]: 자세히 알아보기
+                - generic: ; 새 탭이 열립니다
+          - button "아래로 스크롤" [ref=f17e443] [cursor=pointer]
+        - generic [ref=f17e457]:
+          - heading "가입하여 더 많은 아이디어를 만나 보세요" [level=2] [ref=f17e460]
+          - generic [ref=f17e463]:
+            - img "불러오는 중" [ref=f17e467]
+            - generic [ref=f17e471]:
+              - generic [ref=f17e472]:
+                - img "Pinterest" [ref=f17e475]
+                - heading "Pinterest에 오신 것을 환영합니다" [level=1] [ref=f17e477]
+                - generic [ref=f17e478]: Pinterest에 무료로 가입하여 더 많은 아이디어를 찾아보세요.
+              - generic [ref=f17e482]:
+                - generic [ref=f17e483]:
+                  - generic [ref=f17e487]:
+                    - generic [ref=f17e488]: 이메일
+                    - textbox "이메일" [ref=f17e490]:
+                      - /placeholder: 이메일을 입력하세요.
+                  - generic [ref=f17e491]:
+                    - generic [ref=f17e493]:
+                      - generic [ref=f17e494]: 비밀번호
+                      - textbox "비밀번호" [ref=f17e496]:
+                        - /placeholder: 비밀번호를 입력하세요
+                    - generic [ref=f17e498]:
+                      - button "비밀번호 요건 정보" [ref=f17e502]
+                      - button "비밀번호 보기" [ref=f17e506] [cursor=pointer]
+                  - generic [ref=f17e512]:
+                    - meter [ref=f17e517]
+                    - generic [ref=f17e518]: 문자, 숫자, 기호를 8개 이상 사용하세요.
+                  - generic [ref=f17e519]:
+                    - generic [ref=f17e520]:
+                      - generic [ref=f17e521]:
+                        - generic [ref=f17e522]: 생일
+                        - textbox "생일" [ref=f17e524]:
+                          - /placeholder: yyyy. mm. dd.
+                      - generic [ref=f17e525]: Pinterest의 안전 유지에 도움이 될 수 있도록 생년월일 정보를 제공해 주세요. 뿐만 아니라 Pinterest가 보다 맞춤화된 추천과 관련성 있는 광고를 제공하는 데 있어서도 도움이 됩니다. 회원님의 허락 없이 생년월일 정보는 공유되지 않으며 프로필에도 표시되지 않습니다.
+                    - generic [aria-hidden]: 생일을 입력하세요(yyyy. mm. dd.).
+                    - generic [ref=f17e530]:
+                      - generic "생년월일 정보" [ref=f17e533]
+                      - button "생년월일 선택기 열기" [ref=f17e538] [cursor=pointer]
+                  - button "계속해서 Pinterest 계정 만들기" [ref=f17e543] [cursor=pointer]:
+                    - generic [ref=f17e544]: 계속하기
+                - paragraph [ref=f17e546]: 또는
+                - generic [ref=f17e549]:
+                  - generic [ref=f17e551]:
+                    - button "Google 계정으로 계속하기. 새 탭에서 열림" [ref=f17e553] [cursor=pointer]:
+                      - generic [ref=f17e555]: Google 계정으로 계속하기
+                    - iframe
+                  - generic:
+                    - generic [aria-hidden]:
+                      - button:
+                        - generic: Google로 계속하기
+              - generic [ref=f17e565]:
+                - generic [ref=f17e567]:
+                  - text: 이미 계정이 있나요?
+                  - link "로그인" [ref=f17e568] [cursor=pointer]:
+                    - /url: /login/
+                - generic [ref=f17e570]:
+                  - text: 비즈니스 계정인가요?
+                  - link "여기에서 시작하세요." [ref=f17e571] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=f17e574]:
+                - text: 계속하면 Pinterest의
+                - link "서비스 약관" [ref=f17e575] [cursor=pointer]:
+                  - /url: /_/_/policy/terms-of-service/
+                - text: 에 동의하고
+                - link "개인정보 보호정책" [ref=f17e576] [cursor=pointer]:
+                  - /url: https://www.pinterest.com/_/_/policy/privacy-policy/
+                - text: 을 읽었음을 인정한 것으로 간주합니다.
+                - link "컬렉션 알림" [ref=f17e577] [cursor=pointer]:
+                  - /url: https://www.pinterest.com/_/_/policy/notice-at-collection
+                - text: .
+        - generic [ref=f17e580]:
+          - generic [ref=f17e581]:
+            - link "Pinterest 홈" [ref=f17e584] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f17e588]:
+              - generic [ref=f17e590]:
+                - generic [ref=f17e591]: 앱 다운로드
+                - generic [ref=f17e592]:
+                  - link "iOS" [ref=f17e595] [cursor=pointer]:
+                    - /url: https://itunes.apple.com/us/app/pinterest/id429047995
+                  - link "Android" [ref=f17e598] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=com.pinterest
+              - generic [ref=f17e600]:
+                - generic [ref=f17e601]: 빠른 링크
+                - generic [ref=f17e602]:
+                  - link "탐색" [ref=f17e605] [cursor=pointer]:
+                    - /url: /ideas/
+                  - link "도움말 센터" [ref=f17e608] [cursor=pointer]:
+                    - /url: https://help.pinterest.com/
+              - generic [ref=f17e610]:
+                - generic [ref=f17e611]: 정책
+                - generic [ref=f17e612]:
+                  - link "서비스 약관" [ref=f17e615] [cursor=pointer]:
+                    - /url: _/_/policy/terms-of-service
+                  - link "개인정보처리방침" [ref=f17e618] [cursor=pointer]:
+                    - /url: _/_/policy/privacy-policy
+                  - link "비사용자 통지" [ref=f17e621] [cursor=pointer]:
+                    - /url: https://policy.pinterest.com/non-user-notice
+          - generic [ref=f17e622]: © 2026 Pinterest
+  - button "새로운 소식 보기" [ref=f17e626] [cursor=pointer]

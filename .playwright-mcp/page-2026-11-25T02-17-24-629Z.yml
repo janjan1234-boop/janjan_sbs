@@ -1,0 +1,74 @@
+- generic [active] [ref=e2]:
+  - banner [ref=e3]:
+    - heading "설정" [level=1] [ref=e8]
+    - generic [ref=e11]:
+      - button [aria-hidden] [ref=e12] [cursor=pointer]
+      - generic [ref=e13]:
+        - generic [aria-hidden] [ref=e14]: 설정 검색
+        - searchbox "설정 검색" [ref=e15]
+  - generic [ref=e16]:
+    - navigation [ref=e19]:
+      - menu [ref=e20]:
+        - generic:
+          - menuitem "내 Google 서비스 설정" [ref=e21] [cursor=pointer]
+          - menuitem "자동 완성 및 비밀번호" [ref=e22] [cursor=pointer]
+          - menuitem "개인 정보 보호 및 보안" [ref=e23] [cursor=pointer]
+          - menuitem "성능" [ref=e24] [cursor=pointer]
+          - menuitem "AI 혁신" [ref=e25] [cursor=pointer]
+          - menuitem "디자인" [ref=e26] [cursor=pointer]
+          - menuitem "검색엔진" [ref=e27] [cursor=pointer]
+          - menuitem "기본 브라우저" [ref=e28] [cursor=pointer]
+          - menuitem "시작 시 설정" [ref=e29] [cursor=pointer]
+          - menuitem "언어" [ref=e31] [cursor=pointer]
+          - menuitem "다운로드" [ref=e32] [cursor=pointer]
+          - menuitem "접근성" [ref=e33] [cursor=pointer]
+          - menuitem "시스템" [ref=e34] [cursor=pointer]
+          - menuitem "설정 초기화" [ref=e35] [cursor=pointer]
+          - menuitem "확장 프로그램" [ref=e37] [cursor=pointer]
+          - menuitem "Chrome 정보" [ref=e39] [cursor=pointer]
+    - main [ref=e40]:
+      - generic [ref=e42]:
+        - generic:
+          - generic [ref=e205]:
+            - heading "개인 정보 보호 가이드 시작" [level=2] [ref=e206]
+            - generic [ref=e207]: Chrome의 주요 개인 정보 보호 및 보안 제어 기능을 검토합니다.
+            - button "시작하기" [ref=e208] [cursor=pointer]
+            - button "나중에" [ref=e210] [cursor=pointer]
+          - generic [ref=e214]:
+            - heading "안전 확인" [level=2] [ref=e216]
+            - generic [ref=e219]:
+              - generic [ref=e221]:
+                - heading [level=3]
+                - generic [ref=e222]: Chrome에서는 브라우저가 가장 안전하게 설정되어 있는지 정기적으로 확인합니다. 검토가 필요한 사항이 있으면 알려 드리겠습니다.
+              - button "안전 확인으로 이동" [ref=e223] [cursor=pointer]
+          - generic [ref=e44]:
+            - heading "개인 정보 보호 및 보안" [level=2] [ref=e46]
+            - generic [ref=e47]:
+              - generic:
+                - generic [ref=e48] [cursor=pointer]:
+                  - generic [ref=e50]:
+                    - generic [aria-hidden] [ref=e51]: 인터넷 사용 기록 삭제
+                    - generic [aria-hidden] [ref=e52]: 방문 기록, 쿠키, 캐시 등 삭제
+                  - link "인터넷 사용 기록 삭제 방문 기록, 쿠키, 캐시 등 삭제" [ref=e53]
+                - generic [ref=e54] [cursor=pointer]:
+                  - generic [ref=e56]:
+                    - generic [aria-hidden] [ref=e57]: 개인 정보 보호 가이드
+                    - generic [aria-hidden] [ref=e58]: 주요 개인 정보 보호 및 보안 제어 기능 검토
+                  - link "개인 정보 보호 가이드 주요 개인 정보 보호 및 보안 제어 기능 검토" [ref=e59]
+                - generic [ref=e60] [cursor=pointer]:
+                  - generic [ref=e62]:
+                    - generic [aria-hidden] [ref=e63]: 서드 파티 쿠키
+                    - generic [aria-hidden] [ref=e64]: 서드 파티 쿠키 허용됨
+                  - link "서드 파티 쿠키 서드 파티 쿠키 허용됨" [ref=e65]
+                - generic [ref=e66] [cursor=pointer]:
+                  - generic [ref=e68]:
+                    - generic [aria-hidden] [ref=e69]: 보안
+                    - generic [aria-hidden] [ref=e70]: 세이프 브라우징(위험한 사이트로부터 보호) 및 기타 보안 설정
+                  - link "보안 세이프 브라우징(위험한 사이트로부터 보호) 및 기타 보안 설정" [ref=e71]
+                - generic [ref=e72] [cursor=pointer]:
+                  - generic [ref=e74]:
+                    - generic [aria-hidden] [ref=e75]: 사이트 설정
+                    - generic [aria-hidden] [ref=e76]: 사이트에서 사용하고 표시할 수 있는 정보(위치, 카메라, 팝업 등) 제어
+                  - link "사이트 설정 사이트에서 사용하고 표시할 수 있는 정보(위치, 카메라, 팝업 등) 제어" [ref=e77]
+                - alert [ref=e225]:
+                  - generic: 삭제됨

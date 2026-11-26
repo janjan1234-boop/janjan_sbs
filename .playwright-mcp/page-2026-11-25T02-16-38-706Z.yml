@@ -1,0 +1,271 @@
+- generic [ref=f2e3]:
+  - progressbar [aria-hidden]
+  - generic [ref=f2e6]:
+    - navigation "사이트 전체":
+      - generic [ref=f2e8]:
+        - link "메인 콘텐츠로 건너뛰기" [ref=f2e9] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - link "바닥글로 건너뛰기" [ref=f2e10] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - list "기본 탐색 데스크탑 메뉴" [ref=f2e11]:
+          - listitem [ref=f2e12]:
+            - link "behance.net으로 이동" [ref=f2e13] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f2e19]:
+            - link "둘러보기" [ref=f2e20] [cursor=pointer]:
+              - /url: /?tracking_source=nav20
+          - listitem [ref=f2e22]:
+            - link "직업" [ref=f2e23] [cursor=pointer]:
+              - /url: /joblist?tracking_source=nav20
+          - listitem [ref=f2e25]:
+            - generic [ref=f2e26] [cursor=pointer]:
+              - link "리소스" [ref=f2e29]:
+                - /url: /resources/commissions?tracking_source=nav20
+              - generic:
+                - generic:
+                  - button "리소스 옵션 열기"
+          - listitem [ref=f2e30]
+          - listitem [ref=f2e32]:
+            - generic [ref=f2e33] [cursor=pointer]:
+              - link "채용" [ref=f2e36]:
+                - /url: /hire?tracking_source=nav20
+              - generic:
+                - generic:
+                  - button "채용 옵션 열기"
+        - form "Behance 검색" [ref=f2e44]:
+          - combobox "Behance 검색" [ref=f2e45]
+        - link "지금 구매" [ref=f2e47] [cursor=pointer]:
+          - /url: /pro?tracking_source=nav20&promoid=WG1BJ4QV&comparisonmodal=true
+        - list [ref=f2e49]:
+          - listitem [ref=f2e50]:
+            - button "로그인" [ref=f2e51] [cursor=pointer]
+        - generic [ref=f2e52]:
+          - link "adobe.com으로 이동" [ref=f2e55] [cursor=pointer]:
+            - /url: https://www.adobe.com?promoid=RTQCN3LX
+          - generic:
+            - generic:
+              - button "Adobe 옵션 열기"
+    - generic [ref=f2e67]:
+      - main [ref=f2e68]:
+        - generic [ref=f2e70]:
+          - generic [ref=f2e71]:
+            - generic [ref=f2e72]:
+              - generic [ref=f2e73]: Behance Pro 소개
+              - heading "Behance Pro로 크리에이티브 경력 쌓기" [level=1] [ref=f2e74]
+              - paragraph [ref=f2e75]:
+                - text: 고급 분석, 0% 플랫폼 수수료 및 다양한 기능을 통해 크리에이티브 경력을 쌓고 더 많은 클라이언트들이 내 작품을 볼 수 있도록 하세요.
+                - link "Pro에 대해 자세히 알아보기" [ref=f2e76] [cursor=pointer]:
+                  - /url: /pro?tracking_source=pro_logged_out_page
+              - button "지금 구매" [ref=f2e77] [cursor=pointer]
+            - region "Behance Pro 캐러셀" [ref=f2e80]:
+              - group [aria-hidden] [ref=f2e82]
+              - generic [ref=f2e84]:
+                - heading "고급 분석" [level=2] [ref=f2e85]
+                - list "캐러셀 탐색" [ref=f2e86]:
+                  - listitem [ref=f2e87]:
+                    - button "Advanced Analytics" [ref=f2e88] [cursor=pointer]
+                  - listitem [ref=f2e90]:
+                    - button "0% Platform Fees" [ref=f2e91] [cursor=pointer]
+                  - listitem [ref=f2e93]:
+                    - button "Adobe Portfolio" [ref=f2e94] [cursor=pointer]
+                  - listitem [ref=f2e96]:
+                    - button "Advanced Project Settings" [ref=f2e97] [cursor=pointer]
+                  - listitem [ref=f2e99]:
+                    - button "Get Noticed" [ref=f2e100] [cursor=pointer]
+                  - listitem [ref=f2e102]:
+                    - button "Profile Customization" [ref=f2e103] [cursor=pointer]
+          - generic [ref=f2e105]:
+            - link "Sabyasachi Koley 새 탭에서 열기" [ref=f2e106] [cursor=pointer]:
+              - /url: /KhoKa
+              - text: Sabyasachi Koley
+              - generic [ref=f2e107]: 새 탭에서 열기
+            - text: 의 작품
+      - contentinfo "기본" [ref=f2e108]:
+        - generic [ref=f2e109]:
+          - link "메인 콘텐츠로 이동" [ref=f2e110] [cursor=pointer]:
+            - /url: javascript:void(0)
+          - button "Behance 추가 정보" [ref=f2e114] [cursor=pointer]
+          - 'button "현재 선택된 언어: 한국어" [ref=f2e118] [cursor=pointer]':
+            - generic [ref=f2e123]: 한국어
+          - list [ref=f2e125]:
+            - listitem [ref=f2e126] [cursor=pointer]:
+              - link [ref=f2e127]:
+                - /url: /pro?tracking_source=footer_pro_marketing_page_loggedOut
+                - paragraph [ref=f2e128]: Behance Pro 사용해 보기
+          - list [ref=f2e130]:
+            - listitem [ref=f2e131]:
+              - link [ref=f2e132] [cursor=pointer]:
+                - /url: https://www.adobe.com/legal/terms.html
+                - paragraph [ref=f2e133]: 사용약관
+            - listitem [ref=f2e134]:
+              - link [ref=f2e135] [cursor=pointer]:
+                - /url: https://www.adobe.com/privacy.html
+                - paragraph [ref=f2e136]: 개인정보
+            - listitem [ref=f2e137]:
+              - link [ref=f2e138] [cursor=pointer]:
+                - /url: /misc/community?tracking_source=footer_infinity_loggedOut
+                - paragraph [ref=f2e139]: 커뮤니티
+            - listitem [ref=f2e140]:
+              - link [ref=f2e141] [cursor=pointer]:
+                - /url: https://help.behance.net/
+                - paragraph [ref=f2e142]: 도움말
+            - listitem [ref=f2e143]:
+              - button "쿠키 환경 설정" [ref=f2e144] [cursor=pointer]
+            - listitem [ref=f2e145]:
+              - link [ref=f2e146] [cursor=pointer]:
+                - /url: https://www.adobe.com/privacy/us-rights.html
+                - paragraph [ref=f2e147]: 내 개인 정보를 판매하거나 공유하지 말 것
+          - generic [ref=f2e148]:
+            - link "adobe.com으로 이동" [ref=f2e151] [cursor=pointer]:
+              - /url: https://www.adobe.com?promoid=RYGDMYVW
+            - generic:
+              - generic:
+                - button "Adobe 옵션 열기":
+                  - generic [ref=f2e163] [cursor=pointer]
+      - contentinfo "기본" [ref=f2e164]:
+        - generic [ref=f2e165]:
+          - link "메인 콘텐츠로 이동" [ref=f2e166] [cursor=pointer]:
+            - /url: javascript:void(0)
+          - generic [ref=f2e167]:
+            - link "Behance" [ref=f2e169] [cursor=pointer]:
+              - /url: /
+              - img "Behance" [ref=f2e170]
+            - generic [ref=f2e173]:
+              - generic [ref=f2e174]:
+                - heading "크리에이티브를 위한 서비스" [level=2] [ref=f2e175]
+                - list [ref=f2e177]:
+                  - listitem [ref=f2e178]:
+                    - link [ref=f2e179] [cursor=pointer]:
+                      - /url: /pro?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e180]: Behance Pro 사용해 보기
+                  - listitem [ref=f2e181]:
+                    - link [ref=f2e182] [cursor=pointer]:
+                      - /url: /galleries?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e183]: 영감 찾기
+                  - listitem [ref=f2e184]:
+                    - link [ref=f2e185] [cursor=pointer]:
+                      - /url: /updates/get-hired-on-behance?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e186]: 신규 채용
+                  - listitem [ref=f2e187]:
+                    - link [ref=f2e188] [cursor=pointer]:
+                      - /url: /updates/behance-assets?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e189]: 크리에이티브 자산 판매
+                  - listitem [ref=f2e190]:
+                    - link [ref=f2e191] [cursor=pointer]:
+                      - /url: /updates/get-hired-on-behance-with-services?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e192]: 프리랜스 서비스 판매
+              - generic [ref=f2e193]:
+                - heading "인재 찾기" [level=2] [ref=f2e194]
+                - list [ref=f2e196]:
+                  - listitem [ref=f2e197]:
+                    - link [ref=f2e198] [cursor=pointer]:
+                      - /url: /joblist?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e199]: 채용 공고
+                  - listitem [ref=f2e200]:
+                    - link [ref=f2e201] [cursor=pointer]:
+                      - /url: /hire/graphic-designers?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e202]: 그래픽 디자이너
+                  - listitem [ref=f2e203]:
+                    - link [ref=f2e204] [cursor=pointer]:
+                      - /url: /hire/photographers?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e205]: 포토그래퍼
+                  - listitem [ref=f2e206]:
+                    - link [ref=f2e207] [cursor=pointer]:
+                      - /url: /hire/video-editors?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e208]: 비디오 편집자
+                  - listitem [ref=f2e209]:
+                    - link [ref=f2e210] [cursor=pointer]:
+                      - /url: /hire/web-designers?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e211]: 웹 디자이너
+                  - listitem [ref=f2e212]:
+                    - link [ref=f2e213] [cursor=pointer]:
+                      - /url: /hire/illustrators?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e214]: 일러스트레이터
+              - generic [ref=f2e215]:
+                - heading "Behance" [level=2] [ref=f2e216]
+                - list [ref=f2e218]:
+                  - listitem [ref=f2e219]:
+                    - link [ref=f2e220] [cursor=pointer]:
+                      - /url: /about?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e221]: Behance 정보
+                  - listitem [ref=f2e222]:
+                    - link [ref=f2e223] [cursor=pointer]:
+                      - /url: https://portfolio.adobe.com/
+                      - paragraph [ref=f2e224]: Adobe Portfolio
+                  - listitem [ref=f2e225]:
+                    - button "앱 다운로드" [ref=f2e226] [cursor=pointer]
+                  - listitem [ref=f2e227]:
+                    - link [ref=f2e228] [cursor=pointer]:
+                      - /url: /blog?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e229]: 블로그
+                  - listitem [ref=f2e230]:
+                    - link [ref=f2e231] [cursor=pointer]:
+                      - /url: https://www.adobe.com/careers.html
+                      - paragraph [ref=f2e232]: Behance에서의 채용 정보
+                  - listitem [ref=f2e233]:
+                    - link [ref=f2e234] [cursor=pointer]:
+                      - /url: https://help.behance.net/
+                      - paragraph [ref=f2e235]: 도움말 센터
+                  - listitem [ref=f2e236]:
+                    - link [ref=f2e237] [cursor=pointer]:
+                      - /url: https://help.behance.net/hc/en-us/requests/new?ticket_form_id=4164
+                      - paragraph [ref=f2e238]: 문의
+                  - listitem [ref=f2e239]:
+                    - link [ref=f2e240] [cursor=pointer]:
+                      - /url: /tags?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e241]: 인기 검색어
+                  - listitem [ref=f2e242]:
+                    - link [ref=f2e243] [cursor=pointer]:
+                      - /url: /login?tracking_source=footer_static_loggedOut
+                      - paragraph [ref=f2e244]: 로그인
+              - generic [ref=f2e245]:
+                - heading "소셜" [level=2] [ref=f2e246]
+                - list [ref=f2e248]:
+                  - listitem [ref=f2e249]:
+                    - link [ref=f2e250] [cursor=pointer]:
+                      - /url: http://instagram.com/behance
+                      - paragraph [ref=f2e251]: Instagram
+                  - listitem [ref=f2e255]:
+                    - link [ref=f2e256] [cursor=pointer]:
+                      - /url: http://twitter.com/behance
+                      - paragraph [ref=f2e257]: 트위터
+                  - listitem [ref=f2e262]:
+                    - link [ref=f2e263] [cursor=pointer]:
+                      - /url: http://www.pinterest.com/behance
+                      - paragraph [ref=f2e264]: Pinterest
+                  - listitem [ref=f2e270]:
+                    - link [ref=f2e271] [cursor=pointer]:
+                      - /url: http://www.facebook.com/Behance
+                      - paragraph [ref=f2e272]: Facebook
+                  - listitem [ref=f2e277]:
+                    - link [ref=f2e278] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/151575
+                      - paragraph [ref=f2e279]: LinkedIn
+          - separator [ref=f2e286]
+          - generic [ref=f2e287]:
+            - generic [ref=f2e288]:
+              - link "adobe.com으로 이동 새 탭에서 열기" [ref=f2e290] [cursor=pointer]:
+                - /url: https://www.adobe.com?promoid=RYGDMYVW
+              - generic [ref=f2e302]: © 2026 Adobe Inc. All rights reserved.
+            - list [ref=f2e303]:
+              - listitem [ref=f2e304]:
+                - 'button "현재 선택된 언어: 한국어" [ref=f2e307] [cursor=pointer]':
+                  - generic [ref=f2e312]: 한국어
+              - listitem [ref=f2e313]:
+                - link [ref=f2e314] [cursor=pointer]:
+                  - /url: https://www.adobe.com/legal/terms.html
+                  - paragraph [ref=f2e315]: 사용약관
+              - listitem [ref=f2e316]:
+                - link [ref=f2e317] [cursor=pointer]:
+                  - /url: https://www.adobe.com/privacy.html
+                  - paragraph [ref=f2e318]: 개인정보
+              - listitem [ref=f2e319]:
+                - link [ref=f2e320] [cursor=pointer]:
+                  - /url: /misc/community?tracking_source=footer_static_loggedOut
+                  - paragraph [ref=f2e321]: 커뮤니티
+              - listitem [ref=f2e322]:
+                - button "쿠키 환경 설정" [ref=f2e323] [cursor=pointer]
+              - listitem [ref=f2e324]:
+                - link [ref=f2e325] [cursor=pointer]:
+                  - /url: https://www.adobe.com/privacy/us-rights.html
+                  - paragraph [ref=f2e326]: 내 개인 정보를 판매하거나 공유하지 말 것

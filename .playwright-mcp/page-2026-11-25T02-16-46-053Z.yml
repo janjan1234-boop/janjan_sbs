@@ -1,0 +1,396 @@
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5] [cursor=pointer]: 콘텐츠로 건너뛰기
+    - generic [ref=e13]:
+      - generic [ref=e16]:
+        - combobox [ref=e2721]
+        - button [ref=e2723] [cursor=pointer]
+      - link [ref=e2724] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=e39]:
+          - generic [ref=e40]: 강
+      - button [expanded] [ref=e2725] [cursor=pointer]
+    - navigation [aria-hidden] [ref=e49]:
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - link [ref=e2727] [cursor=pointer]:
+            - /url: /
+          - link [ref=e2729] [cursor=pointer]:
+            - /url: /
+          - link [ref=e2731] [cursor=pointer]:
+            - /url: /ran4930/
+          - button [ref=e2733] [cursor=pointer]
+          - button [ref=e2735] [cursor=pointer]
+          - button [ref=e2737] [cursor=pointer]
+        - button [ref=e2739] [cursor=pointer]
+    - main [ref=e109]:
+      - generic [ref=e1221]:
+        - button [ref=e2740] [cursor=pointer]
+        - generic [ref=e1232]:
+          - generic [ref=e1233]: 관련 상품 결과를 불러옴
+          - list [ref=e1238]:
+            - listitem [ref=e1239]:
+              - group [ref=e2741]:
+                - generic [ref=e1251]:
+                  - region [ref=e2742]:
+                    - region [ref=e2743]:
+                      - generic [ref=e1267]:
+                        - button [ref=e2744] [cursor=pointer]
+                        - button [ref=e2746] [cursor=pointer]
+                  - generic [ref=e1285]:
+                    - generic [ref=e1288]:
+                      - list [ref=e1289]:
+                        - generic [ref=e1290]:
+                          - listitem [ref=e1292]:
+                            - button [ref=e2749] [cursor=pointer]
+                            - generic [ref=e1301]: "30"
+                          - listitem [ref=e1303]:
+                            - button [ref=e2751] [cursor=pointer]
+                          - listitem [ref=e1313]:
+                            - button [ref=e2753] [cursor=pointer]
+                          - listitem [ref=e1325]:
+                            - button [ref=e2755] [cursor=pointer]
+                      - generic [ref=e1342]:
+                        - button [ref=e2756] [cursor=pointer]:
+                          - generic [ref=e1346]: 프로필
+                        - button [ref=e2758] [cursor=pointer]:
+                          - generic [ref=e1355]: 저장
+                    - generic [ref=e1369]:
+                      - heading [level=4] [ref=e2759]: 설명
+                      - generic [ref=e1371]: "[무술] 무술하는 사람의 여러 동작들을 선의 길이와 강약을 조절해 표현했다."
+                    - generic [ref=e1383]:
+                      - generic [ref=e1385]:
+                        - button [ref=e1387]
+                        - generic [ref=e1391]:
+                          - generic: 의견을 공유하려면 댓글을 추가하세요.
+                          - combobox [ref=e2760]
+                      - generic [ref=e1402]:
+                        - button [ref=e2761] [cursor=pointer]
+                        - button [ref=e2762] [cursor=pointer]
+                        - button [ref=e2763] [cursor=pointer]
+            - listitem [ref=e1419]:
+              - group [ref=e2764]:
+                - generic [ref=e1426]:
+                  - link [ref=e2765] [cursor=pointer]:
+                    - /url: /pin/832391943612971470/
+                  - generic [ref=e1443]:
+                    - heading [level=2] [ref=e2767]:
+                      - link [ref=e2768] [cursor=pointer]:
+                        - /url: /pin/832391943612971470/
+                        - text: La Bayadère 1995
+                    - button [ref=e2770] [cursor=pointer]
+            - listitem [ref=e1460]:
+              - group [ref=e2771]:
+                - generic [ref=e1467]:
+                  - link [ref=e2772] [cursor=pointer]:
+                    - /url: /pin/428616089536959358/
+                  - button [ref=e2775] [cursor=pointer]
+            - listitem [ref=e1494]:
+              - group [ref=e2776]:
+                - generic [ref=e1501]:
+                  - link [ref=e2777] [cursor=pointer]:
+                    - /url: /pin/1110911433081070025/
+                  - button [ref=e2780] [cursor=pointer]
+            - listitem [ref=e1528]:
+              - group [ref=e2781]:
+                - generic [ref=e1535]:
+                  - link [ref=e2782] [cursor=pointer]:
+                    - /url: /pin/149252175144759917/
+                  - button [ref=e2785] [cursor=pointer]
+            - listitem [ref=e1562]:
+              - group [ref=e2786]:
+                - generic [ref=e1569]:
+                  - generic [ref=e1570]:
+                    - link [ref=e2787] [cursor=pointer]:
+                      - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/tablets/galaxy-tab-s12/buy/?modelcode=sm-x940nzaakoo&cid=sec_pd_social_pinterest_tabs12_launch_br-i261004_video_standardvideo-i261004-v2-30s_amf1854-conkw&utm_campaign=626760008713&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092513277
+                    - generic: 0:30
+                  - generic [ref=e1589]:
+                    - generic [ref=e1590]:
+                      - heading [level=2] [ref=e2788]:
+                        - link [ref=e2789] [cursor=pointer]:
+                          - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/tablets/galaxy-tab-s12/buy/?modelcode=sm-x940nzaakoo&cid=sec_pd_social_pinterest_tabs12_launch_br-i261004_video_standardvideo-i261004-v2-30s_amf1854-conkw&utm_campaign=626760008713&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092513277
+                          - generic [ref=e1600]: 갤럭시 탭 S12
+                      - link [ref=e2790] [cursor=pointer]:
+                        - /url: /adlbh0143/
+                        - generic [ref=e1605]:
+                          - generic [ref=e1606]: 삼성전자 Samsung Korea
+                          - generic [ref=e1607]: 후원 핀
+                    - button [ref=e2792] [cursor=pointer]
+            - listitem [ref=e1621]:
+              - group [ref=e2793]:
+                - generic [ref=e1628]:
+                  - link [ref=e2794] [cursor=pointer]:
+                    - /url: /pin/969259151037614045/
+                  - button [ref=e2797] [cursor=pointer]
+            - listitem [ref=e1655]:
+              - group [ref=e2798]:
+                - generic [ref=e1662]:
+                  - link [ref=e2799] [cursor=pointer]:
+                    - /url: /pin/525584219022243908/
+                  - generic [ref=e1679]:
+                    - heading [level=2] [ref=e2801]:
+                      - link [ref=e2802] [cursor=pointer]:
+                        - /url: /pin/525584219022243908/
+                        - text: Lucifer Bleu
+                    - button [ref=e2804] [cursor=pointer]
+            - listitem [ref=e1696]:
+              - group [ref=e2805]:
+                - generic [ref=e1703]:
+                  - link [ref=e2806] [cursor=pointer]:
+                    - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=601105804949859&adg_ctx=a-712ae862~c-5f0bdd19&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=601105804949859&_x_ns_product_id=17621252266126&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                  - generic [ref=e1722]:
+                    - generic [ref=e1723]:
+                      - heading [level=2] [ref=e2808]:
+                        - link [ref=e2809] [cursor=pointer]:
+                          - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=601105804949859&adg_ctx=a-712ae862~c-5f0bdd19&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=601105804949859&_x_ns_product_id=17621252266126&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                          - generic [ref=e1733]: Temu | 크림색과 검은색 라인 피규어가 있는 2D 플랫 추상 인물 아트 그림, 거실 및 침실 장식에 적합, 모던 스타일, 휴일 선물 및 벽 장식 크리스마스 할로윈으로 완벽
+                      - link [ref=e2810] [cursor=pointer]:
+                        - /url: /ads_fb40/
+                        - generic [ref=e1738]:
+                          - generic [ref=e1739]: Temu_Korea
+                          - generic [ref=e1740]: 후원 핀
+                    - button [ref=e2812] [cursor=pointer]
+            - listitem [ref=e1754]:
+              - group [ref=e2813]:
+                - generic [ref=e1761]:
+                  - link [ref=e2814] [cursor=pointer]:
+                    - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=606188125177858&adg_ctx=a-d93cacab~c-0aa929aa&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=606188125177858&_x_ns_product_id=104373141117886&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                  - generic [ref=e1780]:
+                    - generic [ref=e1781]:
+                      - heading [level=2] [ref=e2816]:
+                        - link [ref=e2817] [cursor=pointer]:
+                          - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=606188125177858&adg_ctx=a-d93cacab~c-0aa929aa&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=606188125177858&_x_ns_product_id=104373141117886&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                          - generic [ref=e1791]: Temu | 재사용 가능한 거리 군중 및 그림자 스텐실 टेม플릿 1개 - 수공예품, 페인팅, DIY 스크랩북킹, 도어 사인, 도시 인물 및 그림자가 있는 배경, 캔버스용 색상, 홈 데코, 도어 플레이트에 적합
+                      - link [ref=e2818] [cursor=pointer]:
+                        - /url: /ads_fb40/
+                        - generic [ref=e1796]:
+                          - generic [ref=e1797]: Temu_Korea
+                          - generic [ref=e1798]: 후원 핀
+                    - button [ref=e2820] [cursor=pointer]
+            - listitem [ref=e1812]:
+              - group [ref=e2821]:
+                - generic [ref=e1819]:
+                  - link [ref=e2822] [cursor=pointer]:
+                    - /url: /pin/115897390386861548/
+                  - button [ref=e2825] [cursor=pointer]
+            - listitem [ref=e1846]:
+              - group [ref=e2826]:
+                - generic [ref=e1853]:
+                  - link [ref=e2827] [cursor=pointer]:
+                    - /url: /pin/422705115005667561/
+                  - button [ref=e2830] [cursor=pointer]
+            - listitem [ref=e1880]:
+              - group [ref=e2831]:
+                - generic [ref=e1887]:
+                  - link [ref=e2832] [cursor=pointer]:
+                    - /url: /pin/348888302381980810/
+                  - button [ref=e2835] [cursor=pointer]
+            - listitem [ref=e1914]:
+              - group [ref=e2836]:
+                - generic [ref=e1921]:
+                  - link [ref=e2837] [cursor=pointer]:
+                    - /url: /pin/1139832986985582089/
+                  - button [ref=e2840] [cursor=pointer]
+            - listitem [ref=e1948]:
+              - group [ref=e2841]:
+                - generic [ref=e1955]:
+                  - link [ref=e2842] [cursor=pointer]:
+                    - /url: /pin/1096556209290357480/
+                  - button [ref=e2845] [cursor=pointer]
+            - listitem [ref=e1982]:
+              - group [ref=e2846]:
+                - generic [ref=e1989]:
+                  - link [ref=e2847] [cursor=pointer]:
+                    - /url: /pin/23503229283786793/
+                  - button [ref=e2850] [cursor=pointer]
+            - listitem [ref=e2016]:
+              - generic [ref=e2018]:
+                - heading [level=2] [ref=e2851]: 회원님이 좋아할 만한 아이디어
+                - list [ref=e2021]:
+                  - listitem [ref=e2022]:
+                    - link [ref=e2852] [cursor=pointer]:
+                      - /url: /search/pins/?q=%EB%B0%94%EC%8B%A4%EB%A6%AC%20%EC%B9%B8%EB%94%98%EC%8A%A4%ED%82%A4&rs=srs&b_id=5531439928797512333&source_id=5531439941242004008&request_params=%7B%227%22%3A%20%225531439941242004008%22%2C%20%221%22%3A%20%22139%22%2C%20%228%22%3A%20%225531439928797512333%22%7D&view_parameter_type=3903&pins_display=3&quick_save_icon=1
+                      - generic [ref=e2025]: 바실리 칸딘스키
+                  - listitem [ref=e2032]:
+                    - link [ref=e2853] [cursor=pointer]:
+                      - /url: /search/pins/?q=%EB%9D%BC%EC%9D%B8%EC%95%84%ED%8A%B8&rs=srs&b_id=5531439928797512334&source_id=5531439941242004008&request_params=%7B%227%22%3A%20%225531439941242004008%22%2C%20%221%22%3A%20%22139%22%2C%20%228%22%3A%20%225531439928797512334%22%7D&view_parameter_type=3903&pins_display=3&quick_save_icon=1
+                      - generic [ref=e2035]: 라인아트
+                  - listitem [ref=e2042]:
+                    - link [ref=e2854] [cursor=pointer]:
+                      - /url: /search/pins/?q=%EC%84%A0%20%EB%93%9C%EB%A1%9C%EC%9E%89&rs=srs&b_id=5531439928797512335&source_id=5531439941242004008&request_params=%7B%227%22%3A%20%225531439941242004008%22%2C%20%221%22%3A%20%22139%22%2C%20%228%22%3A%20%225531439928797512335%22%7D&view_parameter_type=3903&pins_display=3&quick_save_icon=1
+                      - generic [ref=e2045]: 선 드로잉
+                  - listitem [ref=e2052]:
+                    - link [ref=e2855] [cursor=pointer]:
+                      - /url: /search/pins/?q=%EA%B8%B0%ED%95%98%ED%95%99%20%EC%98%88%EC%88%A0&rs=srs&b_id=5531439928797512336&source_id=5531439941242004008&request_params=%7B%227%22%3A%20%225531439941242004008%22%2C%20%221%22%3A%20%22139%22%2C%20%228%22%3A%20%225531439928797512336%22%7D&view_parameter_type=3903&pins_display=3&quick_save_icon=1
+                      - generic [ref=e2055]: 기하학 예술
+                  - listitem [ref=e2062]:
+                    - link [ref=e2856] [cursor=pointer]:
+                      - /url: /search/pins/?q=%ED%94%84%EB%A6%B0%ED%8C%85&rs=srs&b_id=5531439928797512337&source_id=5531439941242004008&request_params=%7B%227%22%3A%20%225531439941242004008%22%2C%20%221%22%3A%20%22139%22%2C%20%228%22%3A%20%225531439928797512337%22%7D&view_parameter_type=3903&pins_display=3&quick_save_icon=1
+                      - generic [ref=e2065]: 프린팅
+            - listitem [ref=e2072]:
+              - group [ref=e2857]:
+                - generic [ref=e2079]:
+                  - link [ref=e2858] [cursor=pointer]:
+                    - /url: /pin/309200330668425590/
+                  - button [ref=e2861] [cursor=pointer]
+            - listitem [ref=e2106]:
+              - group [ref=e2862]:
+                - generic [ref=e2113]:
+                  - link [ref=e2863] [cursor=pointer]:
+                    - /url: /pin/848506386028333293/
+                  - button [ref=e2866] [cursor=pointer]
+            - listitem [ref=e2140]:
+              - group [ref=e2867]:
+                - generic [ref=e2147]:
+                  - link [ref=e2868] [cursor=pointer]:
+                    - /url: /pin/400468591847330000/
+                  - generic [ref=e2164]:
+                    - generic [ref=e2165]:
+                      - heading [level=2] [ref=e2870]:
+                        - link [ref=e2871] [cursor=pointer]:
+                          - /url: /pin/400468591847330000/
+                          - text: Sonnet Signatures - Nicholas Rougeux
+                      - link [ref=e2872] [cursor=pointer]:
+                        - /url: /behance/
+                        - generic [ref=e2176]: Behance
+                    - button [ref=e2875] [cursor=pointer]
+            - listitem [ref=e2191]:
+              - group [ref=e2876]:
+                - generic [ref=e2198]:
+                  - link [ref=e2877] [cursor=pointer]:
+                    - /url: /pin/480970435217312353/
+                  - button [ref=e2880] [cursor=pointer]
+            - listitem [ref=e2225]:
+              - group [ref=e2881]:
+                - generic [ref=e2232]:
+                  - generic [ref=e2233]:
+                    - link [ref=e2882] [cursor=pointer]:
+                      - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/tablets/galaxy-tab-s12/buy/?modelcode=sm-x940nzaakoo&cid=sec_pd_social_pinterest_tabs12_launch_br-i261004_video_standardvideo-i261004-v5-15s_amf1854-conkw&utm_campaign=626760008878&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092513591
+                    - generic: 0:25
+                  - generic [ref=e2257]:
+                    - generic [ref=e2258]:
+                      - heading [level=2] [ref=e2884]:
+                        - link [ref=e2885] [cursor=pointer]:
+                          - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/tablets/galaxy-tab-s12/buy/?modelcode=sm-x940nzaakoo&cid=sec_pd_social_pinterest_tabs12_launch_br-i261004_video_standardvideo-i261004-v5-15s_amf1854-conkw&utm_campaign=626760008878&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092513591
+                          - generic [ref=e2268]: 갤럭시 탭 S12
+                      - link [ref=e2886] [cursor=pointer]:
+                        - /url: /adlbh0143/
+                        - generic [ref=e2273]:
+                          - generic [ref=e2274]: 삼성전자 Samsung Korea
+                          - generic [ref=e2275]: 후원 핀
+                    - button [ref=e2888] [cursor=pointer]
+            - listitem [ref=e2289]:
+              - group [ref=e2889]:
+                - generic [ref=e2296]:
+                  - link [ref=e2890] [cursor=pointer]:
+                    - /url: /pin/604397212503054433/
+                  - button [ref=e2893] [cursor=pointer]
+            - listitem [ref=e2323]:
+              - group [ref=e2894]:
+                - generic [ref=e2330]:
+                  - link [ref=e2895] [cursor=pointer]:
+                    - /url: /pin/336855247118110286/
+                  - button [ref=e2898] [cursor=pointer]
+            - listitem [ref=e2357]:
+              - group [ref=e2899]:
+                - generic [ref=e2364]:
+                  - link [ref=e2900] [cursor=pointer]:
+                    - /url: /pin/413697915749120765/
+                  - generic [ref=e2381]:
+                    - heading [level=2] [ref=e2902]:
+                      - link [ref=e2903] [cursor=pointer]:
+                        - /url: /pin/413697915749120765/
+                        - text: "Home - WetCanvas: Online Living for Artists"
+                    - button [ref=e2905] [cursor=pointer]
+            - listitem [ref=e2398]:
+              - group [ref=e2906]:
+                - generic [ref=e2405]:
+                  - link [ref=e2907] [cursor=pointer]:
+                    - /url: /pin/575827502330352140/
+                  - button [ref=e2910] [cursor=pointer]
+            - listitem [ref=e2432]:
+              - group [ref=e2911]:
+                - generic [ref=e2439]:
+                  - link [ref=e2912] [cursor=pointer]:
+                    - /url: /pin/843791680153920419/
+                  - button [ref=e2915] [cursor=pointer]
+            - listitem [ref=e2466]:
+              - group [ref=e2916]:
+                - generic [ref=e2473]:
+                  - link [ref=e2917] [cursor=pointer]:
+                    - /url: /pin/425871708528301504/
+                  - button [ref=e2920] [cursor=pointer]
+            - listitem [ref=e2500]:
+              - group [ref=e2921]:
+                - generic [ref=e2507]:
+                  - link [ref=e2922] [cursor=pointer]:
+                    - /url: /pin/448741550393794471/
+                  - generic [ref=e2524]:
+                    - heading [level=2] [ref=e2924]:
+                      - link [ref=e2925] [cursor=pointer]:
+                        - /url: /pin/448741550393794471/
+                        - text: La Bayadère 1995
+                    - button [ref=e2927] [cursor=pointer]
+            - listitem [ref=e2541]:
+              - group [ref=e2928]:
+                - generic [ref=e2548]:
+                  - link [ref=e2929] [cursor=pointer]:
+                    - /url: /pin/309481805660654407/
+                  - button [ref=e2932] [cursor=pointer]
+            - listitem [ref=e2575]:
+              - group [ref=e2933]:
+                - generic [ref=e2582]:
+                  - link [ref=e2934] [cursor=pointer]:
+                    - /url: /pin/396809417152199045/
+                  - button [ref=e2937] [cursor=pointer]
+            - listitem [ref=e2609]:
+              - group [ref=e2938]:
+                - generic [ref=e2616]:
+                  - link [ref=e2939] [cursor=pointer]:
+                    - /url: /pin/421157002650722352/
+                  - button [ref=e2942] [cursor=pointer]
+            - listitem [ref=e2643]:
+              - group [ref=e2943]:
+                - generic [ref=e2650]:
+                  - link [ref=e2944] [cursor=pointer]:
+                    - /url: /pin/103160647690915803/
+                  - generic [ref=e2667]:
+                    - heading [level=2] [ref=e2946]:
+                      - link [ref=e2947] [cursor=pointer]:
+                        - /url: /pin/103160647690915803/
+                        - text: intro - 타이포그래피 서울
+                    - button [ref=e2949] [cursor=pointer]
+  - generic [ref=e2686]:
+    - generic [ref=e2688]:
+      - generic [ref=e2689]: 이 아이디어를 저장하거나 공유하려고 하시나요?
+      - button [ref=e2950] [cursor=pointer]
+    - generic [ref=e2698]:
+      - button [ref=e2951] [cursor=pointer]:
+        - generic [ref=e2701]:
+          - button [ref=e2703]
+          - generic [ref=e2708]: 저장
+      - button [ref=e2952] [cursor=pointer]:
+        - generic [ref=e2712]:
+          - button [ref=e2714]
+          - generic [ref=e2719]: 공유
+  - generic "계정 옵션" [ref=e2955]:
+    - generic [ref=e2956]:
+      - generic "현재 로그인 계정" [ref=e2957]:
+        - button [ref=e2959] [cursor=pointer]:
+          - link "강 애란 강 애란 개인 ran4930@gmail.com" [active] [ref=e2961]:
+            - /url: /ran4930/
+            - generic [ref=e2966]:
+              - img "강 애란" [ref=e2971]:
+                - generic [ref=e2972]: 강
+              - generic [ref=e2973]:
+                - generic "강 애란" [ref=e2974]
+                - generic "개인" [ref=e2976]
+                - generic "ran4930@gmail.com" [ref=e2978]
+        - button [ref=e2980] [cursor=pointer]:
+          - link "Business 계정으로 전환" [ref=e2982]:
+            - /url: https://www.pinterest.com/convert-business
+      - generic "내 계정" [ref=e2989]:
+        - button [ref=e2991] [cursor=pointer]:
+          - link "Pinterest 계정 추가" [ref=e2993]:
+            - /url: /add-account/
+        - button "로그아웃" [ref=e3000] [cursor=pointer]

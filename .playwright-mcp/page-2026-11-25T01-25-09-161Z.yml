@@ -1,0 +1,327 @@
+- generic [ref=e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=e13]:
+      - generic [ref=e16]:
+        - generic:
+          - img "검색 아이콘"
+        - combobox "검색" [ref=e18]
+        - generic "이미지 업로드" [ref=e22]:
+          - button "Pinterest 렌즈" [ref=e23] [cursor=pointer]
+      - link "내 프로필" [ref=e32] [cursor=pointer]:
+        - /url: /ran4930/
+        - img [ref=e39]:
+          - generic [ref=e40]: 강
+      - button "계정" [ref=e44] [cursor=pointer]
+  - navigation [ref=e49]:
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - generic "홈" [ref=e56]:
+          - link "홈" [ref=e57] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=e64]:
+          - link "홈" [ref=e65] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=e72]:
+          - link "내 보드" [ref=e73] [cursor=pointer]:
+            - /url: /ran4930/
+        - generic "만들기" [ref=e80]:
+          - button "만들기" [ref=e81] [cursor=pointer]
+        - generic "메시지" [ref=e93]:
+          - button "메시지" [ref=e94] [cursor=pointer]
+      - generic "설정 및 지원" [ref=e103]:
+        - button "설정 및 지원" [ref=e104] [cursor=pointer]
+  - main [ref=e109]:
+    - generic [ref=e115]:
+      - heading "홈" [level=1] [ref=e117]
+      - generic [ref=e118]:
+        - generic [ref=e119]: 홈피드에 더 많은 핀을 불러오는 중
+        - list [ref=e124]:
+          - listitem [ref=e125]:
+            - group "핀 카드" [ref=e130]:
+              - generic [ref=e132]:
+                - link "제목 없음 핀 페이지" [ref=e134] [cursor=pointer]:
+                  - /url: /pin/936185841289391845/
+                  - img "포함된 이미지:" [ref=e144]
+                - generic "추가 작업" [ref=e153]:
+                  - button "추가 작업" [ref=e154] [cursor=pointer]
+          - listitem [ref=e159]:
+            - group "핀 카드" [ref=e165]:
+              - generic [ref=e167]:
+                - generic [ref=e168]:
+                  - link "꙳ soda plate 반가운 재입고 기념 현재 할인 중이에요 지금 스토어에서 만나보세요 🤍 핀 페이지" [ref=e169] [cursor=pointer]:
+                    - /url: /pin/852728510752869263/
+                    - generic [ref=e172]:
+                      - generic [ref=e176]:
+                        - img "꙳ soda plate 반가운 재입고 기념 현재 할인 중이에요 지금 스토어에서 만나보세요 🤍" [ref=e180]
+                        - img "꙳ soda plate 반가운 재입고 기념 현재 할인 중이에요 지금 스토어에서 만나보세요 🤍" [ref=e184]
+                        - img "꙳ soda plate 반가운 재입고 기념 현재 할인 중이에요 지금 스토어에서 만나보세요 🤍" [ref=e188]
+                        - img "꙳ soda plate 반가운 재입고 기념 현재 할인 중이에요 지금 스토어에서 만나보세요 🤍" [ref=e192]
+                        - img "꙳ soda plate 반가운 재입고 기념 현재 할인 중이에요 지금 스토어에서 만나보세요 🤍" [ref=e196]
+                        - img "꙳ soda plate 반가운 재입고 기념 현재 할인 중이에요 지금 스토어에서 만나보세요 🤍" [ref=e200]
+                        - img "꙳ soda plate 반가운 재입고 기념 현재 할인 중이에요 지금 스토어에서 만나보세요 🤍" [ref=e204]
+                        - img "꙳ soda plate 반가운 재입고 기념 현재 할인 중이에요 지금 스토어에서 만나보세요 🤍" [ref=e208]
+                        - img "꙳ soda plate 반가운 재입고 기념 현재 할인 중이에요 지금 스토어에서 만나보세요 🤍" [ref=e212]
+                      - generic [ref=e213]: 3/9
+                  - status [ref=e215]
+                - generic "추가 작업" [ref=e224]:
+                  - button "추가 작업" [ref=e225] [cursor=pointer]
+          - listitem [ref=e230]:
+            - group "핀 카드" [ref=e235]:
+              - generic [ref=e237]:
+                - link "料理のプロがこぞって愛用する〈京都の調理道具〉12選 핀 페이지" [ref=e239] [cursor=pointer]:
+                  - /url: /pin/1105563408542844911/
+                  - 'img "포함된 이미지: 料理のプロがこぞって愛用する〈京都の調理道具〉12選" [ref=e249]'
+                - generic [ref=e254]:
+                  - heading [level=2] [ref=e260]:
+                    - link "料理のプロがこぞって愛用する〈京都の調理道具〉12選" [ref=e262] [cursor=pointer]:
+                      - /url: /pin/1105563408542844911/
+                  - generic "추가 작업" [ref=e265]:
+                    - button "추가 작업" [ref=e266] [cursor=pointer]
+          - listitem [ref=e271]:
+            - group "핀 카드" [ref=e276]:
+              - generic [ref=e278]:
+                - link "제목 없음 핀 페이지" [ref=e280] [cursor=pointer]:
+                  - /url: /pin/592293788503375002/
+                  - img "포함된 이미지:" [ref=e290]
+                - generic "추가 작업" [ref=e299]:
+                  - button "추가 작업" [ref=e300] [cursor=pointer]
+          - listitem [ref=e305]:
+            - group "핀 카드" [ref=e310]:
+              - generic [ref=e312]:
+                - link "제목 없음 핀 페이지" [ref=e314] [cursor=pointer]:
+                  - /url: /pin/774408098472069278/
+                  - img "포함된 이미지:" [ref=e324]
+                - generic "추가 작업" [ref=e333]:
+                  - button "추가 작업" [ref=e334] [cursor=pointer]
+          - listitem [ref=e339]:
+            - group "핀 카드" [ref=e344]:
+              - generic [ref=e346]:
+                - link "Ryu.goto (@ryuichiro_goto) / Twitter 핀 페이지" [ref=e348] [cursor=pointer]:
+                  - /url: /pin/359936195232266666/
+                  - 'img "포함된 이미지: Ryu.goto (@ryuichiro_goto) / Twitter" [ref=e358]'
+                - generic [ref=e363]:
+                  - generic [ref=e364]:
+                    - heading [level=2] [ref=e369]:
+                      - link "Ryu.goto (@ryuichiro_goto) / Twitter" [ref=e371] [cursor=pointer]:
+                        - /url: /pin/359936195232266666/
+                    - link "Twitter Inc." [ref=e374] [cursor=pointer]:
+                      - /url: /twitter/
+                      - generic "Twitter Inc." [ref=e381]
+                  - generic "추가 작업" [ref=e384]:
+                    - button "추가 작업" [ref=e385] [cursor=pointer]
+          - listitem [ref=e390]:
+            - group "핀 카드" [ref=e395]:
+              - generic [ref=e397]:
+                - link "Celia Dowson 핀 페이지" [ref=e399] [cursor=pointer]:
+                  - /url: /pin/703756188585187/
+                  - 'img "포함된 이미지: Celia Dowson" [ref=e409]'
+                - generic [ref=e414]:
+                  - heading [level=2] [ref=e420]:
+                    - link "Celia Dowson" [ref=e422] [cursor=pointer]:
+                      - /url: /pin/703756188585187/
+                  - generic "추가 작업" [ref=e425]:
+                    - button "추가 작업" [ref=e426] [cursor=pointer]
+          - listitem [ref=e431]:
+            - group "핀 카드" [ref=e436]:
+              - generic [ref=e438]:
+                - generic [ref=e439]:
+                  - link "samsung.com" [ref=e442] [cursor=pointer]:
+                    - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/tablets/galaxy-tab-s12/buy/?modelcode=sm-x940nzaakoo&cid=sec_pd_social_pinterest_tabs12_launch_br-i261004_video_standardvideo-i261004-v4-30s_amf1854-conkw&utm_campaign=626760008832&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092513519
+                    - img "삼성 AI 구독으로 최대 20% 할인 받고, 갤럭시 탭으로 갈아타자! 6개월 구독료 추가 지원 혜택과 구글 AI Pro 6개월 구독권 무료 증정까지! 다양한 런칭 프로모션을 지금 삼성닷컴에서 확인하세요" [ref=e459]
+                  - generic: 0:30
+                - generic [ref=e463]:
+                  - generic [ref=e464]:
+                    - heading [level=2] [ref=e469]:
+                      - link "갤럭시 탭 S12" [ref=e473] [cursor=pointer]:
+                        - /url: https://www.samsung.com/sec/gateView?redirectUrl=https://www.samsung.com/sec/tablets/galaxy-tab-s12/buy/?modelcode=sm-x940nzaakoo&cid=sec_pd_social_pinterest_tabs12_launch_br-i261004_video_standardvideo-i261004-v4-30s_amf1854-conkw&utm_campaign=626760008832&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680092513519
+                    - link "삼성전자 Samsung Korea 후원 핀" [ref=e477] [cursor=pointer]:
+                      - /url: /adlbh0143/
+                      - generic [ref=e479]:
+                        - generic [ref=e480]: 삼성전자 Samsung Korea
+                        - generic [ref=e481]: 후원 핀
+                  - generic "추가 작업" [ref=e489]:
+                    - button "추가 작업" [ref=e490] [cursor=pointer]
+          - listitem [ref=e495]:
+            - group "핀 카드" [ref=e500]:
+              - generic [ref=e502]:
+                - link "제목 없음 핀 페이지" [ref=e504] [cursor=pointer]:
+                  - /url: /pin/831828993649492600/
+                  - img "포함된 이미지:" [ref=e514]
+                - generic "추가 작업" [ref=e523]:
+                  - button "추가 작업" [ref=e524] [cursor=pointer]
+          - listitem [ref=e529]:
+            - group "핀 카드" [ref=e534]:
+              - generic [ref=e536]:
+                - link "temu.com" [ref=e540] [cursor=pointer]:
+                  - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605575488363148&adg_ctx=a-7818c177~c-01f36c5f&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=605575488363148&_x_ns_product_id=90045398693544&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                  - 'img "포함된 이미지: Temu | 동물 테마 강아지 점토 커터" [ref=e551]'
+                - generic [ref=e555]:
+                  - generic [ref=e556]:
+                    - heading [level=2] [ref=e561]:
+                      - link "Temu | 동물 테마 강아지 점토 커터 6개, 폴리머 클레이 주얼리 제작용 몰드, 봄 점토 몰드, 발렌타인데이 폴리머 클레이 커터, LOVE 테마 선물, 창의적인 사랑 펜던트 모양 커터, 봄 테마, 발렌타인데이 공예 용품, DIY 공예 및 주얼리 제작, 귀걸이 및 열쇠고리용 도구" [ref=e565] [cursor=pointer]:
+                        - /url: https://www.temu.com/ul/kuiper/un3.html?subj=dpa-un&_bg_fs=1&_p_jump_id=1082&_x_vst_scene=adg&goods_id=605575488363148&adg_ctx=a-7818c177~c-01f36c5f&_p_rfs=1&_x_ads_channel=pinterest&_x_ads_creative_id=4260608657129&_x_ads_id=2680082645523&_x_ads_set=626753445840&_x_ads_sub_channel=shopping&_x_ns_catalog_id=1531572374380&_x_ns_creative=4260608657129&_x_ns_gid=605575488363148&_x_ns_product_id=90045398693544&_x_ns_prz_type=101&locale_override=185~~KRW&utm_campaign=626753445840&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680082645523&pp=0
+                    - link "Temu_Korea 후원 핀" [ref=e569] [cursor=pointer]:
+                      - /url: /ads_fb40/
+                      - generic [ref=e571]:
+                        - generic [ref=e572]: Temu_Korea
+                        - generic [ref=e573]: 후원 핀
+                  - generic "추가 작업" [ref=e581]:
+                    - button "추가 작업" [ref=e582] [cursor=pointer]
+          - listitem [ref=e587]:
+            - group "핀 카드" [ref=e592]:
+              - generic [ref=e594]:
+                - link "Keramic studio 핀 페이지" [ref=e596] [cursor=pointer]:
+                  - /url: /pin/461900505551839918/
+                  - 'img "포함된 이미지: Keramic studio" [ref=e606]'
+                - generic [ref=e611]:
+                  - heading [level=2] [ref=e617]:
+                    - link "Keramic studio" [ref=e619] [cursor=pointer]:
+                      - /url: /pin/461900505551839918/
+                  - generic "추가 작업" [ref=e622]:
+                    - button "추가 작업" [ref=e623] [cursor=pointer]
+          - listitem [ref=e628]:
+            - group "핀 카드" [ref=e633]:
+              - generic [ref=e635]:
+                - link "传统纹样设计【茉莉】花纹｜手账oc插画素材库 - 小红书 핀 페이지" [ref=e637] [cursor=pointer]:
+                  - /url: /pin/8022105583556637/
+                  - img "포함된 이미지:" [ref=e647]
+                - generic "추가 작업" [ref=e656]:
+                  - button "추가 작업" [ref=e657] [cursor=pointer]
+          - listitem [ref=e662]:
+            - group "핀 카드" [ref=e667]:
+              - generic [ref=e669]:
+                - link "Annie Yuxi (@annieyuxi) • Instagram photos and videos 핀 페이지" [ref=e671] [cursor=pointer]:
+                  - /url: /pin/1100496858949264252/
+                  - img "포함된 이미지:" [ref=e681]
+                - generic "추가 작업" [ref=e690]:
+                  - button "추가 작업" [ref=e691] [cursor=pointer]
+          - listitem [ref=e696]:
+            - group "핀 카드" [ref=e701]:
+              - generic [ref=e703]:
+                - link "imweb.me" [ref=e707] [cursor=pointer]:
+                  - /url: https://imweb.me/theme?template=S20260730799f6bd21729a&utm_source=da_pinterest&utm_medium=cpm&utm_campaign=dp-pinterest-traffic&utm_content=pc_2549mf_nonCommerce_lawfirm&utm_term=nonCommerce_lawfirm&pp=0
+                  - 'img "포함된 이미지: 로펌 사이트 제작은 아임웹" [ref=e718]'
+                - generic [ref=e722]:
+                  - generic [ref=e723]:
+                    - heading [level=2] [ref=e728]:
+                      - link "로펌 사이트 제작은 아임웹" [ref=e732] [cursor=pointer]:
+                        - /url: https://imweb.me/theme?template=S20260730799f6bd21729a&utm_source=da_pinterest&utm_medium=cpm&utm_campaign=dp-pinterest-traffic&utm_content=pc_2549mf_nonCommerce_lawfirm&utm_term=nonCommerce_lawfirm&pp=0
+                    - link "imweb 후원 핀" [ref=e736] [cursor=pointer]:
+                      - /url: /imweb_official/
+                      - generic [ref=e738]:
+                        - generic [ref=e739]: imweb
+                        - generic [ref=e740]: 후원 핀
+                  - generic "추가 작업" [ref=e748]:
+                    - button "추가 작업" [ref=e749] [cursor=pointer]
+          - listitem [ref=e754]:
+            - group "핀 카드" [ref=e759]:
+              - generic [ref=e761]:
+                - link "DALDA도자기(달다도자기) (@_dalda_dalda) • Fotos y vídeos de Instagram 핀 페이지" [ref=e763] [cursor=pointer]:
+                  - /url: /pin/593278950940131054/
+                  - img "포함된 이미지:" [ref=e773]
+                - generic "추가 작업" [ref=e782]:
+                  - button "추가 작업" [ref=e783] [cursor=pointer]
+          - listitem [ref=e788]:
+            - group "핀 카드" [ref=e793]:
+              - generic [ref=e795]:
+                - 'link "#제품제공 | 이달 말 오픈되는 무자기 다관세트를 먼저 만나보았어요🫧🫖 무자기 감성의 다완과 티무자기 3종구성이며 공식스마트스토어에 선런칭 된답니다ǃ 혼자서 따뜻한 티 타임 즐기기 너무 좋더라구요？정갈한 원목 박스 패키징 참 예쁘지않나요ㅎ 차 한잔의 여유를 선물하고싶은 소중한 분들에게 드리기 너무 좋을 것 같아요. 𝗠𝗨𝗝𝗔𝗚𝗜 𝟳𝘁𝗵 𝗖𝗿𝗮𝗳𝘁𝗲𝗿 ❁ 10월 말 오픈 예정 :: Ebori daily teapot 이보리 다관 세트 thanks to. @mujagi_official #mujagi #무자기 #mujagicrafter7 핀 페이지" [ref=e797] [cursor=pointer]':
+                  - /url: /pin/656892295686872517/
+                  - img "포함된 이미지:" [ref=e807]
+                - generic "추가 작업" [ref=e816]:
+                  - button "추가 작업" [ref=e817] [cursor=pointer]
+          - listitem [ref=e822]:
+            - group "핀 카드" [ref=e827]:
+              - generic [ref=e829]:
+                - link "제목 없음 핀 페이지" [ref=e831] [cursor=pointer]:
+                  - /url: /pin/922112092469537019/
+                  - img "포함된 이미지:" [ref=e841]
+                - generic "추가 작업" [ref=e850]:
+                  - button "추가 작업" [ref=e851] [cursor=pointer]
+          - listitem [ref=e856]:
+            - group "핀 카드" [ref=e862]:
+              - generic [ref=e864]:
+                - generic [ref=e865]:
+                  - 'link "Fabric : Polyester 100% Color : dark navy Detail : silver embroidery Size 17x17cm Price : 1. choker 950 bath 2. 2in1 (brooch & choker) 980 bath Freeshipping Order : inbox/dm #endproof 핀 페이지" [ref=e866] [cursor=pointer]':
+                    - /url: /pin/1064116218601662187/
+                    - generic [ref=e873]:
+                      - 'img "Fabric : Polyester 100% Color : dark navy Detail : silver embroidery Size 17x17cm Price : 1. choker 950 bath 2. 2in1 (brooch & choker) 980 bath Freeshipping Order : inbox/dm #endproof" [ref=e877]'
+                      - 'img "Fabric : Polyester 100% Color : dark navy Detail : silver embroidery Size 17x17cm Price : 1. choker 950 bath 2. 2in1 (brooch & choker) 980 bath Freeshipping Order : inbox/dm #endproof" [ref=e881]'
+                      - 'img "Fabric : Polyester 100% Color : dark navy Detail : silver embroidery Size 17x17cm Price : 1. choker 950 bath 2. 2in1 (brooch & choker) 980 bath Freeshipping Order : inbox/dm #endproof" [ref=e885]'
+                      - 'img "Fabric : Polyester 100% Color : dark navy Detail : silver embroidery Size 17x17cm Price : 1. choker 950 bath 2. 2in1 (brooch & choker) 980 bath Freeshipping Order : inbox/dm #endproof" [ref=e889]'
+                  - status [ref=e890]
+                - generic [ref=e893]:
+                  - generic [ref=e896]:
+                    - button "4개 슬라이드 중 1번으로 이동" [ref=e898] [cursor=pointer]
+                    - button "4개 슬라이드 중 2번으로 이동" [ref=e901] [cursor=pointer]
+                    - button "4개 슬라이드 중 3번으로 이동" [ref=e904] [cursor=pointer]
+                    - button "4개 슬라이드 중 4번으로 이동" [ref=e907] [cursor=pointer]
+                  - generic "추가 작업" [ref=e914]:
+                    - button "추가 작업" [ref=e915] [cursor=pointer]
+          - listitem [ref=e920]:
+            - group "핀 카드" [ref=e925]:
+              - generic [ref=e927]:
+                - link "제목 없음 핀 페이지" [ref=e929] [cursor=pointer]:
+                  - /url: /pin/236439049181129276/
+                  - img "포함된 이미지:" [ref=e939]
+                - generic "추가 작업" [ref=e948]:
+                  - button "추가 작업" [ref=e949] [cursor=pointer]
+          - listitem [ref=e954]:
+            - group "핀 카드" [ref=e959]:
+              - generic [ref=e961]:
+                - link "제목 없음 핀 페이지" [ref=e963] [cursor=pointer]:
+                  - /url: /pin/635429828701317509/
+                  - img "포함된 이미지:" [ref=e973]
+                - generic "추가 작업" [ref=e982]:
+                  - button "추가 작업" [ref=e983] [cursor=pointer]
+          - listitem [ref=e988]:
+            - group "핀 카드" [ref=e993]:
+              - generic [ref=e995]:
+                - link "제목 없음 핀 페이지" [ref=e997] [cursor=pointer]:
+                  - /url: /pin/333618284919757166/
+                  - img "포함된 이미지:" [ref=e1007]
+                - generic "추가 작업" [ref=e1016]:
+                  - button "추가 작업" [ref=e1017] [cursor=pointer]
+          - listitem [ref=e1022]:
+            - group "핀 카드" [ref=e1027]:
+              - generic [ref=e1029]:
+                - link "Blue bunny teapot 핀 페이지" [ref=e1031] [cursor=pointer]:
+                  - /url: /pin/491455378074334911/
+                  - img "포함된 이미지:" [ref=e1041]
+                - generic "추가 작업" [ref=e1050]:
+                  - button "추가 작업" [ref=e1051] [cursor=pointer]
+          - listitem [ref=e1056]:
+            - group "핀 카드" [ref=e1061]:
+              - generic [ref=e1063]:
+                - link "제목 없음 핀 페이지" [ref=e1065] [cursor=pointer]:
+                  - /url: /pin/934919203917528495/
+                  - img "포함된 이미지:" [ref=e1075]
+                - generic "추가 작업" [ref=e1084]:
+                  - button "추가 작업" [ref=e1085] [cursor=pointer]
+          - listitem [ref=e1090]:
+            - group "핀 카드" [ref=e1095]:
+              - generic [ref=e1097]:
+                - link "【楽天市場】リサラーソン（リサ・ラーソン）ケンネル プードル ミディアム イヌ 動物 LisaLarson（Lisa Larson）Kennel Poodle 114020 犬・ドッグ・陶器置物・北欧・オブジェ：daily-3 핀 페이지" [ref=e1099] [cursor=pointer]:
+                  - /url: /pin/650981321154458598/
+                  - img "포함된 이미지:" [ref=e1109]
+                - generic "추가 작업" [ref=e1118]:
+                  - button "추가 작업" [ref=e1119] [cursor=pointer]
+          - listitem [ref=e1124]:
+            - group "핀 카드" [ref=e1129]:
+              - generic [ref=e1131]:
+                - link "제목 없음 핀 페이지" [ref=e1133] [cursor=pointer]:
+                  - /url: /pin/1065945805560778669/
+                  - img "포함된 이미지:" [ref=e1143]
+                - generic "추가 작업" [ref=e1152]:
+                  - button "추가 작업" [ref=e1153] [cursor=pointer]
+          - listitem [ref=e1158]
+          - listitem [ref=e1162]
+          - listitem [ref=e1166]
+          - listitem [ref=e1170]
+          - listitem [ref=e1174]
+          - listitem [ref=e1178]
+          - listitem [ref=e1182]
+          - listitem [ref=e1186]
+          - listitem [ref=e1190]
+          - listitem [ref=e1194]

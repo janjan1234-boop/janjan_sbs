@@ -1,0 +1,56 @@
+[    5357ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fgs_ssp%3DeJzj4tVP1zc0TDYuLitPjq9SYDRgdGDw4n87teFty4bXCzredC1527UDAOg4D9s%26q%3D%25ED%2595%2580%25ED%2584%25B0%25EB%25A0%2588%25EC%258A%25A4%25ED%258A%25B8%26oq%3Dvlsxjf%26gs_lcrp%3DEgZjaHJvbWUqEwgBEC4YgwEYxwEYsQMY0QMYgAQyBggAEEUYOTITCAEQLhiDARjHARixAxjRAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQBRhA0gEIMTgwMmowajeoAgGwAgE%26sourceid%3Dchrome%26source%3Dchrome.ob%26ie%3DUTF-8&q=EgRw2XnqGI-PmdgGIjBBVfrcbN0q7N97wOL5YIzUhJlEPfQeUZpATYeKNaqWC86QoLgcu5MonfZoxrZxaVYyAnJSWgFDYJWeq4iB8JqgsAE:1
+[    5482ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbTo0NDM.&hl=ko&v=DqDoLJqJmjhqr0vRwNZ2MCHA&size=normal&s=hX6i7g07FWLR_PUmjF3U12-NVEVMutRhWMrukqg1Wee2xD5AWMk_TuceSHc8bsY-UXfYleF1dTRkHCq9-VsRKq4qR_LeDPold7gY2S5faUiBBxC6QO45FDNC-7dEeRDxqIjLV-lMTOlqETeEzV0U6oDKtEQo4wSNZqtjhpA8TiVKnO0x56cu8k_Y5qhd6vbVYLbtupZ0MFO6rscAf9jPVO2M_jLx6QSOsJox8JL8vNoaCJoxEtfWsQicSS7FhckOYv3xxOWp_BPHrE1hXwpsfN-e-0yKkIo&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=pfzpc7vvdush:1
+[    5504ms] ReferenceError: solveSimpleChallenge is not defined
+    at onload (https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fgs_ssp%3DeJzj4tVP1zc0TDYuLitPjq9SYDRgdGDw4n87teFty4bXCzredC1527UDAOg4D9s%26q%3D%25ED%2595%2580%25ED%2584%25B0%25EB%25A0%2588%25EC%258A%25A4%25ED%258A%25B8%26oq%3Dvlsxjf%26gs_lcrp%3DEgZjaHJvbWUqEwgBEC4YgwEYxwEYsQMY0QMYgAQyBggAEEUYOTITCAEQLhiDARjHARixAxjRAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQBRhA0gEIMTgwMmowajeoAgGwAgE%26sourceid%3Dchrome%26source%3Dchrome.ob%26ie%3DUTF-8&q=EgRw2XnqGI-PmdgGIjBBVfrcbN0q7N97wOL5YIzUhJlEPfQeUZpATYeKNaqWC86QoLgcu5MonfZoxrZxaVYyAnJSWgFDYJWeq4iB8JqgsAE:4:316)
+[    5720ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://www.google.com/recaptcha/enterprise/bframe?hl=ko&v=DqDoLJqJmjhqr0vRwNZ2MCHA&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&bft=0dAFcWeA5_OJ0vRdPiXQuKpL7TSNTVp69xj4Upr6ygFR-o9eOlGTuSZo9FgqWrO857U8mpn6T9b_OwqZjRl1At0HV9RwXVy5w1jg:1
+[  158295ms] [ERROR] Executing inline event handler violates the following Content Security Policy directive 'script-src 'nonce-F-NIqM-1CFNWWSuCJb3J7g' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:'. Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list. The action has been blocked. @ https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TDYuLitPjq9SYDRgdGDw4n87teFty4bXCzredC1527UDAOg4D9s&q=%ED%95%80%ED%84%B0%EB%A0%88%EC%8A%A4%ED%8A%B8&oq=vlsxjf&gs_lcrp=EgZjaHJvbWUqEwgBEC4YgwEYxwEYsQMY0QMYgAQyBggAEEUYOTITCAEQLhiDARjHARixAxjRAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQBRhA0gEIMTgwMmowajeoAgGwAgE&sourceid=chrome&source=chrome.ob&ie=UTF-8:1
+[  160460ms] [ERROR] Unexpected hydration error Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+    at Suspense (<anonymous>)
+    at h (https://s1.pinimg.com/webapp/13611.ko_KR-d98e57e3a812d4db.mjs:35:84878)
+    at ne (https://s1.pinimg.com/webapp/www/_client.ko_KR-92f485c4a031dfca.mjs:232:14260)
+    at an (https://s1.pinimg.com/webapp/www/_client.ko_KR-92f485c4a031dfca.mjs:232:35106)
+    at al (https://s1.pinimg.com/webapp/www/_client.ko_KR-92f485c4a031dfca.mjs:232:36204)
+    at hZ (https://s1.pinimg.com/webapp/www/_client.ko_KR-92f485c4a031dfca.mjs:363:93185)
+    at reduxProvider (https://s1.pinimg.com/webapp/www/_client.ko_KR-92f485c4a031dfca.mjs:367:171875)
+    at https://s1.pinimg.com/webapp/www/_client.ko_KR-92f485c4a031dfca.mjs:367:153413
+    at yp (https://s1.pinimg.com/webapp/www/_client.ko_KR-92f485c4a031dfca.mjs:367:121705)
+    at yh (https://s1.pinimg.com/webapp/www/_client.ko_KR-92f485c4a031dfca.mjs:367:121781)
+    at f3 (https://s1.pinimg.com/webapp/www/_client.ko_KR-92f485c4a031dfca.mjs:367:117938)
+    at O (https://s1.pinimg.com/webapp/45804.ko_KR-5dd117793798df9a.mjs:1:42378)
+    at s (https://s1.pinimg.com/webapp/13611.ko_KR-d98e57e3a812d4db.mjs:35:17722)
+    at e.exports (https://s1.pinimg.com/webapp/vendor-react-fcf49ab5b3740949.mjs:9:80705)
+    at s (https://s1.pinimg.com/webapp/14953.ko_KR-726f31723c3c5003.mjs:1:99301)
+    at _ (https://s1.pinimg.com/webapp/13611.ko_KR-d98e57e3a812d4db.mjs:35:1607)
+    at f4 (https://s1.pinimg.com/webapp/www/_client.ko_KR-92f485c4a031dfca.mjs:367:118825)
+    at tj (https://s1.pinimg.com/webapp/vendor-react-fcf49ab5b3740949.mjs:14:6445)
+    at tz (https://s1.pinimg.com/webapp/vendor-react-fcf49ab5b3740949.mjs:14:4337)
+    at https://s1.pinimg.com/webapp/vendor-react-fcf49ab5b3740949.mjs:14:12727
+    at nt (https://s1.pinimg.com/webapp/vendor-react-fcf49ab5b3740949.mjs:14:15376)
+    at t6 (https://s1.pinimg.com/webapp/vendor-react-fcf49ab5b3740949.mjs:14:9086)
+    at Suspense (<anonymous>) @ https://s1.pinimg.com/webapp/www/_client.ko_KR-92f485c4a031dfca.mjs:367
+[  160602ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://accounts.google.com/gsi/client?hl=ko:89
+[  160840ms] [ERROR] Not signed in with the identity provider. @ https://kr.pinterest.com/:1
+[  161003ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://kr.pinterest.com/secure/unauth_user_data/:1
+[  164343ms] [WARNING] The resource https://s1.pinimg.com/webapp/FullPageSignup.ko_KR-ade4b73a2e045ccf.mjs was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:1
+[  164343ms] [WARNING] The resource https://s1.pinimg.com/webapp/SignupUpsellModal.ko_KR-9576d2133348c547.mjs was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:1
+[  164343ms] [WARNING] The resource https://s1.pinimg.com/webapp/95349-6a89234a390cd708.mjs was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:1
+[  164343ms] [WARNING] The resource https://s1.pinimg.com/webapp/3848-e8bac6ddd4b23e56.mjs was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:1
+[  165939ms] [ERROR] Executing inline event handler violates the following Content Security Policy directive 'script-src 'nonce-6gkHY9mPvSRTABWCVLfWVQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:'. Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list. The action has been blocked. @ https://www.google.com/search?q=%EB%B9%84%ED%95%B8%EC%8A%A4&oq=qlgost&gs_lcrp=EgZjaHJvbWUqDwgBEEUYOxiDARixAxiABDIGCAAQRRg5Mg8IARBFGDsYgwEYsQMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyCggEEAAYgAQYtAcyBwgFEAAYgAQyBwgGEAAYgAQyBggHEAUYQNIBCDE1ODdqMGo0qAIAsAIB&sourceid=chrome&source=chrome.ob&ie=UTF-8:1
+[  167259ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.behance.net/:1
+[  167646ms] [ERROR] Hydration completed but contains mismatches. @ https://www.behance.net/:13
+[  168166ms] [WARNING] All required parameters not yet supplied: authParams, variant @ https://www.behance.net/:13
+[  168166ms] [WARNING] All required parameters not yet supplied: authParams, variant @ https://www.behance.net/:13
+[  168166ms] [WARNING] All required parameters not yet supplied: authParams, variant @ https://www.behance.net/:13
+[  168166ms] [WARNING] All required parameters not yet supplied: authParams, variant @ https://www.behance.net/:13
+[  168166ms] [WARNING] All required parameters not yet supplied: authParams, variant @ https://www.behance.net/:13
+[  168166ms] [WARNING] All required parameters not yet supplied: authParams, variant @ https://www.behance.net/:13
+[  168166ms] [WARNING] All required parameters not yet supplied: authParams, variant @ https://www.behance.net/:13
+[  168166ms] [WARNING] All required parameters not yet supplied: authParams, variant @ https://www.behance.net/:13
+[  168166ms] [WARNING] All required parameters not yet supplied: authParams @ https://www.behance.net/:13
+[  168218ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://www.behance.net/:13
+[  168363ms] [ERROR] Not signed in with the identity provider. @ https://www.behance.net/:1
+[  169820ms] [LOG] Going to iterate over instancesSettings @ https://www.behance.net/:13
+[  170244ms] [LOG] {portEvent: MessageEvent} @ https://auth-light.identity.adobe.com/sentry/iframe/index.html?client_id=BehanceWebSusi1&relay=3007aba5-1509-4496-9f54-662bd32ff625&asserted_origin=https%3A%2F%2Fwww.behance.net:365
+[  170244ms] [LOG] {event: Object} @ https://auth-light.identity.adobe.com/sentry/iframe/index.html?client_id=BehanceWebSusi1&relay=3007aba5-1509-4496-9f54-662bd32ff625&asserted_origin=https%3A%2F%2Fwww.behance.net:189
+[  170284ms] [LOG] {portEvent: MessageEvent} @ https://auth-light.identity.adobe.com/sentry/iframe/index.html?client_id=BehanceWebSusi1&relay=3007aba5-1509-4496-9f54-662bd32ff625&asserted_origin=https%3A%2F%2Fwww.behance.net:365
+[  170284ms] [LOG] {event: Object} @ https://auth-light.identity.adobe.com/sentry/iframe/index.html?client_id=BehanceWebSusi1&relay=3007aba5-1509-4496-9f54-662bd32ff625&asserted_origin=https%3A%2F%2Fwww.behance.net:189

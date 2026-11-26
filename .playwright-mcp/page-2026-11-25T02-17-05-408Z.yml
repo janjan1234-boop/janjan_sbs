@@ -1,0 +1,103 @@
+- generic [active] [ref=e2]:
+  - banner [ref=e3]:
+    - heading "설정" [level=1] [ref=e8]
+    - generic [ref=e11]:
+      - button [aria-hidden] [ref=e12] [cursor=pointer]
+      - generic [ref=e13]:
+        - generic [aria-hidden] [ref=e14]: 설정 검색
+        - searchbox "설정 검색" [ref=e15]
+  - generic [ref=e16]:
+    - navigation [ref=e19]:
+      - menu [ref=e20]:
+        - generic:
+          - menuitem "내 Google 서비스 설정" [ref=e21] [cursor=pointer]
+          - menuitem "자동 완성 및 비밀번호" [ref=e22] [cursor=pointer]
+          - menuitem "개인 정보 보호 및 보안" [ref=e23] [cursor=pointer]
+          - menuitem "성능" [ref=e24] [cursor=pointer]
+          - menuitem "AI 혁신" [ref=e25] [cursor=pointer]
+          - menuitem "디자인" [ref=e26] [cursor=pointer]
+          - menuitem "검색엔진" [ref=e27] [cursor=pointer]
+          - menuitem "기본 브라우저" [ref=e28] [cursor=pointer]
+          - menuitem "시작 시 설정" [ref=e29] [cursor=pointer]
+          - menuitem "언어" [ref=e31] [cursor=pointer]
+          - menuitem "다운로드" [ref=e32] [cursor=pointer]
+          - menuitem "접근성" [ref=e33] [cursor=pointer]
+          - menuitem "시스템" [ref=e34] [cursor=pointer]
+          - menuitem "설정 초기화" [ref=e35] [cursor=pointer]
+          - menuitem "확장 프로그램" [ref=e37] [cursor=pointer]
+          - menuitem "Chrome 정보" [ref=e39] [cursor=pointer]
+    - main [ref=e40]:
+      - generic [ref=e44]:
+        - heading "개인 정보 보호 및 보안" [level=2] [ref=e46]
+        - generic [ref=e47]:
+          - generic:
+            - dialog "인터넷 사용 기록 삭제" [ref=e79]:
+              - generic [ref=e80]:
+                - heading "인터넷 사용 기록 삭제" [level=2] [ref=e82]
+                - generic [ref=e85]:
+                  - button "지난 15분" [ref=e87] [cursor=pointer]
+                  - button "지난 1시간" [ref=e89] [cursor=pointer]
+                  - button "지난 24시간" [ref=e92] [cursor=pointer]
+                  - button "전체 기간" [pressed] [ref=e158] [cursor=pointer]
+                  - button "더보기" [ref=e96] [cursor=pointer]
+                - generic [ref=e99]:
+                  - generic [ref=e100]:
+                    - generic [ref=e103] [cursor=pointer]:
+                      - checkbox "방문 기록 pinterest.com 외 사이트 12개에서" [checked] [ref=e160]
+                      - generic [ref=e106]:
+                        - generic:
+                          - generic [ref=e107]: 방문 기록
+                          - generic [ref=e109]: pinterest.com 외 사이트 12개에서
+                    - generic [ref=e113] [cursor=pointer]:
+                      - checkbox "쿠키 및 기타 사이트 데이터 사이트 156개입니다." [checked] [ref=e161]
+                      - generic [ref=e116]:
+                        - generic:
+                          - generic [ref=e117]: 쿠키 및 기타 사이트 데이터
+                          - generic [ref=e119]: 사이트 156개입니다.
+                    - generic [ref=e123] [cursor=pointer]:
+                      - checkbox "캐시된 이미지 및 파일 319MB" [checked] [ref=e162]
+                      - generic [ref=e126]:
+                        - generic:
+                          - generic [ref=e127]: 캐시된 이미지 및 파일
+                          - generic [ref=e129]: 319MB
+                    - generic [ref=e133] [cursor=pointer]:
+                      - checkbox "다운로드 기록 항목 6개" [checked] [ref=e134]
+                      - generic [ref=e136]:
+                        - generic:
+                          - generic [ref=e137]: 다운로드 기록
+                          - generic [ref=e139]: 항목 6개
+                  - button "자세히 보기" [ref=e141] [cursor=pointer]
+                  - generic [ref=e144] [cursor=pointer]:
+                    - generic [ref=e145]:
+                      - generic [aria-hidden] [ref=e146]: 기타 Google 데이터 관리
+                      - generic [aria-hidden] [ref=e147]: 관리 설정에서 비밀번호를 삭제할 수 있습니다.
+                    - link "기타 Google 데이터 관리 관리 설정에서 비밀번호를 삭제할 수 있습니다." [ref=e148]
+                - generic [ref=e149]:
+                  - button "취소" [ref=e150] [cursor=pointer]
+                  - button "이 기기에서 삭제" [ref=e152] [cursor=pointer]
+                  - alert
+            - generic [ref=e48] [cursor=pointer]:
+              - generic [ref=e50]:
+                - generic [aria-hidden] [ref=e51]: 인터넷 사용 기록 삭제
+                - generic [aria-hidden] [ref=e52]: 방문 기록, 쿠키, 캐시 등 삭제
+              - link "인터넷 사용 기록 삭제 방문 기록, 쿠키, 캐시 등 삭제" [ref=e53]
+            - generic [ref=e54] [cursor=pointer]:
+              - generic [ref=e56]:
+                - generic [aria-hidden] [ref=e57]: 개인 정보 보호 가이드
+                - generic [aria-hidden] [ref=e58]: 주요 개인 정보 보호 및 보안 제어 기능 검토
+              - link "개인 정보 보호 가이드 주요 개인 정보 보호 및 보안 제어 기능 검토" [ref=e59]
+            - generic [ref=e60] [cursor=pointer]:
+              - generic [ref=e62]:
+                - generic [aria-hidden] [ref=e63]: 서드 파티 쿠키
+                - generic [aria-hidden] [ref=e64]: 서드 파티 쿠키 허용됨
+              - link "서드 파티 쿠키 서드 파티 쿠키 허용됨" [ref=e65]
+            - generic [ref=e66] [cursor=pointer]:
+              - generic [ref=e68]:
+                - generic [aria-hidden] [ref=e69]: 보안
+                - generic [aria-hidden] [ref=e70]: 세이프 브라우징(위험한 사이트로부터 보호) 및 기타 보안 설정
+              - link "보안 세이프 브라우징(위험한 사이트로부터 보호) 및 기타 보안 설정" [ref=e71]
+            - generic [ref=e72] [cursor=pointer]:
+              - generic [ref=e74]:
+                - generic [aria-hidden] [ref=e75]: 사이트 설정
+                - generic [aria-hidden] [ref=e76]: 사이트에서 사용하고 표시할 수 있는 정보(위치, 카메라, 팝업 등) 제어
+              - link "사이트 설정 사이트에서 사용하고 표시할 수 있는 정보(위치, 카메라, 팝업 등) 제어" [ref=e77]
