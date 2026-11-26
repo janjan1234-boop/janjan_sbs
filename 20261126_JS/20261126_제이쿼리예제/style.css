@@ -1,0 +1,48 @@
+body{
+     margin: 0 auto;
+    padding: 0;
+}
+.memo{
+    margin-left: auto;
+    margin-right:auto;
+    margin-top:30px;
+    margin-bottom:auto;
+    width: 300px;
+    height: 300px;
+    background-color: beige;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+button{
+    background-color: black;
+    width: 160px;
+    height: 40px;
+    color: #fff;
+    border-style: none;
+    border-radius: 30px;
+    font-size: 14px;
+}
+
+button:hover{
+    background-color: chocolate;
+    cursor: pointer;
+}
+
+button.active{
+    background-color: brown;
+}
+
+.text{
+    width: 200px;
+    height: 200px;
+}
+p{
+    color: beige;
+    text-align: center;
+}
+p.action{
+    color:brown
+}
